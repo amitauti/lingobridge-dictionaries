@@ -1,0 +1,72 @@
+{
+  "manifestVersion": 1,
+  "sequence": 1,
+  "dictionaries": [
+    {
+      "id": "business-cmn",
+      "languageCode": "cmn",
+      "domainId": "business",
+      "version": 1,
+      "schemaVersion": 1,
+      "path": "business-cmn.json",
+      "sha256": "2ac7fd5422f6852069a306c274788541417a14d73906f9a527443ea1b30eda29",
+      "sizeBytes": 50940,
+      "entryCount": 75
+    },
+    {
+      "id": "everyday-cmn",
+      "languageCode": "cmn",
+      "domainId": "everyday",
+      "version": 1,
+      "schemaVersion": 1,
+      "path": "everyday-cmn.json",
+      "sha256": "26d43e4c4cb906ea5d145e534cf21ed2985eb9b4ff82f3f0d375e7170fdb0e9b",
+      "sizeBytes": 51762,
+      "entryCount": 75
+    },
+    {
+      "id": "food-cmn",
+      "languageCode": "cmn",
+      "domainId": "food",
+      "version": 1,
+      "schemaVersion": 1,
+      "path": "food-cmn.json",
+      "sha256": "5f067385bce17204009bef857f5013ee0f0430759a7e03aa9f9cbd531b792eb5",
+      "sizeBytes": 46678,
+      "entryCount": 75
+    },
+    {
+      "id": "hsk1-cmn",
+      "languageCode": "cmn",
+      "domainId": "hsk1",
+      "version": 1,
+      "schemaVersion": 1,
+      "path": "hsk1-cmn.json",
+      "sha256": "9bfe68b91b2078c584871086db46712b138013b08ec53b464403e74ddd8b711f",
+      "sizeBytes": 41593,
+      "entryCount": 75
+    },
+    {
+      "id": "hsk2-cmn",
+      "languageCode": "cmn",
+      "domainId": "hsk2",
+      "version": 1,
+      "schemaVersion": 1,
+      "path": "hsk2-cmn.json",
+      "sha256": "a06686006c534395c4bc42087ed7109e6fd2496cf37a8ec4a3abc35ce3094c30",
+      "sizeBytes": 43522,
+      "entryCount": 75
+    },
+    {
+      "id": "travel-cmn",
+      "languageCode": "cmn",
+      "domainId": "travel",
+      "version": 1,
+      "schemaVersion": 1,
+      "path": "travel-cmn.json",
+      "sha256": "5d3ad3bcfa450d07cdc30f4bdfeaccf3b24c34b19584ecc9dfa1916cb52ac20b",
+      "sizeBytes": 48755,
+      "entryCount": 75
+    }
+  ]
+}

@@ -1,0 +1,1241 @@
+{
+  "schemaVersion": 1,
+  "id": "hsk1-cmn",
+  "languageCode": "cmn",
+  "domainId": "hsk1",
+  "version": 1,
+  "entries": [
+    {
+      "chineseCharacter": "你好",
+      "pinyin": "ni3 hao3",
+      "devanagariPhonetic": "नि हाओ",
+      "toneNumbers": [
+        3,
+        3
+      ],
+      "englishDefinition": "hello, hi",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Standard polite greeting used when meeting someone",
+      "audioFileName": null,
+      "exampleSentence": "Hello! Nice to meet you.",
+      "exampleSentenceChinese": "你好！很高兴认识你。",
+      "exampleSentenceDevanagari": "नि हाओ हेन गाओ शिङ रेन शि नि"
+    },
+    {
+      "chineseCharacter": "谢谢",
+      "pinyin": "xie4 xie5",
+      "devanagariPhonetic": "शिए शिए",
+      "toneNumbers": [
+        4,
+        5
+      ],
+      "englishDefinition": "thank you, thanks",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Expressing gratitude in everyday situations",
+      "audioFileName": null,
+      "exampleSentence": "Thank you for your help.",
+      "exampleSentenceChinese": "谢谢你的帮助。",
+      "exampleSentenceDevanagari": "शिए शिए नि दे बाङ झु"
+    },
+    {
+      "chineseCharacter": "不客气",
+      "pinyin": "bu2 ke4 qi5",
+      "devanagariPhonetic": "बु खे चि",
+      "toneNumbers": [
+        2,
+        4,
+        5
+      ],
+      "englishDefinition": "you're welcome",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Polite response to thank you (xiexie)",
+      "audioFileName": null,
+      "exampleSentence": "You're welcome, don't mention it.",
+      "exampleSentenceChinese": "不客气，不用谢。",
+      "exampleSentenceDevanagari": "बु खे चि बु योङ शिए"
+    },
+    {
+      "chineseCharacter": "再见",
+      "pinyin": "zai4 jian4",
+      "devanagariPhonetic": "जाइ जिआन",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "goodbye, see you again",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Standard parting phrase when leaving",
+      "audioFileName": null,
+      "exampleSentence": "Goodbye, see you tomorrow!",
+      "exampleSentenceChinese": "再见，明天见！",
+      "exampleSentenceDevanagari": "जाइ जिआन मिङ थिआन जिआन"
+    },
+    {
+      "chineseCharacter": "请",
+      "pinyin": "qing3",
+      "devanagariPhonetic": "चिङ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "please, to invite",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Polite particle used before verbs (please enter, please sit)",
+      "audioFileName": null,
+      "exampleSentence": "Please sit down and have a cup of tea.",
+      "exampleSentenceChinese": "请坐，请喝茶。",
+      "exampleSentenceDevanagari": "चिङ जुओ चिङ हे छा"
+    },
+    {
+      "chineseCharacter": "对不起",
+      "pinyin": "dui4 bu5 qi3",
+      "devanagariPhonetic": "दुइ बु चि",
+      "toneNumbers": [
+        4,
+        5,
+        3
+      ],
+      "englishDefinition": "sorry, excuse me",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Apologizing for a mistake or inconvenience",
+      "audioFileName": null,
+      "exampleSentence": "I'm sorry, I am late.",
+      "exampleSentenceChinese": "对不起，我迟到了。",
+      "exampleSentenceDevanagari": "दुइ बु चि वो छि दाओ ले"
+    },
+    {
+      "chineseCharacter": "没关系",
+      "pinyin": "mei2 guan1 xi5",
+      "devanagariPhonetic": "मेइ गुआन शि",
+      "toneNumbers": [
+        2,
+        1,
+        5
+      ],
+      "englishDefinition": "it doesn't matter, that's all right",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Reassuring someone who has apologized",
+      "audioFileName": null,
+      "exampleSentence": "It doesn't matter, don't worry.",
+      "exampleSentenceChinese": "没关系，别担心。",
+      "exampleSentenceDevanagari": "मेइ गुआन शि बिए दान शिन"
+    },
+    {
+      "chineseCharacter": "我",
+      "pinyin": "wo3",
+      "devanagariPhonetic": "वो",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "I, me",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "First-person singular pronoun",
+      "audioFileName": null,
+      "exampleSentence": "I am a student.",
+      "exampleSentenceChinese": "我是学生。",
+      "exampleSentenceDevanagari": "वो शि शुए शेङ"
+    },
+    {
+      "chineseCharacter": "你",
+      "pinyin": "ni3",
+      "devanagariPhonetic": "नि",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "you (singular)",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Second-person singular pronoun",
+      "audioFileName": null,
+      "exampleSentence": "Are you busy today?",
+      "exampleSentenceChinese": "你今天忙吗？",
+      "exampleSentenceDevanagari": "नि जिन थिआन माङ मा"
+    },
+    {
+      "chineseCharacter": "他",
+      "pinyin": "ta1",
+      "devanagariPhonetic": "था",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "he, him",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Third-person masculine pronoun",
+      "audioFileName": null,
+      "exampleSentence": "He is my Chinese teacher.",
+      "exampleSentenceChinese": "他是我的中文老师。",
+      "exampleSentenceDevanagari": "था शि वो दे झोङ वेन लाओ शि"
+    },
+    {
+      "chineseCharacter": "她",
+      "pinyin": "ta1",
+      "devanagariPhonetic": "था",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "she, her",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Third-person feminine pronoun",
+      "audioFileName": null,
+      "exampleSentence": "She likes reading books.",
+      "exampleSentenceChinese": "她喜欢看书。",
+      "exampleSentenceDevanagari": "था शि हुआन खान शु"
+    },
+    {
+      "chineseCharacter": "我们",
+      "pinyin": "wo3 men5",
+      "devanagariPhonetic": "वो मेन",
+      "toneNumbers": [
+        3,
+        5
+      ],
+      "englishDefinition": "we, us",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "First-person plural pronoun",
+      "audioFileName": null,
+      "exampleSentence": "We are good friends.",
+      "exampleSentenceChinese": "我们是好朋友。",
+      "exampleSentenceDevanagari": "वो मेन शि हाओ फेङ योउ"
+    },
+    {
+      "chineseCharacter": "你们",
+      "pinyin": "ni3 men5",
+      "devanagariPhonetic": "नि मेन",
+      "toneNumbers": [
+        3,
+        5
+      ],
+      "englishDefinition": "you (plural)",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Second-person plural pronoun",
+      "audioFileName": null,
+      "exampleSentence": "Are you all ready?",
+      "exampleSentenceChinese": "你们准备好了吗？",
+      "exampleSentenceDevanagari": "नि मेन झुन बेइ हाओ ले मा"
+    },
+    {
+      "chineseCharacter": "他们",
+      "pinyin": "ta1 men5",
+      "devanagariPhonetic": "था मेन",
+      "toneNumbers": [
+        1,
+        5
+      ],
+      "englishDefinition": "they, them",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Third-person plural pronoun",
+      "audioFileName": null,
+      "exampleSentence": "They are all doctors.",
+      "exampleSentenceChinese": "他们都是医生。",
+      "exampleSentenceDevanagari": "था मेन दोउ शि यि शेङ"
+    },
+    {
+      "chineseCharacter": "这",
+      "pinyin": "zhe4",
+      "devanagariPhonetic": "झे",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "this, these",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Demonstrative pronoun pointing to near objects",
+      "audioFileName": null,
+      "exampleSentence": "This is my book.",
+      "exampleSentenceChinese": "这是我的书。",
+      "exampleSentenceDevanagari": "झे शि वो दे शु"
+    },
+    {
+      "chineseCharacter": "那",
+      "pinyin": "na4",
+      "devanagariPhonetic": "ना",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "that, those",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Demonstrative pronoun pointing to distant objects",
+      "audioFileName": null,
+      "exampleSentence": "That is our school.",
+      "exampleSentenceChinese": "那是我们的学校。",
+      "exampleSentenceDevanagari": "ना शि वो मेन दे शुए शिआओ"
+    },
+    {
+      "chineseCharacter": "什么",
+      "pinyin": "shen2 me5",
+      "devanagariPhonetic": "शेन मे",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "what",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Interrogative pronoun asking about things",
+      "audioFileName": null,
+      "exampleSentence": "What is your name?",
+      "exampleSentenceChinese": "你叫什么名字？",
+      "exampleSentenceDevanagari": "नि जिआओ शेन मे मिङ जि"
+    },
+    {
+      "chineseCharacter": "谁",
+      "pinyin": "shei2",
+      "devanagariPhonetic": "शेइ",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "who, whom",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Interrogative pronoun asking about a person",
+      "audioFileName": null,
+      "exampleSentence": "Who is that person?",
+      "exampleSentenceChinese": "那个人是谁？",
+      "exampleSentenceDevanagari": "ना गे रेन शि शेइ"
+    },
+    {
+      "chineseCharacter": "哪",
+      "pinyin": "na3",
+      "devanagariPhonetic": "ना",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "which",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Interrogative pronoun asking for a selection",
+      "audioFileName": null,
+      "exampleSentence": "Which country are you from?",
+      "exampleSentenceChinese": "你是哪国人？",
+      "exampleSentenceDevanagari": "नि शि ना गुओ रेन"
+    },
+    {
+      "chineseCharacter": "哪里",
+      "pinyin": "na3 li3",
+      "devanagariPhonetic": "ना लि",
+      "toneNumbers": [
+        3,
+        3
+      ],
+      "englishDefinition": "where",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Interrogative pronoun asking for location",
+      "audioFileName": null,
+      "exampleSentence": "Where is the washroom?",
+      "exampleSentenceChinese": "洗手间在哪里？",
+      "exampleSentenceDevanagari": "शि शोउ जिआन जाइ ना लि"
+    },
+    {
+      "chineseCharacter": "怎么",
+      "pinyin": "zen3 me5",
+      "devanagariPhonetic": "जेन मे",
+      "toneNumbers": [
+        3,
+        5
+      ],
+      "englishDefinition": "how, in what way",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Asking about manner or method",
+      "audioFileName": null,
+      "exampleSentence": "How do you write this character?",
+      "exampleSentenceChinese": "这个字怎么写？",
+      "exampleSentenceDevanagari": "झे गे जि जेन मे शिए"
+    },
+    {
+      "chineseCharacter": "多少",
+      "pinyin": "duo1 shao5",
+      "devanagariPhonetic": "दुओ शाओ",
+      "toneNumbers": [
+        1,
+        5
+      ],
+      "englishDefinition": "how much, how many",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Asking about quantity or price",
+      "audioFileName": null,
+      "exampleSentence": "How much is this item?",
+      "exampleSentenceChinese": "这个多少钱？",
+      "exampleSentenceDevanagari": "झे गे दुओ शाओ चिआन"
+    },
+    {
+      "chineseCharacter": "几",
+      "pinyin": "ji3",
+      "devanagariPhonetic": "जि",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "how many (small number), a few",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Asking for small counts, usually under 10",
+      "audioFileName": null,
+      "exampleSentence": "What time is it now?",
+      "exampleSentenceChinese": "现在几点了？",
+      "exampleSentenceDevanagari": "शिआन जाइ जि दिआन ले"
+    },
+    {
+      "chineseCharacter": "好",
+      "pinyin": "hao3",
+      "devanagariPhonetic": "हाओ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "good, fine, well",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Describing quality, state, or agreement",
+      "audioFileName": null,
+      "exampleSentence": "The weather is very good today.",
+      "exampleSentenceChinese": "今天天气很好。",
+      "exampleSentenceDevanagari": "जिन थिआन थिआन चि हेन हाओ"
+    },
+    {
+      "chineseCharacter": "大",
+      "pinyin": "da4",
+      "devanagariPhonetic": "दा",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "big, large",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Describing size, age, or magnitude",
+      "audioFileName": null,
+      "exampleSentence": "This room is very big.",
+      "exampleSentenceChinese": "这个房间很大。",
+      "exampleSentenceDevanagari": "झे गे फाङ जिआन हेन दा"
+    },
+    {
+      "chineseCharacter": "小",
+      "pinyin": "xiao3",
+      "devanagariPhonetic": "शिआओ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "small, little",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Describing small physical size or young age",
+      "audioFileName": null,
+      "exampleSentence": "This cup is too small.",
+      "exampleSentenceChinese": "这个杯子太小了。",
+      "exampleSentenceDevanagari": "झे गे बेइ जि थाइ शिआओ ले"
+    },
+    {
+      "chineseCharacter": "多",
+      "pinyin": "duo1",
+      "devanagariPhonetic": "दुओ",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "many, much",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Describing large amount or quantity",
+      "audioFileName": null,
+      "exampleSentence": "There are many people here.",
+      "exampleSentenceChinese": "这里人很多。",
+      "exampleSentenceDevanagari": "झे लि रेन हेन दुओ"
+    },
+    {
+      "chineseCharacter": "少",
+      "pinyin": "shao3",
+      "devanagariPhonetic": "शाओ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "few, little",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Describing small amount or quantity",
+      "audioFileName": null,
+      "exampleSentence": "I have very little money today.",
+      "exampleSentenceChinese": "我今天钱很少。",
+      "exampleSentenceDevanagari": "वो जिन थिआन चिआन हेन शाओ"
+    },
+    {
+      "chineseCharacter": "冷",
+      "pinyin": "leng3",
+      "devanagariPhonetic": "लेङ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "cold",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Describing low temperature or feeling cold",
+      "audioFileName": null,
+      "exampleSentence": "It is very cold outside.",
+      "exampleSentenceChinese": "外面很冷。",
+      "exampleSentenceDevanagari": "वाइ मिआन हेन लेङ"
+    },
+    {
+      "chineseCharacter": "热",
+      "pinyin": "re4",
+      "devanagariPhonetic": "रे",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "hot",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Describing high temperature or heat",
+      "audioFileName": null,
+      "exampleSentence": "The weather is hot in the summer.",
+      "exampleSentenceChinese": "夏天天气很热。",
+      "exampleSentenceDevanagari": "शिआ थिआन थिआन चि हेन रे"
+    },
+    {
+      "chineseCharacter": "很",
+      "pinyin": "hen3",
+      "devanagariPhonetic": "हेन",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "very, quite",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Adverb of degree placed before adjectives",
+      "audioFileName": null,
+      "exampleSentence": "I am very happy today.",
+      "exampleSentenceChinese": "我今天很高兴。",
+      "exampleSentenceDevanagari": "वो जिन थिआन हेन गाओ शिङ"
+    },
+    {
+      "chineseCharacter": "太",
+      "pinyin": "tai4",
+      "devanagariPhonetic": "थाइ",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "too, extremely",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Expressing excessive degree, often with 'le'",
+      "audioFileName": null,
+      "exampleSentence": "This is great!",
+      "exampleSentenceChinese": "这太好了！",
+      "exampleSentenceDevanagari": "झे थाइ हाओ ले"
+    },
+    {
+      "chineseCharacter": "都",
+      "pinyin": "dou1",
+      "devanagariPhonetic": "दोउ",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "all, both",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Emphasizing inclusion of all subjects",
+      "audioFileName": null,
+      "exampleSentence": "We all like Chinese food.",
+      "exampleSentenceChinese": "我们都喜欢中国菜。",
+      "exampleSentenceDevanagari": "वो मेन दोउ शि हुआन झोङ गुओ छाइ"
+    },
+    {
+      "chineseCharacter": "不",
+      "pinyin": "bu4",
+      "devanagariPhonetic": "बु",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "not, no",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Standard negation particle for verbs and adjectives",
+      "audioFileName": null,
+      "exampleSentence": "I am not going to school today.",
+      "exampleSentenceChinese": "我今天不去学校。",
+      "exampleSentenceDevanagari": "वो जिन थिआन बु चु शुए शिआओ"
+    },
+    {
+      "chineseCharacter": "没有",
+      "pinyin": "mei2 you3",
+      "devanagariPhonetic": "मेइ योउ",
+      "toneNumbers": [
+        2,
+        3
+      ],
+      "englishDefinition": "to not have, there is no",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Negation of possession or existence (you)",
+      "audioFileName": null,
+      "exampleSentence": "I do not have time today.",
+      "exampleSentenceChinese": "我今天没有时间。",
+      "exampleSentenceDevanagari": "वो जिन थिआन मेइ योउ शि जिआन"
+    },
+    {
+      "chineseCharacter": "是",
+      "pinyin": "shi4",
+      "devanagariPhonetic": "शि",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "to be, yes",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Copula linking subject and predicate",
+      "audioFileName": null,
+      "exampleSentence": "He is my friend.",
+      "exampleSentenceChinese": "他是我的朋友。",
+      "exampleSentenceDevanagari": "था शि वो दे फेङ योउ"
+    },
+    {
+      "chineseCharacter": "有",
+      "pinyin": "you3",
+      "devanagariPhonetic": "योउ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "to have, there is",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Expressing possession or existence",
+      "audioFileName": null,
+      "exampleSentence": "I have three books.",
+      "exampleSentenceChinese": "我有三本书。",
+      "exampleSentenceDevanagari": "वो योउ सान बेन शु"
+    },
+    {
+      "chineseCharacter": "在",
+      "pinyin": "zai4",
+      "devanagariPhonetic": "जाइ",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "at, in, on",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Indicating location or ongoing action",
+      "audioFileName": null,
+      "exampleSentence": "Teacher is at school.",
+      "exampleSentenceChinese": "老师在学校。",
+      "exampleSentenceDevanagari": "लाओ शि जाइ शुए शिआओ"
+    },
+    {
+      "chineseCharacter": "去",
+      "pinyin": "qu4",
+      "devanagariPhonetic": "चु",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "to go",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Action of moving away toward a destination",
+      "audioFileName": null,
+      "exampleSentence": "We are going to Beijing tomorrow.",
+      "exampleSentenceChinese": "我们明天去北京。",
+      "exampleSentenceDevanagari": "वो मेन मिङ थिआन चु बेइ जिङ"
+    },
+    {
+      "chineseCharacter": "来",
+      "pinyin": "lai2",
+      "devanagariPhonetic": "लाइ",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "to come",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Action of moving toward the speaker",
+      "audioFileName": null,
+      "exampleSentence": "Welcome to my home!",
+      "exampleSentenceChinese": "欢迎来我家！",
+      "exampleSentenceDevanagari": "हुआन यिङ लाइ वो जिआ"
+    },
+    {
+      "chineseCharacter": "看",
+      "pinyin": "kan4",
+      "devanagariPhonetic": "खान",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "to look, see, read, watch",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Visual perception or reading/watching",
+      "audioFileName": null,
+      "exampleSentence": "I like watching movies.",
+      "exampleSentenceChinese": "我喜欢看电影。",
+      "exampleSentenceDevanagari": "वो शि हुआन खान दिआन यिङ"
+    },
+    {
+      "chineseCharacter": "听",
+      "pinyin": "ting1",
+      "devanagariPhonetic": "थिङ",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "to listen, hear",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Auditory perception",
+      "audioFileName": null,
+      "exampleSentence": "Listen to the teacher carefully.",
+      "exampleSentenceChinese": "请认真听老师说。",
+      "exampleSentenceDevanagari": "चिङ रेन झेन थिङ लाओ शि शुओ"
+    },
+    {
+      "chineseCharacter": "说",
+      "pinyin": "shuo1",
+      "devanagariPhonetic": "शुओ",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "to speak, say",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Vocal expression or communication",
+      "audioFileName": null,
+      "exampleSentence": "He speaks Chinese very well.",
+      "exampleSentenceChinese": "他说中文很好。",
+      "exampleSentenceDevanagari": "था शुओ झोङ वेन हेन हाओ"
+    },
+    {
+      "chineseCharacter": "读",
+      "pinyin": "du2",
+      "devanagariPhonetic": "दु",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "to read aloud, study",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Reading texts or books",
+      "audioFileName": null,
+      "exampleSentence": "Please read this sentence aloud.",
+      "exampleSentenceChinese": "请读这个句子。",
+      "exampleSentenceDevanagari": "चिङ दु झे गे जु जि"
+    },
+    {
+      "chineseCharacter": "写",
+      "pinyin": "xie3",
+      "devanagariPhonetic": "शिए",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "to write",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Writing characters, letters, or words",
+      "audioFileName": null,
+      "exampleSentence": "I am learning to write Chinese characters.",
+      "exampleSentenceChinese": "我在学习写汉字。",
+      "exampleSentenceDevanagari": "वो जाइ शुए शि शिए हान जि"
+    },
+    {
+      "chineseCharacter": "吃",
+      "pinyin": "chi1",
+      "devanagariPhonetic": "छि",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "to eat",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Consuming food",
+      "audioFileName": null,
+      "exampleSentence": "What would you like to eat?",
+      "exampleSentenceChinese": "你想吃什么？",
+      "exampleSentenceDevanagari": "नि शिआङ छि शेन मे"
+    },
+    {
+      "chineseCharacter": "喝",
+      "pinyin": "he1",
+      "devanagariPhonetic": "हे",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "to drink",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Consuming beverages",
+      "audioFileName": null,
+      "exampleSentence": "I want to drink warm water.",
+      "exampleSentenceChinese": "我想喝温水。",
+      "exampleSentenceDevanagari": "वो शिआङ हे वेन शुइ"
+    },
+    {
+      "chineseCharacter": "买",
+      "pinyin": "mai3",
+      "devanagariPhonetic": "माइ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "to buy, purchase",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Purchasing items in stores or markets",
+      "audioFileName": null,
+      "exampleSentence": "I want to buy some fruit.",
+      "exampleSentenceChinese": "我想买一些水果。",
+      "exampleSentenceDevanagari": "वो शिआङ माइ यि शिए शुइ गुओ"
+    },
+    {
+      "chineseCharacter": "开",
+      "pinyin": "kai1",
+      "devanagariPhonetic": "खाइ",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "to open, drive",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Opening doors/windows or driving a vehicle",
+      "audioFileName": null,
+      "exampleSentence": "He knows how to drive a car.",
+      "exampleSentenceChinese": "他会开汽车。",
+      "exampleSentenceDevanagari": "था हुइ खाइ चि छ"
+    },
+    {
+      "chineseCharacter": "坐",
+      "pinyin": "zuo4",
+      "devanagariPhonetic": "जुओ",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "to sit, ride",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Sitting down or taking public transportation",
+      "audioFileName": null,
+      "exampleSentence": "We take the airplane to Beijing.",
+      "exampleSentenceChinese": "我们坐飞机去北京。",
+      "exampleSentenceDevanagari": "वो मेन जुओ फेइ जि चु बेइ जिङ"
+    },
+    {
+      "chineseCharacter": "住",
+      "pinyin": "zhu4",
+      "devanagariPhonetic": "झु",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "to live, stay",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Residing at a place or staying at a hotel",
+      "audioFileName": null,
+      "exampleSentence": "Where do you live?",
+      "exampleSentenceChinese": "你住在哪里？",
+      "exampleSentenceDevanagari": "नि झु जाइ ना लि"
+    },
+    {
+      "chineseCharacter": "叫",
+      "pinyin": "jiao4",
+      "devanagariPhonetic": "जिआओ",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "to be called, call",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Stating one's name or calling someone",
+      "audioFileName": null,
+      "exampleSentence": "My name is Wang Ming.",
+      "exampleSentenceChinese": "我叫王明。",
+      "exampleSentenceDevanagari": "वो जिआओ वाङ मिङ"
+    },
+    {
+      "chineseCharacter": "认识",
+      "pinyin": "ren4 shi5",
+      "devanagariPhonetic": "रेन शि",
+      "toneNumbers": [
+        4,
+        5
+      ],
+      "englishDefinition": "to recognize, know",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Knowing a person or recognizing a character",
+      "audioFileName": null,
+      "exampleSentence": "Nice to meet you.",
+      "exampleSentenceChinese": "认识你很高兴。",
+      "exampleSentenceDevanagari": "रेन शि नि हेन गाओ शिङ"
+    },
+    {
+      "chineseCharacter": "学习",
+      "pinyin": "xue2 xi2",
+      "devanagariPhonetic": "शुए शि",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "to study, learn",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Academic or professional learning",
+      "audioFileName": null,
+      "exampleSentence": "I am studying Chinese every day.",
+      "exampleSentenceChinese": "我每天学习中文。",
+      "exampleSentenceDevanagari": "वो मेइ थिआन शुए शि झोङ वेन"
+    },
+    {
+      "chineseCharacter": "工作",
+      "pinyin": "gong1 zuo4",
+      "devanagariPhonetic": "गोङ जुओ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "to work, job",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Professional occupation or working",
+      "audioFileName": null,
+      "exampleSentence": "He works at a hospital.",
+      "exampleSentenceChinese": "他在医院工作。",
+      "exampleSentenceDevanagari": "था जाइ यि युआन गोङ जुओ"
+    },
+    {
+      "chineseCharacter": "想",
+      "pinyin": "xiang3",
+      "devanagariPhonetic": "शिआङ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "to want, think, miss",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Expressing desires, thoughts, or longing",
+      "audioFileName": null,
+      "exampleSentence": "I want to go home now.",
+      "exampleSentenceChinese": "我现在想回家。",
+      "exampleSentenceDevanagari": "वो शिआन जाइ शिआङ हुइ जिआ"
+    },
+    {
+      "chineseCharacter": "会",
+      "pinyin": "hui4",
+      "devanagariPhonetic": "हुइ",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "can, know how to, will",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Acquired skill or future likelihood",
+      "audioFileName": null,
+      "exampleSentence": "I can speak a little Chinese.",
+      "exampleSentenceChinese": "我会说一点中文。",
+      "exampleSentenceDevanagari": "वो हुइ शुओ यि दिआन झोङ वेन"
+    },
+    {
+      "chineseCharacter": "能",
+      "pinyin": "neng2",
+      "devanagariPhonetic": "नेङ",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "can, be able to",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Physical capability or permission",
+      "audioFileName": null,
+      "exampleSentence": "Can you come tomorrow?",
+      "exampleSentenceChinese": "你明天能来吗？",
+      "exampleSentenceDevanagari": "नि मिङ थिआन नेङ लाइ मा"
+    },
+    {
+      "chineseCharacter": "喜欢",
+      "pinyin": "xi3 huan1",
+      "devanagariPhonetic": "शि हुआन",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "to like, be fond of",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Expressing preference or affection",
+      "audioFileName": null,
+      "exampleSentence": "I like drinking Chinese tea.",
+      "exampleSentenceChinese": "我喜欢喝中国茶。",
+      "exampleSentenceDevanagari": "वो शि हुआन हे झोङ गुओ छा"
+    },
+    {
+      "chineseCharacter": "爱",
+      "pinyin": "ai4",
+      "devanagariPhonetic": "आइ",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "to love",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Expressing deep affection or strong liking",
+      "audioFileName": null,
+      "exampleSentence": "I love my family.",
+      "exampleSentenceChinese": "我爱我的家。",
+      "exampleSentenceDevanagari": "वो आइ वो दे जिआ"
+    },
+    {
+      "chineseCharacter": "人",
+      "pinyin": "ren2",
+      "devanagariPhonetic": "रेन",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "person, people",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Referring to human beings or nationality",
+      "audioFileName": null,
+      "exampleSentence": "There are five people here.",
+      "exampleSentenceChinese": "这里有五个人。",
+      "exampleSentenceDevanagari": "झे लि योउ वु गे रेन"
+    },
+    {
+      "chineseCharacter": "名字",
+      "pinyin": "ming2 zi5",
+      "devanagariPhonetic": "मिङ जि",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "name",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Personal given or full name",
+      "audioFileName": null,
+      "exampleSentence": "His name is very easy to remember.",
+      "exampleSentenceChinese": "他的名字很好记。",
+      "exampleSentenceDevanagari": "था दे मिङ जि हेन हाओ जि"
+    },
+    {
+      "chineseCharacter": "朋友",
+      "pinyin": "peng2 you5",
+      "devanagariPhonetic": "फेङ योउ",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "friend",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Companion or acquaintance",
+      "audioFileName": null,
+      "exampleSentence": "He is my good friend.",
+      "exampleSentenceChinese": "他是我的好朋友。",
+      "exampleSentenceDevanagari": "था शि वो दे हाओ फेङ योउ"
+    },
+    {
+      "chineseCharacter": "老师",
+      "pinyin": "lao3 shi1",
+      "devanagariPhonetic": "लाओ शि",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "teacher",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Educator or instructor",
+      "audioFileName": null,
+      "exampleSentence": "Teacher is writing Chinese characters on the board.",
+      "exampleSentenceChinese": "老师在写汉字。",
+      "exampleSentenceDevanagari": "लाओ शि जाइ शिए हान जि"
+    },
+    {
+      "chineseCharacter": "学生",
+      "pinyin": "xue2 sheng5",
+      "devanagariPhonetic": "शुए शेङ",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "student",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Learner in an educational institution",
+      "audioFileName": null,
+      "exampleSentence": "They are university students.",
+      "exampleSentenceChinese": "他们是大学生。",
+      "exampleSentenceDevanagari": "था मेन शि दा शुए शेङ"
+    },
+    {
+      "chineseCharacter": "医生",
+      "pinyin": "yi1 sheng1",
+      "devanagariPhonetic": "यि शेङ",
+      "toneNumbers": [
+        1,
+        1
+      ],
+      "englishDefinition": "doctor, physician",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Medical professional",
+      "audioFileName": null,
+      "exampleSentence": "My father is a doctor.",
+      "exampleSentenceChinese": "我爸爸是医生。",
+      "exampleSentenceDevanagari": "वो बा बा शि यि शेङ"
+    },
+    {
+      "chineseCharacter": "爸爸",
+      "pinyin": "ba4 ba5",
+      "devanagariPhonetic": "बा बा",
+      "toneNumbers": [
+        4,
+        5
+      ],
+      "englishDefinition": "father, dad",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Informal family term for father",
+      "audioFileName": null,
+      "exampleSentence": "Dad goes to work every morning.",
+      "exampleSentenceChinese": "爸爸每天去工作。",
+      "exampleSentenceDevanagari": "बा बा मेइ थिआन चु गोङ जुओ"
+    },
+    {
+      "chineseCharacter": "妈妈",
+      "pinyin": "ma1 ma5",
+      "devanagariPhonetic": "मा मा",
+      "toneNumbers": [
+        1,
+        5
+      ],
+      "englishDefinition": "mother, mom",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Informal family term for mother",
+      "audioFileName": null,
+      "exampleSentence": "Mom cooks delicious meals.",
+      "exampleSentenceChinese": "妈妈做饭很好吃。",
+      "exampleSentenceDevanagari": "मा मा जुओ फान हेन हाओ छि"
+    },
+    {
+      "chineseCharacter": "儿子",
+      "pinyin": "er2 zi5",
+      "devanagariPhonetic": "अर जि",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "son",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Male child",
+      "audioFileName": null,
+      "exampleSentence": "His son is eight years old.",
+      "exampleSentenceChinese": "他的儿子八岁了。",
+      "exampleSentenceDevanagari": "था दे अर जि बा सुइ ले"
+    },
+    {
+      "chineseCharacter": "女儿",
+      "pinyin": "nv3 er2",
+      "devanagariPhonetic": "न्यु अर",
+      "toneNumbers": [
+        3,
+        2
+      ],
+      "englishDefinition": "daughter",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Female child",
+      "audioFileName": null,
+      "exampleSentence": "Her daughter is a student.",
+      "exampleSentenceChinese": "她的女儿是学生。",
+      "exampleSentenceDevanagari": "था दे न्यु अर शि शुए शेङ"
+    },
+    {
+      "chineseCharacter": "钱",
+      "pinyin": "qian2",
+      "devanagariPhonetic": "चिआन",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "money",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Currency or financial funds",
+      "audioFileName": null,
+      "exampleSentence": "How much money is this altogether?",
+      "exampleSentenceChinese": "这共多少钱？",
+      "exampleSentenceDevanagari": "झे गोङ दुओ शाओ चिआन"
+    },
+    {
+      "chineseCharacter": "水",
+      "pinyin": "shui3",
+      "devanagariPhonetic": "शुइ",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "water",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Clear beverage water",
+      "audioFileName": null,
+      "exampleSentence": "Please drink a glass of water.",
+      "exampleSentenceChinese": "请喝一杯水。",
+      "exampleSentenceDevanagari": "चिङ हे यि बेइ शुइ"
+    },
+    {
+      "chineseCharacter": "茶",
+      "pinyin": "cha2",
+      "devanagariPhonetic": "छा",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "tea",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Traditional Chinese tea beverage",
+      "audioFileName": null,
+      "exampleSentence": "Do you want to drink tea or water?",
+      "exampleSentenceChinese": "你想喝茶还是喝水？",
+      "exampleSentenceDevanagari": "नि शिआङ हे छा हाइ शि हे शुइ"
+    },
+    {
+      "chineseCharacter": "米饭",
+      "pinyin": "mi3 fan4",
+      "devanagariPhonetic": "मि फान",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "cooked rice",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Staple food of cooked white rice",
+      "audioFileName": null,
+      "exampleSentence": "I want a bowl of cooked rice.",
+      "exampleSentenceChinese": "我要一碗米饭。",
+      "exampleSentenceDevanagari": "वो याओ यि वान मि फान"
+    },
+    {
+      "chineseCharacter": "苹果",
+      "pinyin": "ping2 guo3",
+      "devanagariPhonetic": "पिङ गुओ",
+      "toneNumbers": [
+        2,
+        3
+      ],
+      "englishDefinition": "apple",
+      "domainTag": "hsk1",
+      "difficultyTier": 1,
+      "usageContext": "Common fruit",
+      "audioFileName": null,
+      "exampleSentence": "This apple is very sweet.",
+      "exampleSentenceChinese": "这个苹果很甜。",
+      "exampleSentenceDevanagari": "झे गे पिङ गुओ हेन थिआन"
+    }
+  ]
+}

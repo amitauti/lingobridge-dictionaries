@@ -1,0 +1,1293 @@
+{
+  "schemaVersion": 1,
+  "id": "food-cmn",
+  "languageCode": "cmn",
+  "domainId": "food",
+  "version": 1,
+  "entries": [
+    {
+      "chineseCharacter": "菜单",
+      "pinyin": "cai4 dan1",
+      "devanagariPhonetic": "छाइ दान",
+      "toneNumbers": [
+        4,
+        1
+      ],
+      "englishDefinition": "menu",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Listing of dishes and prices at a restaurant",
+      "audioFileName": null,
+      "exampleSentence": "Excuse me, please bring a menu.",
+      "exampleSentenceChinese": "服务员，请拿一份菜单。",
+      "exampleSentenceDevanagari": "फु वु युआन चिङ ना यि फेन छाइ दान"
+    },
+    {
+      "chineseCharacter": "点菜",
+      "pinyin": "dian3 cai4",
+      "devanagariPhonetic": "दिआन छाइ",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "to order food",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Ordering dishes from a restaurant server",
+      "audioFileName": null,
+      "exampleSentence": "We are ready to order now.",
+      "exampleSentenceChinese": "我们可以点菜了。",
+      "exampleSentenceDevanagari": "वो मेन खे यि दिआन छाइ ले"
+    },
+    {
+      "chineseCharacter": "服务员",
+      "pinyin": "fu2 wu4 yuan2",
+      "devanagariPhonetic": "फु वु युआन",
+      "toneNumbers": [
+        2,
+        4,
+        2
+      ],
+      "englishDefinition": "waiter, waitress, server",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Calling a restaurant or hotel attendant",
+      "audioFileName": null,
+      "exampleSentence": "Waiter, please bring another glass of water.",
+      "exampleSentenceChinese": "服务员，请再加一杯水。",
+      "exampleSentenceDevanagari": "फु वु युआन चिङ जाइ जिआ यि बेइ शुइ"
+    },
+    {
+      "chineseCharacter": "买单",
+      "pinyin": "mai3 dan1",
+      "devanagariPhonetic": "माइ दान",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "to pay the restaurant bill",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Requesting the bill at the end of a meal",
+      "audioFileName": null,
+      "exampleSentence": "Waiter, we would like to pay the bill.",
+      "exampleSentenceChinese": "服务员，买单！",
+      "exampleSentenceDevanagari": "फु वु युआन माइ दान"
+    },
+    {
+      "chineseCharacter": "结账",
+      "pinyin": "jie2 zhang4",
+      "devanagariPhonetic": "जिए झाङ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "to settle the bill, pay check",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Settle payment at a restaurant or shop",
+      "audioFileName": null,
+      "exampleSentence": "Can we settle the bill over here?",
+      "exampleSentenceChinese": "我们在这里结账。",
+      "exampleSentenceDevanagari": "वो मेन जाइ झे लि जिए झाङ"
+    },
+    {
+      "chineseCharacter": "招牌菜",
+      "pinyin": "zhao1 pai2 cai4",
+      "devanagariPhonetic": "झाओ फाइ छाइ",
+      "toneNumbers": [
+        1,
+        2,
+        4
+      ],
+      "englishDefinition": "signature dish, specialty of the house",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "The restaurant's most famous dish",
+      "audioFileName": null,
+      "exampleSentence": "What is the signature dish here?",
+      "exampleSentenceChinese": "这里的招牌菜是什么？",
+      "exampleSentenceDevanagari": "झे लि दे झाओ फाइ छाइ शि शेन मे"
+    },
+    {
+      "chineseCharacter": "推荐",
+      "pinyin": "tui1 jian4",
+      "devanagariPhonetic": "थुइ जिआन",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "to recommend, recommendation",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Asking a server or friend for food suggestions",
+      "audioFileName": null,
+      "exampleSentence": "Do you have any recommended dishes today?",
+      "exampleSentenceChinese": "您有什么特色推荐吗？",
+      "exampleSentenceDevanagari": "निन योउ शेन मे थे से थुइ जिआन मा"
+    },
+    {
+      "chineseCharacter": "堂食",
+      "pinyin": "tang2 shi2",
+      "devanagariPhonetic": "थाङ शि",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "dine-in",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Eating inside the restaurant rather than taking out",
+      "audioFileName": null,
+      "exampleSentence": "Is this for dine-in or takeout?",
+      "exampleSentenceChinese": "请问是堂食还是外带？",
+      "exampleSentenceDevanagari": "चिङ वेन शि थाङ शि हाइ शि वाइ दाइ"
+    },
+    {
+      "chineseCharacter": "打包",
+      "pinyin": "da3 bao1",
+      "devanagariPhonetic": "दा बाओ",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "to pack leftovers, doggy bag",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Asking to pack remaining food to take home",
+      "audioFileName": null,
+      "exampleSentence": "Please pack these remaining dishes for me.",
+      "exampleSentenceChinese": "请帮我把这些菜打包。",
+      "exampleSentenceDevanagari": "चिङ बाङ वो बा झे शिए छाइ दा बाओ"
+    },
+    {
+      "chineseCharacter": "外卖",
+      "pinyin": "wai4 mai4",
+      "devanagariPhonetic": "वाइ माइ",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "takeout food, delivery",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Food ordered for delivery or pickup",
+      "audioFileName": null,
+      "exampleSentence": "Let's order some takeout food tonight.",
+      "exampleSentenceChinese": "我们今晚点外卖吧。",
+      "exampleSentenceDevanagari": "वो मेन जिन वान दिआन वाइ माइ बा"
+    },
+    {
+      "chineseCharacter": "稍等",
+      "pinyin": "shao1 deng3",
+      "devanagariPhonetic": "शाओ देङ",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "wait a moment, just a second",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Polite response from restaurant server",
+      "audioFileName": null,
+      "exampleSentence": "Please wait a moment, your dish will arrive soon.",
+      "exampleSentenceChinese": "请稍等，菜马上就来。",
+      "exampleSentenceDevanagari": "चिङ शाओ देङ छाइ मा शाङ जिउ लाइ"
+    },
+    {
+      "chineseCharacter": "加水",
+      "pinyin": "jia1 shui3",
+      "devanagariPhonetic": "जिआ शुइ",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "to refill water, add water",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Asking for hot water or teapot refill",
+      "audioFileName": null,
+      "exampleSentence": "Excuse me, please refill the water for our teapot.",
+      "exampleSentenceChinese": "服务员，请帮我们加水。",
+      "exampleSentenceDevanagari": "फु वु युआन चिङ बाङ वो मेन जिआ शुइ"
+    },
+    {
+      "chineseCharacter": "倒茶",
+      "pinyin": "dao4 cha2",
+      "devanagariPhonetic": "दाओ छा",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "to pour tea",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Pouring tea for table guests",
+      "audioFileName": null,
+      "exampleSentence": "Let me pour a cup of hot tea for you.",
+      "exampleSentenceChinese": "我来给您倒茶。",
+      "exampleSentenceDevanagari": "वो लाइ गेइ निन दाओ छा"
+    },
+    {
+      "chineseCharacter": "账单",
+      "pinyin": "zhang4 dan1",
+      "devanagariPhonetic": "झाङ दान",
+      "toneNumbers": [
+        4,
+        1
+      ],
+      "englishDefinition": "bill, check, invoice",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Itemized receipt showing meal charges",
+      "audioFileName": null,
+      "exampleSentence": "Please check the bill to make sure it is correct.",
+      "exampleSentenceChinese": "请核对一下账单。",
+      "exampleSentenceDevanagari": "चिङ हे दुइ यि शिआ झाङ दान"
+    },
+    {
+      "chineseCharacter": "发票",
+      "pinyin": "fa1 piao4",
+      "devanagariPhonetic": "फा पिआओ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "official receipt, tax invoice",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Requesting an official invoice for reimbursement",
+      "audioFileName": null,
+      "exampleSentence": "Can you issue an official invoice for this meal?",
+      "exampleSentenceChinese": "结账可以开一张发票吗？",
+      "exampleSentenceDevanagari": "जिए झाङ खे यि खाइ यि झाङ फा पिआओ मा"
+    },
+    {
+      "chineseCharacter": "扫码支付",
+      "pinyin": "sao3 ma3 zhi1 fu4",
+      "devanagariPhonetic": "साओ मा झि फु",
+      "toneNumbers": [
+        3,
+        3,
+        1,
+        4
+      ],
+      "englishDefinition": "scan QR code to pay",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Mobile payment by scanning WeChat/Alipay QR code",
+      "audioFileName": null,
+      "exampleSentence": "Does this restaurant support QR code mobile payment?",
+      "exampleSentenceChinese": "这里支持扫码支付吗？",
+      "exampleSentenceDevanagari": "झे लि झि छि साओ मा झि फु मा"
+    },
+    {
+      "chineseCharacter": "辣",
+      "pinyin": "la4",
+      "devanagariPhonetic": "ला",
+      "toneNumbers": [
+        4
+      ],
+      "englishDefinition": "spicy, hot",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Pungent or chili-hot flavor",
+      "audioFileName": null,
+      "exampleSentence": "Sichuan food is very spicy.",
+      "exampleSentenceChinese": "四川菜非常辣。",
+      "exampleSentenceDevanagari": "सि छुआन छाइ फेइ छाङ ला"
+    },
+    {
+      "chineseCharacter": "微辣",
+      "pinyin": "wei1 la4",
+      "devanagariPhonetic": "वेइ ला",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "mildly spicy, slight spice",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Specifying low spice level when ordering",
+      "audioFileName": null,
+      "exampleSentence": "Please make this dish mildly spicy.",
+      "exampleSentenceChinese": "这道菜我们要微辣。",
+      "exampleSentenceDevanagari": "झे दाओ छाइ वो मेन याओ वेइ ला"
+    },
+    {
+      "chineseCharacter": "不辣",
+      "pinyin": "bu4 la4",
+      "devanagariPhonetic": "बु ला",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "not spicy, non-spicy",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Requesting no chili or pepper in food",
+      "audioFileName": null,
+      "exampleSentence": "I cannot eat spicy food, please make it non-spicy.",
+      "exampleSentenceChinese": "我不吃辣，请做不辣的。",
+      "exampleSentenceDevanagari": "वो बु छि ला चिङ जुओ बु ला दे"
+    },
+    {
+      "chineseCharacter": "麻辣",
+      "pinyin": "ma2 la4",
+      "devanagariPhonetic": "मा ला",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "numbing and spicy (Sichuan peppercorn & chili)",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Distinctive Sichuan culinary flavor profile",
+      "audioFileName": null,
+      "exampleSentence": "This hot pot broth is numbing and spicy.",
+      "exampleSentenceChinese": "这个火锅是麻辣口味的。",
+      "exampleSentenceDevanagari": "झे गे हुओ गुओ शि मा ला खोउ वेइ दे"
+    },
+    {
+      "chineseCharacter": "甜",
+      "pinyin": "tian2",
+      "devanagariPhonetic": "थिआन",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "sweet",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Sweet taste with sugar or honey",
+      "audioFileName": null,
+      "exampleSentence": "These watermelon slices are very sweet.",
+      "exampleSentenceChinese": "这个西瓜很甜。",
+      "exampleSentenceDevanagari": "झे गे शि गुआ हेन थिआन"
+    },
+    {
+      "chineseCharacter": "酸",
+      "pinyin": "suan1",
+      "devanagariPhonetic": "सुआन",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "sour, tart",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Acidic or vinegar flavor",
+      "audioFileName": null,
+      "exampleSentence": "Sweet and sour pork is sweet and tangy.",
+      "exampleSentenceChinese": "糖醋里脊酸甜可口。",
+      "exampleSentenceDevanagari": "थाङ छु लि जि सुआन थिआन खे खोउ"
+    },
+    {
+      "chineseCharacter": "咸",
+      "pinyin": "xian2",
+      "devanagariPhonetic": "शिआन",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "salty",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Taste of salt",
+      "audioFileName": null,
+      "exampleSentence": "This bowl of soup is a bit too salty.",
+      "exampleSentenceChinese": "这碗汤有点咸。",
+      "exampleSentenceDevanagari": "झे वान थाङ योउ दिआन शिआन"
+    },
+    {
+      "chineseCharacter": "苦",
+      "pinyin": "ku3",
+      "devanagariPhonetic": "खु",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "bitter",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Bitter flavor like black coffee or bitter melon",
+      "audioFileName": null,
+      "exampleSentence": "Black coffee tastes slightly bitter.",
+      "exampleSentenceChinese": "清咖啡味道有点苦。",
+      "exampleSentenceDevanagari": "चिङ खा फेइ वेइ दाओ योउ दिआन खु"
+    },
+    {
+      "chineseCharacter": "清淡",
+      "pinyin": "qing1 dan4",
+      "devanagariPhonetic": "चिङ दान",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "light, mild, delicately flavored",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Dishes with little oil, salt, or heavy seasoning",
+      "audioFileName": null,
+      "exampleSentence": "I prefer eating light and mild food today.",
+      "exampleSentenceChinese": "我今天想吃清淡一点的菜。",
+      "exampleSentenceDevanagari": "वो जिन थिआन शिआङ छि चिङ दान यि दिआन दे छाइ"
+    },
+    {
+      "chineseCharacter": "忌口",
+      "pinyin": "ji4 kou3",
+      "devanagariPhonetic": "जि खोउ",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "dietary restriction, foods to avoid",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Asking or informing about dietary requirements",
+      "audioFileName": null,
+      "exampleSentence": "Do any of the guests have dietary restrictions?",
+      "exampleSentenceChinese": "请问您有什么忌口吗？",
+      "exampleSentenceDevanagari": "चिङ वेन निन योउ शेन मे जि खोउ मा"
+    },
+    {
+      "chineseCharacter": "过敏",
+      "pinyin": "guo4 min3",
+      "devanagariPhonetic": "गुओ मिन",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "allergy, allergic",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Medical sensitivity or allergic reaction to ingredients",
+      "audioFileName": null,
+      "exampleSentence": "I am allergic to seafood.",
+      "exampleSentenceChinese": "我对海鲜过敏。",
+      "exampleSentenceDevanagari": "वो दुइ हाइ शिआन गुओ मिन"
+    },
+    {
+      "chineseCharacter": "花生过敏",
+      "pinyin": "hua1 sheng1 guo4 min3",
+      "devanagariPhonetic": "हुआ शेङ गुओ मिन",
+      "toneNumbers": [
+        1,
+        1,
+        4,
+        3
+      ],
+      "englishDefinition": "peanut allergy",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Critical food warning about peanut ingredients",
+      "audioFileName": null,
+      "exampleSentence": "I have a severe peanut allergy, please do not add peanuts.",
+      "exampleSentenceChinese": "我对花生过敏，请不要放花生。",
+      "exampleSentenceDevanagari": "वो दुइ हुआ शेङ गुओ मिन चिङ बु याओ फाङ हुआ शेङ"
+    },
+    {
+      "chineseCharacter": "吃素",
+      "pinyin": "chi1 su4",
+      "devanagariPhonetic": "छि सु",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "to be vegetarian, eat vegetarian",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Plant-based diet without meat",
+      "audioFileName": null,
+      "exampleSentence": "I am vegetarian, do you have meat-free dishes?",
+      "exampleSentenceChinese": "我吃素，有素菜吗？",
+      "exampleSentenceDevanagari": "वो छि सु योउ सु छाइ मा"
+    },
+    {
+      "chineseCharacter": "清真",
+      "pinyin": "qing1 zhen1",
+      "devanagariPhonetic": "चिङ झेन",
+      "toneNumbers": [
+        1,
+        1
+      ],
+      "englishDefinition": "halal (Muslim dietary standard)",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Food prepared according to Islamic dietary laws",
+      "audioFileName": null,
+      "exampleSentence": "Is there a halal restaurant nearby?",
+      "exampleSentenceChinese": "附近有清真餐厅吗？",
+      "exampleSentenceDevanagari": "फु जिन योउ चिङ झेन छान थिङ मा"
+    },
+    {
+      "chineseCharacter": "不要香菜",
+      "pinyin": "bu2 yao4 xiang1 cai4",
+      "devanagariPhonetic": "बु याओ शिआङ छाइ",
+      "toneNumbers": [
+        2,
+        4,
+        1,
+        4
+      ],
+      "englishDefinition": "no cilantro, no coriander",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Common request in Chinese dining to omit coriander",
+      "audioFileName": null,
+      "exampleSentence": "One bowl of beef noodles, please omit cilantro.",
+      "exampleSentenceChinese": "一碗牛肉面，不要香菜。",
+      "exampleSentenceDevanagari": "यि वान निउ रोउ मिआन बु याओ शिआङ छाइ"
+    },
+    {
+      "chineseCharacter": "少放盐",
+      "pinyin": "shao3 fang4 yan2",
+      "devanagariPhonetic": "शाओ फाङ यान",
+      "toneNumbers": [
+        3,
+        4,
+        2
+      ],
+      "englishDefinition": "use less salt",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Requesting chef to reduce sodium",
+      "audioFileName": null,
+      "exampleSentence": "Please use less salt in the vegetables.",
+      "exampleSentenceChinese": "炒蔬菜请少放盐。",
+      "exampleSentenceDevanagari": "छाओ शु छाइ चिङ शाओ फाङ यान"
+    },
+    {
+      "chineseCharacter": "少放油",
+      "pinyin": "shao3 fang4 you2",
+      "devanagariPhonetic": "शाओ फाङ योउ",
+      "toneNumbers": [
+        3,
+        4,
+        2
+      ],
+      "englishDefinition": "use less cooking oil",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Requesting lighter, less greasy preparation",
+      "audioFileName": null,
+      "exampleSentence": "Please use less oil when cooking.",
+      "exampleSentenceChinese": "师傅做菜请少放油。",
+      "exampleSentenceDevanagari": "शि फु जुओ छाइ चिङ शाओ फाङ योउ"
+    },
+    {
+      "chineseCharacter": "米饭",
+      "pinyin": "mi3 fan4",
+      "devanagariPhonetic": "मि फान",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "cooked rice",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Basic staple grain accompanying Chinese dishes",
+      "audioFileName": null,
+      "exampleSentence": "Please serve two bowls of white rice.",
+      "exampleSentenceChinese": "请来两碗米饭。",
+      "exampleSentenceDevanagari": "चिङ लाइ लिआङ वान मि फान"
+    },
+    {
+      "chineseCharacter": "面条",
+      "pinyin": "mian4 tiao2",
+      "devanagariPhonetic": "मिआन थिआओ",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "noodles",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Chinese wheat or egg noodle dishes",
+      "audioFileName": null,
+      "exampleSentence": "Northern Chinese people love eating noodles.",
+      "exampleSentenceChinese": "北方人喜欢吃面条。",
+      "exampleSentenceDevanagari": "बेइ फाङ रेन शि हुआन छि मिआन थिआओ"
+    },
+    {
+      "chineseCharacter": "饺子",
+      "pinyin": "jiao3 zi5",
+      "devanagariPhonetic": "जिआओ जि",
+      "toneNumbers": [
+        3,
+        5
+      ],
+      "englishDefinition": "dumplings, jiaozi",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Traditional northern Chinese stuffed boiled dumplings",
+      "audioFileName": null,
+      "exampleSentence": "Let's eat dumplings together on New Year's Eve.",
+      "exampleSentenceChinese": "除夕大家一起吃饺子。",
+      "exampleSentenceDevanagari": "छु शि दा जिआ यि चि छि जिआओ जि"
+    },
+    {
+      "chineseCharacter": "包子",
+      "pinyin": "bao1 zi5",
+      "devanagariPhonetic": "बाओ जि",
+      "toneNumbers": [
+        1,
+        5
+      ],
+      "englishDefinition": "steamed stuffed bun",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Steamed yeasted buns with meat or vegetable filling",
+      "audioFileName": null,
+      "exampleSentence": "I eat two steamed buns for breakfast.",
+      "exampleSentenceChinese": "我早餐吃两个包子。",
+      "exampleSentenceDevanagari": "वो जाओ छान छि लिआङ गे बाओ जि"
+    },
+    {
+      "chineseCharacter": "炒饭",
+      "pinyin": "chao3 fan4",
+      "devanagariPhonetic": "छाओ फान",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "fried rice",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Wok-fried rice with egg and vegetables",
+      "audioFileName": null,
+      "exampleSentence": "One serving of Yangchow fried rice, please.",
+      "exampleSentenceChinese": "请来一份扬州炒饭。",
+      "exampleSentenceDevanagari": "चिङ लाइ यि फेन याङ झोउ छाओ फान"
+    },
+    {
+      "chineseCharacter": "炒面",
+      "pinyin": "chao3 mian4",
+      "devanagariPhonetic": "छाओ मिआन",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "fried noodles, chow mein",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Wok-fried noodle dish",
+      "audioFileName": null,
+      "exampleSentence": "Beef fried noodles are very delicious here.",
+      "exampleSentenceChinese": "这里的牛肉炒面很好吃。",
+      "exampleSentenceDevanagari": "झे लि दे निउ रोउ छाओ मिआन हेन हाओ छि"
+    },
+    {
+      "chineseCharacter": "火锅",
+      "pinyin": "huo3 guo1",
+      "devanagariPhonetic": "हुओ गुओ",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "hot pot",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Communal simmering pot for cooking fresh ingredients",
+      "audioFileName": null,
+      "exampleSentence": "Eating hot pot in winter is wonderful.",
+      "exampleSentenceChinese": "冬天吃火锅很过瘾。",
+      "exampleSentenceDevanagari": "दोङ थिआन छि हुओ गुओ हेन गुओ यिन"
+    },
+    {
+      "chineseCharacter": "烤鸭",
+      "pinyin": "kao3 ya1",
+      "devanagariPhonetic": "खाओ या",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "roast duck, Peking duck",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Famous Beijing crispy-skinned roasted duck",
+      "audioFileName": null,
+      "exampleSentence": "You must try Peking roast duck when visiting Beijing.",
+      "exampleSentenceChinese": "去北京一定要吃烤鸭。",
+      "exampleSentenceDevanagari": "चु बेइ जिङ यि दिङ याओ छि खाओ या"
+    },
+    {
+      "chineseCharacter": "麻婆豆腐",
+      "pinyin": "ma2 po2 dou4 fu5",
+      "devanagariPhonetic": "मा फो दोउ फु",
+      "toneNumbers": [
+        2,
+        2,
+        4,
+        5
+      ],
+      "englishDefinition": "Mapo tofu",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Classic Sichuan tofu dish with spicy, numbing sauce",
+      "audioFileName": null,
+      "exampleSentence": "This Mapo tofu is authentic and spicy.",
+      "exampleSentenceChinese": "这道麻婆豆腐非常地道。",
+      "exampleSentenceDevanagari": "झे दाओ मा फो दोउ फु फेइ छाङ दि दाओ"
+    },
+    {
+      "chineseCharacter": "宫保鸡丁",
+      "pinyin": "gong1 bao3 ji1 ding1",
+      "devanagariPhonetic": "गोङ बाओ जि दिङ",
+      "toneNumbers": [
+        1,
+        3,
+        1,
+        1
+      ],
+      "englishDefinition": "Kung Pao chicken",
+      "domainTag": "food",
+      "difficultyTier": 2,
+      "usageContext": "Famous stir-fried chicken with peanuts and chili",
+      "audioFileName": null,
+      "exampleSentence": "Kung Pao chicken is very famous worldwide.",
+      "exampleSentenceChinese": "宫保鸡丁是一道名菜。",
+      "exampleSentenceDevanagari": "गोङ बाओ जि दिङ शि यि दाओ मिङ छाइ"
+    },
+    {
+      "chineseCharacter": "蔬菜",
+      "pinyin": "shu1 cai4",
+      "devanagariPhonetic": "शु छाइ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "vegetables, greens",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Fresh vegetable produce or cooked greens",
+      "audioFileName": null,
+      "exampleSentence": "We should eat more green vegetables.",
+      "exampleSentenceChinese": "我们每天要多吃蔬菜。",
+      "exampleSentenceDevanagari": "वो मेन मेइ थिआन याओ दुओ छि शु छाइ"
+    },
+    {
+      "chineseCharacter": "牛肉",
+      "pinyin": "niu2 rou4",
+      "devanagariPhonetic": "निउ रोउ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "beef",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Meat from cattle",
+      "audioFileName": null,
+      "exampleSentence": "This stir-fried beef is very tender.",
+      "exampleSentenceChinese": "这盘牛肉很鲜嫩。",
+      "exampleSentenceDevanagari": "झे फान निउ रोउ हेन शिआन नेन"
+    },
+    {
+      "chineseCharacter": "猪肉",
+      "pinyin": "zhu1 rou4",
+      "devanagariPhonetic": "झु रोउ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "pork",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Meat from pig, widely consumed in China",
+      "audioFileName": null,
+      "exampleSentence": "Pork dumplings are a family favorite.",
+      "exampleSentenceChinese": "猪肉水饺味道好。",
+      "exampleSentenceDevanagari": "झु रोउ शुइ जिआओ वेइ दाओ हाओ"
+    },
+    {
+      "chineseCharacter": "鸡肉",
+      "pinyin": "ji1 rou4",
+      "devanagariPhonetic": "जि रोउ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "chicken meat",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Poultry meat from chicken",
+      "audioFileName": null,
+      "exampleSentence": "I ordered chicken noodle soup.",
+      "exampleSentenceChinese": "我点了一碗鸡肉面。",
+      "exampleSentenceDevanagari": "वो दिआन ले यि वान जि रोउ मिआन"
+    },
+    {
+      "chineseCharacter": "羊肉",
+      "pinyin": "yang2 rou4",
+      "devanagariPhonetic": "याङ रोउ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "mutton, lamb",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Meat from sheep or lamb, common in skewers and hot pot",
+      "audioFileName": null,
+      "exampleSentence": "Beijing instant-boiled mutton is renowned.",
+      "exampleSentenceChinese": "北京涮羊肉很有名。",
+      "exampleSentenceDevanagari": "बेइ जिङ शुआन याङ रोउ हेन योउ मिङ"
+    },
+    {
+      "chineseCharacter": "鱼",
+      "pinyin": "yu2",
+      "devanagariPhonetic": "यु",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "fish",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Freshwater or marine fish dishes",
+      "audioFileName": null,
+      "exampleSentence": "Steamed fish is light and fresh.",
+      "exampleSentenceChinese": "清蒸鱼味道很鲜美。",
+      "exampleSentenceDevanagari": "चिङ झेङ यु वेइ दाओ हेन शिआन मेइ"
+    },
+    {
+      "chineseCharacter": "虾",
+      "pinyin": "xia1",
+      "devanagariPhonetic": "शिआ",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "shrimp, prawn",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Crustacean seafood",
+      "audioFileName": null,
+      "exampleSentence": "These boiled prawns are very fresh.",
+      "exampleSentenceChinese": "这些白灼虾很新鲜。",
+      "exampleSentenceDevanagari": "झे शिए बाइ झुओ शिआ हेन शिन शिआन"
+    },
+    {
+      "chineseCharacter": "海鲜",
+      "pinyin": "hai3 xian1",
+      "devanagariPhonetic": "हाइ शिआन",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "seafood",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Fish, shellfish, and edible sea animals",
+      "audioFileName": null,
+      "exampleSentence": "Seafood in coastal cities is plentiful.",
+      "exampleSentenceChinese": "海边城市的海鲜很丰富。",
+      "exampleSentenceDevanagari": "हाइ बिआन छेङ शि दे हाइ शिआन हेन फेङ फु"
+    },
+    {
+      "chineseCharacter": "鸡蛋",
+      "pinyin": "ji1 dan4",
+      "devanagariPhonetic": "जि दान",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "egg (chicken egg)",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Eggs used in cooking and breakfast",
+      "audioFileName": null,
+      "exampleSentence": "Stir-fried tomato and eggs is a home staple.",
+      "exampleSentenceChinese": "西红柿炒鸡蛋很好吃。",
+      "exampleSentenceDevanagari": "शि होङ शि छाओ जि दान हेन हाओ छि"
+    },
+    {
+      "chineseCharacter": "汤",
+      "pinyin": "tang1",
+      "devanagariPhonetic": "थाङ",
+      "toneNumbers": [
+        1
+      ],
+      "englishDefinition": "soup, broth",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Liquid broth or soup accompanying meals",
+      "audioFileName": null,
+      "exampleSentence": "Drink some hot soup before dinner.",
+      "exampleSentenceChinese": "饭前喝一碗热汤。",
+      "exampleSentenceDevanagari": "फान चिआन हे यि वान रे थाङ"
+    },
+    {
+      "chineseCharacter": "热水",
+      "pinyin": "re4 shui3",
+      "devanagariPhonetic": "रे शुइ",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "hot water",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Warm drinking water commonly served in China",
+      "audioFileName": null,
+      "exampleSentence": "Please bring me a cup of hot water.",
+      "exampleSentenceChinese": "请给我一杯热水。",
+      "exampleSentenceDevanagari": "चिङ गेइ वो यि बेइ रे शुइ"
+    },
+    {
+      "chineseCharacter": "冰水",
+      "pinyin": "bing1 shui3",
+      "devanagariPhonetic": "बिङ शुइ",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "ice water, cold water",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Chilled drinking water with ice",
+      "audioFileName": null,
+      "exampleSentence": "Do you have chilled ice water?",
+      "exampleSentenceChinese": "请问有冰水吗？",
+      "exampleSentenceDevanagari": "चिङ वेन योउ बिङ शुइ मा"
+    },
+    {
+      "chineseCharacter": "茶",
+      "pinyin": "cha2",
+      "devanagariPhonetic": "छा",
+      "toneNumbers": [
+        2
+      ],
+      "englishDefinition": "tea",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Traditional Chinese tea beverage",
+      "audioFileName": null,
+      "exampleSentence": "Drinking tea after meals aids digestion.",
+      "exampleSentenceChinese": "饭后喝茶很舒服。",
+      "exampleSentenceDevanagari": "फान होउ हे छा हेन शु फु"
+    },
+    {
+      "chineseCharacter": "绿茶",
+      "pinyin": "lv4 cha2",
+      "devanagariPhonetic": "ल्यु छा",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "green tea",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Unfermented traditional green tea",
+      "audioFileName": null,
+      "exampleSentence": "Would you like some green tea?",
+      "exampleSentenceChinese": "你想喝杯绿茶吗？",
+      "exampleSentenceDevanagari": "नि शिआङ हे बेइ ल्यु छा मा"
+    },
+    {
+      "chineseCharacter": "红茶",
+      "pinyin": "hong2 cha2",
+      "devanagariPhonetic": "होङ छा",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "black tea (literally red tea)",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Fully oxidized black tea leaves",
+      "audioFileName": null,
+      "exampleSentence": "Black tea warms the body in winter.",
+      "exampleSentenceChinese": "冬天喝红茶很暖和。",
+      "exampleSentenceDevanagari": "दोङ थिआन हे होङ छा हेन नुआन हुओ"
+    },
+    {
+      "chineseCharacter": "咖啡",
+      "pinyin": "ka1 fei1",
+      "devanagariPhonetic": "खा फेइ",
+      "toneNumbers": [
+        1,
+        1
+      ],
+      "englishDefinition": "coffee",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Brewed coffee beverage",
+      "audioFileName": null,
+      "exampleSentence": "I need a cup of coffee to wake up.",
+      "exampleSentenceChinese": "我需要一杯咖啡提神。",
+      "exampleSentenceDevanagari": "वो शु याओ यि बेइ खा फेइ थि शेन"
+    },
+    {
+      "chineseCharacter": "牛奶",
+      "pinyin": "niu2 nai3",
+      "devanagariPhonetic": "निउ नाइ",
+      "toneNumbers": [
+        2,
+        3
+      ],
+      "englishDefinition": "milk (cow's milk)",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Dairy milk",
+      "audioFileName": null,
+      "exampleSentence": "Children should drink milk every day.",
+      "exampleSentenceChinese": "孩子每天喝牛奶。",
+      "exampleSentenceDevanagari": "हाइ जि मेइ थिआन हे निउ नाइ"
+    },
+    {
+      "chineseCharacter": "啤酒",
+      "pinyin": "pi2 jiu3",
+      "devanagariPhonetic": "पि जिउ",
+      "toneNumbers": [
+        2,
+        3
+      ],
+      "englishDefinition": "beer",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Fermented malt alcoholic beverage",
+      "audioFileName": null,
+      "exampleSentence": "Tsingtao beer is famous worldwide.",
+      "exampleSentenceChinese": "青岛啤酒很有名。",
+      "exampleSentenceDevanagari": "चिङ दाओ पि जिउ हेन योउ मिङ"
+    },
+    {
+      "chineseCharacter": "果汁",
+      "pinyin": "guo3 zhi1",
+      "devanagariPhonetic": "गुओ झि",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "fruit juice",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Juice extracted from fruits",
+      "audioFileName": null,
+      "exampleSentence": "Is this orange juice freshly squeezed?",
+      "exampleSentenceChinese": "这是鲜榨果汁吗？",
+      "exampleSentenceDevanagari": "झे शि शिआन झा गुओ झि मा"
+    },
+    {
+      "chineseCharacter": "筷子",
+      "pinyin": "kuai4 zi5",
+      "devanagariPhonetic": "खुआइ जि",
+      "toneNumbers": [
+        4,
+        5
+      ],
+      "englishDefinition": "chopsticks",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Traditional dining utensils",
+      "audioFileName": null,
+      "exampleSentence": "Can you use chopsticks comfortably?",
+      "exampleSentenceChinese": "你会用筷子吗？",
+      "exampleSentenceDevanagari": "नि हुइ योङ खुआइ जि मा"
+    },
+    {
+      "chineseCharacter": "碗",
+      "pinyin": "wan3",
+      "devanagariPhonetic": "वान",
+      "toneNumbers": [
+        3
+      ],
+      "englishDefinition": "bowl",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Deep round dining container for rice or soup",
+      "audioFileName": null,
+      "exampleSentence": "Please bring an extra small bowl.",
+      "exampleSentenceChinese": "请多拿一个小碗。",
+      "exampleSentenceDevanagari": "चिङ दुओ ना यि गे शिआओ वान"
+    },
+    {
+      "chineseCharacter": "盘子",
+      "pinyin": "pan2 zi5",
+      "devanagariPhonetic": "फान जि",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "plate, dish",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Flat dishware used for serving food",
+      "audioFileName": null,
+      "exampleSentence": "The waiter brought a clean plate.",
+      "exampleSentenceChinese": "服务员换了一个干净盘子。",
+      "exampleSentenceDevanagari": "फु वु युआन हुआन ले यि गे गान जिङ फान जि"
+    },
+    {
+      "chineseCharacter": "杯子",
+      "pinyin": "bei1 zi5",
+      "devanagariPhonetic": "बेइ जि",
+      "toneNumbers": [
+        1,
+        5
+      ],
+      "englishDefinition": "cup, glass",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Drinking vessel for tea, water, or wine",
+      "audioFileName": null,
+      "exampleSentence": "Please bring two clean glasses.",
+      "exampleSentenceChinese": "请拿两个干净杯子。",
+      "exampleSentenceDevanagari": "चिङ ना लिआङ गे गान जिङ बेइ जि"
+    },
+    {
+      "chineseCharacter": "勺子",
+      "pinyin": "shao2 zi5",
+      "devanagariPhonetic": "शाओ जि",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "spoon",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Utensil for drinking soup or eating rice",
+      "audioFileName": null,
+      "exampleSentence": "I need a soup spoon.",
+      "exampleSentenceChinese": "我需要一把喝汤的勺子。",
+      "exampleSentenceDevanagari": "वो शु याओ यि बा हे थाङ दे शाओ जि"
+    },
+    {
+      "chineseCharacter": "餐巾纸",
+      "pinyin": "can1 jin1 zhi3",
+      "devanagariPhonetic": "छान जिन झि",
+      "toneNumbers": [
+        1,
+        1,
+        3
+      ],
+      "englishDefinition": "napkin, paper tissue",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Paper table napkin for cleaning hands and mouth",
+      "audioFileName": null,
+      "exampleSentence": "Excuse me, please bring a pack of napkins.",
+      "exampleSentenceChinese": "请拿一包餐巾纸。",
+      "exampleSentenceDevanagari": "चिङ ना यि बाओ छान जिन झि"
+    },
+    {
+      "chineseCharacter": "好吃",
+      "pinyin": "hao3 chi1",
+      "devanagariPhonetic": "हाओ छि",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "delicious, tasty",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Complimenting food taste",
+      "audioFileName": null,
+      "exampleSentence": "The dishes at this restaurant are very delicious.",
+      "exampleSentenceChinese": "这家店的菜真好吃。",
+      "exampleSentenceDevanagari": "झे जिआ दिआन दे छाइ झेन हाओ छि"
+    },
+    {
+      "chineseCharacter": "味道",
+      "pinyin": "wei4 dao5",
+      "devanagariPhonetic": "वेइ दाओ",
+      "toneNumbers": [
+        4,
+        5
+      ],
+      "englishDefinition": "taste, flavor",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Flavor profile or taste impression of dishes",
+      "audioFileName": null,
+      "exampleSentence": "The flavor is very authentic.",
+      "exampleSentenceChinese": "味道非常正宗。",
+      "exampleSentenceDevanagari": "वेइ दाओ फेइ छाङ झेङ झोङ"
+    },
+    {
+      "chineseCharacter": "尝一下",
+      "pinyin": "chang2 yi2 xia4",
+      "devanagariPhonetic": "छाङ यि शिआ",
+      "toneNumbers": [
+        2,
+        2,
+        4
+      ],
+      "englishDefinition": "to taste, have a bite, sample",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Inviting someone to sample a dish",
+      "audioFileName": null,
+      "exampleSentence": "Come sample this signature dish.",
+      "exampleSentenceChinese": "你来尝一下这个菜。",
+      "exampleSentenceDevanagari": "नि लाइ छाङ यि शिआ झे गे छाइ"
+    },
+    {
+      "chineseCharacter": "趁热吃",
+      "pinyin": "chen4 re4 chi1",
+      "devanagariPhonetic": "छेन रे छि",
+      "toneNumbers": [
+        4,
+        4,
+        1
+      ],
+      "englishDefinition": "eat while it is hot",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Warm host encouragement to enjoy food before it cools",
+      "audioFileName": null,
+      "exampleSentence": "The dumplings just arrived, eat while they are hot!",
+      "exampleSentenceChinese": "饺子刚上桌，趁热吃！",
+      "exampleSentenceDevanagari": "जिआओ जि गाङ शाङ झुओ छेन रे छि"
+    },
+    {
+      "chineseCharacter": "够了",
+      "pinyin": "gou4 le5",
+      "devanagariPhonetic": "गोउ ले",
+      "toneNumbers": [
+        4,
+        5
+      ],
+      "englishDefinition": "that is enough",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Telling a host or server that the food ordered is sufficient",
+      "audioFileName": null,
+      "exampleSentence": "These dishes are plenty, that's enough.",
+      "exampleSentenceChinese": "这些菜够了，不用再点了。",
+      "exampleSentenceDevanagari": "झे शिए छाइ गोउ ले बु योङ जाइ दिआन ले"
+    },
+    {
+      "chineseCharacter": "还要一份",
+      "pinyin": "hai2 yao4 yi2 fen4",
+      "devanagariPhonetic": "हाइ याओ यि फेन",
+      "toneNumbers": [
+        2,
+        4,
+        2,
+        4
+      ],
+      "englishDefinition": "want one more serving",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Ordering an additional portion of a dish",
+      "audioFileName": null,
+      "exampleSentence": "We'd like one more serving of dumplings, please.",
+      "exampleSentenceChinese": "饺子很好吃，我们还要一份。",
+      "exampleSentenceDevanagari": "जिआओ जि हेन हाओ छि वो मेन हाइ याओ यि फेन"
+    },
+    {
+      "chineseCharacter": "现金",
+      "pinyin": "xian4 jin1",
+      "devanagariPhonetic": "शिआन जिन",
+      "toneNumbers": [
+        4,
+        1
+      ],
+      "englishDefinition": "cash",
+      "domainTag": "food",
+      "difficultyTier": 1,
+      "usageContext": "Paying restaurant bill with banknotes",
+      "audioFileName": null,
+      "exampleSentence": "I will pay for this meal in cash.",
+      "exampleSentenceChinese": "我用现金买单。",
+      "exampleSentenceDevanagari": "वो योङ शिआन जिन माइ दान"
+    }
+  ]
+}

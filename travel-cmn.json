@@ -1,0 +1,1324 @@
+{
+  "schemaVersion": 1,
+  "id": "travel-cmn",
+  "languageCode": "cmn",
+  "domainId": "travel",
+  "version": 1,
+  "entries": [
+    {
+      "chineseCharacter": "护照",
+      "pinyin": "hu4 zhao4",
+      "devanagariPhonetic": "हु झाओ",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "passport",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Required travel identification at borders and airports",
+      "audioFileName": null,
+      "exampleSentence": "Please show your passport.",
+      "exampleSentenceChinese": "请出示您的护照。",
+      "exampleSentenceDevanagari": "चिङ छु शि निन दे हु झाओ"
+    },
+    {
+      "chineseCharacter": "签证",
+      "pinyin": "qian1 zheng4",
+      "devanagariPhonetic": "चिआन झेङ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "visa",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Entry permit for international travel",
+      "audioFileName": null,
+      "exampleSentence": "My tourist visa has been approved.",
+      "exampleSentenceChinese": "我的旅游签证办好了。",
+      "exampleSentenceDevanagari": "वो दे ल्यु योउ चिआन झेङ बान हाओ ले"
+    },
+    {
+      "chineseCharacter": "登机牌",
+      "pinyin": "deng1 ji1 pai2",
+      "devanagariPhonetic": "देङ जि फाइ",
+      "toneNumbers": [
+        1,
+        1,
+        2
+      ],
+      "englishDefinition": "boarding pass",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Card required to board an airplane",
+      "audioFileName": null,
+      "exampleSentence": "Please have your boarding pass ready.",
+      "exampleSentenceChinese": "请准备好登机牌。",
+      "exampleSentenceDevanagari": "चिङ झुन बेइ हाओ देङ जि फाइ"
+    },
+    {
+      "chineseCharacter": "航班",
+      "pinyin": "hang2 ban1",
+      "devanagariPhonetic": "हाङ बान",
+      "toneNumbers": [
+        2,
+        1
+      ],
+      "englishDefinition": "scheduled flight",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Specific flight number or service",
+      "audioFileName": null,
+      "exampleSentence": "What time does your flight arrive?",
+      "exampleSentenceChinese": "你的航班几点到达？",
+      "exampleSentenceDevanagari": "नि दे हाङ बान जि दिआन दाओ दा"
+    },
+    {
+      "chineseCharacter": "机场",
+      "pinyin": "ji1 chang3",
+      "devanagariPhonetic": "जि छाङ",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "airport",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Facility for air travel departures and arrivals",
+      "audioFileName": null,
+      "exampleSentence": "I need to arrive at the airport two hours early.",
+      "exampleSentenceChinese": "我需要提前两小时到机场。",
+      "exampleSentenceDevanagari": "वो शु याओ थि चिआन लिआङ शिआओ शि दाओ जि छाङ"
+    },
+    {
+      "chineseCharacter": "航站楼",
+      "pinyin": "hang2 zhan4 lou2",
+      "devanagariPhonetic": "हाङ झान लोउ",
+      "toneNumbers": [
+        2,
+        4,
+        2
+      ],
+      "englishDefinition": "airport terminal",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Specific terminal building at an airport",
+      "audioFileName": null,
+      "exampleSentence": "Our flight departs from Terminal 2.",
+      "exampleSentenceChinese": "我们的航班在二号航站楼。",
+      "exampleSentenceDevanagari": "वो मेन दे हाङ बान जाइ अर हाओ हाङ झान लोउ"
+    },
+    {
+      "chineseCharacter": "海关",
+      "pinyin": "hai3 guan1",
+      "devanagariPhonetic": "हाइ गुआन",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "customs",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Border control authority checking goods and declarations",
+      "audioFileName": null,
+      "exampleSentence": "Going through customs was very fast.",
+      "exampleSentenceChinese": "过海关非常快。",
+      "exampleSentenceDevanagari": "गुओ हाइ गुआन फेइ छाङ खुआइ"
+    },
+    {
+      "chineseCharacter": "安检",
+      "pinyin": "an1 jian3",
+      "devanagariPhonetic": "आन जिआन",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "security check",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Safety inspection point at airports and train stations",
+      "audioFileName": null,
+      "exampleSentence": "Please queue up for the security check.",
+      "exampleSentenceChinese": "请排队过安检。",
+      "exampleSentenceDevanagari": "चिङ फाइ दुइ गुओ आन जिआन"
+    },
+    {
+      "chineseCharacter": "行李",
+      "pinyin": "xing2 li5",
+      "devanagariPhonetic": "शिङ लि",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "luggage, baggage",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Bags and suitcases carried by travelers",
+      "audioFileName": null,
+      "exampleSentence": "I have two pieces of luggage.",
+      "exampleSentenceChinese": "我有两件行李。",
+      "exampleSentenceDevanagari": "वो योउ लिआङ जिआन शिङ लि"
+    },
+    {
+      "chineseCharacter": "登机口",
+      "pinyin": "deng1 ji1 kou3",
+      "devanagariPhonetic": "देङ जि खोउ",
+      "toneNumbers": [
+        1,
+        1,
+        3
+      ],
+      "englishDefinition": "boarding gate",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Designated gate for entering the aircraft",
+      "audioFileName": null,
+      "exampleSentence": "The boarding gate has changed to Gate 15.",
+      "exampleSentenceChinese": "登机口换到了十五号。",
+      "exampleSentenceDevanagari": "देङ जि खोउ हुआन दाओ ले शि वु हाओ"
+    },
+    {
+      "chineseCharacter": "候机室",
+      "pinyin": "hou4 ji1 shi4",
+      "devanagariPhonetic": "होउ जि शि",
+      "toneNumbers": [
+        4,
+        1,
+        4
+      ],
+      "englishDefinition": "waiting lounge, departure hall",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Waiting area before boarding a flight",
+      "audioFileName": null,
+      "exampleSentence": "We are resting in the departure lounge.",
+      "exampleSentenceChinese": "我们在候机室休息。",
+      "exampleSentenceDevanagari": "वो मेन जाइ होउ जि शि शिउ शि"
+    },
+    {
+      "chineseCharacter": "托运",
+      "pinyin": "tuo1 yun4",
+      "devanagariPhonetic": "थुओ युन",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "to check baggage",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Handing over large luggage for the cargo hold",
+      "audioFileName": null,
+      "exampleSentence": "Do you need to check this suitcase?",
+      "exampleSentenceChinese": "这个箱子需要托运吗？",
+      "exampleSentenceDevanagari": "झे गे शिआङ जि शु याओ थुओ युन मा"
+    },
+    {
+      "chineseCharacter": "超重",
+      "pinyin": "chao1 zhong4",
+      "devanagariPhonetic": "छाओ झोङ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "overweight (baggage)",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Exceeding the baggage weight limit",
+      "audioFileName": null,
+      "exampleSentence": "Your luggage is overweight by two kilograms.",
+      "exampleSentenceChinese": "您的行李超重了两公斤。",
+      "exampleSentenceDevanagari": "निन दे शिङ लि छाओ झोङ ले लिआङ गोङ जिन"
+    },
+    {
+      "chineseCharacter": "行李提取",
+      "pinyin": "xing2 li5 ti2 qu3",
+      "devanagariPhonetic": "शिङ लि थि चु",
+      "toneNumbers": [
+        2,
+        5,
+        2,
+        3
+      ],
+      "englishDefinition": "baggage claim",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Carousel area where arriving passengers collect bags",
+      "audioFileName": null,
+      "exampleSentence": "Where is the baggage claim area?",
+      "exampleSentenceChinese": "行李提取处在哪里？",
+      "exampleSentenceDevanagari": "शिङ लि थि चु छु जाइ ना लि"
+    },
+    {
+      "chineseCharacter": "延误",
+      "pinyin": "yan2 wu4",
+      "devanagariPhonetic": "यान वु",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "delay (flight or train)",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Transportation departure or arrival running late",
+      "audioFileName": null,
+      "exampleSentence": "Our flight has been delayed by one hour.",
+      "exampleSentenceChinese": "航班延误了一个小时。",
+      "exampleSentenceDevanagari": "हाङ बान यान वु ले यि गे शिआओ शि"
+    },
+    {
+      "chineseCharacter": "取消",
+      "pinyin": "qu3 xiao1",
+      "devanagariPhonetic": "चु शिआओ",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "to cancel, cancellation",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Calling off a booked trip, reservation, or flight",
+      "audioFileName": null,
+      "exampleSentence": "Today's flight was cancelled due to bad weather.",
+      "exampleSentenceChinese": "今天的航班取消了。",
+      "exampleSentenceDevanagari": "जिन थिआन दे हाङ बान चु शिआओ ले"
+    },
+    {
+      "chineseCharacter": "转机",
+      "pinyin": "zhuan3 ji1",
+      "devanagariPhonetic": "झुआन जि",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "to transfer flights, layover",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Changing planes en route to destination",
+      "audioFileName": null,
+      "exampleSentence": "We need to transfer flights in Shanghai.",
+      "exampleSentenceChinese": "我们需要在上海转机。",
+      "exampleSentenceDevanagari": "वो मेन शु याओ जाइ शाङ हाइ झुआन जि"
+    },
+    {
+      "chineseCharacter": "火车站",
+      "pinyin": "huo3 che1 zhan4",
+      "devanagariPhonetic": "हुओ छ झान",
+      "toneNumbers": [
+        3,
+        1,
+        4
+      ],
+      "englishDefinition": "railway station, train station",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Depot for rail passenger travel",
+      "audioFileName": null,
+      "exampleSentence": "How do I get to Beijing Train Station?",
+      "exampleSentenceChinese": "去北京火车站怎么走？",
+      "exampleSentenceDevanagari": "चु बेइ जिङ हुओ छ झान जेन मे जोउ"
+    },
+    {
+      "chineseCharacter": "高铁",
+      "pinyin": "gao1 tie3",
+      "devanagariPhonetic": "गाओ थिए",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "high-speed rail",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Modern high-speed bullet train network in China",
+      "audioFileName": null,
+      "exampleSentence": "Taking the high-speed train is very convenient.",
+      "exampleSentenceChinese": "坐高铁非常方便。",
+      "exampleSentenceDevanagari": "जुओ गाओ थिए फेइ छाङ फाङ बिआन"
+    },
+    {
+      "chineseCharacter": "地铁",
+      "pinyin": "di4 tie3",
+      "devanagariPhonetic": "दि थिए",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "subway, metro",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Urban underground rapid rail transit",
+      "audioFileName": null,
+      "exampleSentence": "Let's take the subway downtown.",
+      "exampleSentenceChinese": "我们坐地铁去市中心。",
+      "exampleSentenceDevanagari": "वो मेन जुओ दि थिए चु शि झोङ शिन"
+    },
+    {
+      "chineseCharacter": "地铁站",
+      "pinyin": "di4 tie3 zhan4",
+      "devanagariPhonetic": "दि थिए झान",
+      "toneNumbers": [
+        4,
+        3,
+        4
+      ],
+      "englishDefinition": "subway station",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Access stop for the subway system",
+      "audioFileName": null,
+      "exampleSentence": "There is a subway station near the hotel.",
+      "exampleSentenceChinese": "酒店附近有地铁站。",
+      "exampleSentenceDevanagari": "जिउ दिआन फु जिन योउ दि थिए झान"
+    },
+    {
+      "chineseCharacter": "出租车",
+      "pinyin": "chu1 zu1 che1",
+      "devanagariPhonetic": "छु जु छ",
+      "toneNumbers": [
+        1,
+        1,
+        1
+      ],
+      "englishDefinition": "taxi, cab",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Hired passenger vehicle service",
+      "audioFileName": null,
+      "exampleSentence": "Let's take a taxi to the hotel.",
+      "exampleSentenceChinese": "我们坐出租车去酒店吧。",
+      "exampleSentenceDevanagari": "वो मेन जुओ छु जु छ चु जिउ दिआन बा"
+    },
+    {
+      "chineseCharacter": "公交车",
+      "pinyin": "gong1 jiao1 che1",
+      "devanagariPhonetic": "गोङ जिआओ छ",
+      "toneNumbers": [
+        1,
+        1,
+        1
+      ],
+      "englishDefinition": "public bus",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Surface city public bus transport",
+      "audioFileName": null,
+      "exampleSentence": "Bus number 1 goes to the museum.",
+      "exampleSentenceChinese": "一号公交车去博物馆。",
+      "exampleSentenceDevanagari": "यि हाओ गोङ जिआओ छ चु बो वु गुआन"
+    },
+    {
+      "chineseCharacter": "车票",
+      "pinyin": "che1 piao4",
+      "devanagariPhonetic": "छ पिआओ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "travel ticket (train, bus)",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Paper or electronic fare ticket",
+      "audioFileName": null,
+      "exampleSentence": "Have you bought the train tickets?",
+      "exampleSentenceChinese": "车票你买好了吗？",
+      "exampleSentenceDevanagari": "छ पिआओ नि माइ हाओ ले मा"
+    },
+    {
+      "chineseCharacter": "单程票",
+      "pinyin": "dan1 cheng2 piao4",
+      "devanagariPhonetic": "दान छेङ पिआओ",
+      "toneNumbers": [
+        1,
+        2,
+        4
+      ],
+      "englishDefinition": "one-way ticket",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Ticket valid for travel in one direction only",
+      "audioFileName": null,
+      "exampleSentence": "I would like to buy a one-way ticket to Shanghai.",
+      "exampleSentenceChinese": "我想买一张去上海的单程票。",
+      "exampleSentenceDevanagari": "वो शिआङ माइ यि झाङ चु शाङ हाइ दे दान छेङ पिआओ"
+    },
+    {
+      "chineseCharacter": "往返票",
+      "pinyin": "wang3 fan3 piao4",
+      "devanagariPhonetic": "वाङ फान पिआओ",
+      "toneNumbers": [
+        3,
+        3,
+        4
+      ],
+      "englishDefinition": "round-trip ticket",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Ticket covering travel to a destination and return",
+      "audioFileName": null,
+      "exampleSentence": "Buying a round-trip ticket is cheaper.",
+      "exampleSentenceChinese": "买往返票更便宜。",
+      "exampleSentenceDevanagari": "माइ वाङ फान पिआओ गेङ पिआन यि"
+    },
+    {
+      "chineseCharacter": "售票处",
+      "pinyin": "shou4 piao4 chu4",
+      "devanagariPhonetic": "शोउ पिआओ छु",
+      "toneNumbers": [
+        4,
+        4,
+        4
+      ],
+      "englishDefinition": "ticket office, ticket counter",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Counter or booth selling transit tickets",
+      "audioFileName": null,
+      "exampleSentence": "Where is the station ticket office?",
+      "exampleSentenceChinese": "售票处在一楼大厅。",
+      "exampleSentenceDevanagari": "शोउ पिआओ छु जाइ यि लोउ दा थिङ"
+    },
+    {
+      "chineseCharacter": "检票口",
+      "pinyin": "jian3 piao4 kou3",
+      "devanagariPhonetic": "जिआन पिआओ खोउ",
+      "toneNumbers": [
+        3,
+        4,
+        3
+      ],
+      "englishDefinition": "ticket gate, turnstile",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Gate where tickets are checked before boarding",
+      "audioFileName": null,
+      "exampleSentence": "Please go to Ticket Gate 6 to board.",
+      "exampleSentenceChinese": "请到六号检票口进站。",
+      "exampleSentenceDevanagari": "चिङ दाओ लिउ हाओ जिआन पिआओ खोउ जिन झान"
+    },
+    {
+      "chineseCharacter": "月台",
+      "pinyin": "yue4 tai2",
+      "devanagariPhonetic": "युए थाइ",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "railway platform",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Raised boarding area alongside train tracks",
+      "audioFileName": null,
+      "exampleSentence": "The train is waiting at Platform 3.",
+      "exampleSentenceChinese": "列车在三号月台等候。",
+      "exampleSentenceDevanagari": "लिए छ जाइ सान हाओ युए थाइ देङ होउ"
+    },
+    {
+      "chineseCharacter": "打车",
+      "pinyin": "da3 che1",
+      "devanagariPhonetic": "दा छ",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "to hail or call a taxi",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Hailing a taxi in person or using a ride app",
+      "audioFileName": null,
+      "exampleSentence": "It is raining outside, let's call a cab.",
+      "exampleSentenceChinese": "外面下雨了，我们打车吧。",
+      "exampleSentenceDevanagari": "वाइ मिआन शिआ यु ले वो मेन दा छ बा"
+    },
+    {
+      "chineseCharacter": "堵车",
+      "pinyin": "du3 che1",
+      "devanagariPhonetic": "दु छ",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "traffic jam",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Heavy road congestion causing travel delays",
+      "audioFileName": null,
+      "exampleSentence": "There is a severe traffic jam on the highway.",
+      "exampleSentenceChinese": "路上堵车很严重。",
+      "exampleSentenceDevanagari": "लु शाङ दु छ हेन यान झोङ"
+    },
+    {
+      "chineseCharacter": "租车",
+      "pinyin": "zu1 che1",
+      "devanagariPhonetic": "जु छ",
+      "toneNumbers": [
+        1,
+        1
+      ],
+      "englishDefinition": "to rent a car, car rental",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Hiring a car for self-driving travel",
+      "audioFileName": null,
+      "exampleSentence": "We rented a car at the airport.",
+      "exampleSentenceChinese": "我们在机场租了一辆车。",
+      "exampleSentenceDevanagari": "वो मेन जाइ जि छाङ जु ले यि लिआङ छ"
+    },
+    {
+      "chineseCharacter": "酒店",
+      "pinyin": "jiu3 dian4",
+      "devanagariPhonetic": "जिउ दिआन",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "hotel",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Commercial accommodation establishment",
+      "audioFileName": null,
+      "exampleSentence": "Which hotel are you staying at?",
+      "exampleSentenceChinese": "你住在哪个酒店？",
+      "exampleSentenceDevanagari": "नि झु जाइ ना गे जिउ दिआन"
+    },
+    {
+      "chineseCharacter": "预订",
+      "pinyin": "yu4 ding4",
+      "devanagariPhonetic": "यु दिङ",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "to book, reservation",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Arranging lodging, seats, or tickets in advance",
+      "audioFileName": null,
+      "exampleSentence": "I booked a room online.",
+      "exampleSentenceChinese": "我在网上预订了房间。",
+      "exampleSentenceDevanagari": "वो जाइ वाङ शाङ यु दिङ ले फाङ जिआन"
+    },
+    {
+      "chineseCharacter": "前台",
+      "pinyin": "qian2 tai2",
+      "devanagariPhonetic": "चिआन थाइ",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "front desk, reception",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Customer reception counter in hotels or offices",
+      "audioFileName": null,
+      "exampleSentence": "Please register your passport at the front desk.",
+      "exampleSentenceChinese": "请到前台办理入住。",
+      "exampleSentenceDevanagari": "चिङ दाओ चिआन थाइ बान लि रु झु"
+    },
+    {
+      "chineseCharacter": "入住",
+      "pinyin": "ru4 zhu4",
+      "devanagariPhonetic": "रु झु",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "to check in (at a hotel)",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Completing hotel arrival procedures",
+      "audioFileName": null,
+      "exampleSentence": "We can check in at two o'clock in the afternoon.",
+      "exampleSentenceChinese": "我们下午两点可以入住。",
+      "exampleSentenceDevanagari": "वो मेन शिआ वु लिआङ दिआन खे यि रु झु"
+    },
+    {
+      "chineseCharacter": "退房",
+      "pinyin": "tui4 fang2",
+      "devanagariPhonetic": "थुइ फाङ",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "to check out (of a hotel)",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Returning room key and settling hotel charges",
+      "audioFileName": null,
+      "exampleSentence": "Check-out time is twelve o'clock noon.",
+      "exampleSentenceChinese": "退房时间是中午十二点。",
+      "exampleSentenceDevanagari": "थुइ फाङ शि जिआन शि झोङ वु शि अर दिआन"
+    },
+    {
+      "chineseCharacter": "房卡",
+      "pinyin": "fang2 ka3",
+      "devanagariPhonetic": "फाङ खा",
+      "toneNumbers": [
+        2,
+        3
+      ],
+      "englishDefinition": "room card, key card",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Electronic key card used to unlock hotel room door",
+      "audioFileName": null,
+      "exampleSentence": "Here is your room card.",
+      "exampleSentenceChinese": "这是您的房卡。",
+      "exampleSentenceDevanagari": "झे शि निन दे फाङ खा"
+    },
+    {
+      "chineseCharacter": "押金",
+      "pinyin": "ya1 jin1",
+      "devanagariPhonetic": "या जिन",
+      "toneNumbers": [
+        1,
+        1
+      ],
+      "englishDefinition": "deposit, security deposit",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Refundable security deposit paid at check-in or rental",
+      "audioFileName": null,
+      "exampleSentence": "How much deposit is required for check-in?",
+      "exampleSentenceChinese": "入住需要交多少押金？",
+      "exampleSentenceDevanagari": "रु झु शु याओ जिआओ दुओ शाओ या जिन"
+    },
+    {
+      "chineseCharacter": "单人间",
+      "pinyin": "dan1 ren2 jian1",
+      "devanagariPhonetic": "दान रेन जिआन",
+      "toneNumbers": [
+        1,
+        2,
+        1
+      ],
+      "englishDefinition": "single room",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Hotel room designed for one person",
+      "audioFileName": null,
+      "exampleSentence": "I would like to book a single room.",
+      "exampleSentenceChinese": "我想预订一间单人间。",
+      "exampleSentenceDevanagari": "वो शिआङ यु दिङ यि जिआन दान रेन जिआन"
+    },
+    {
+      "chineseCharacter": "双人间",
+      "pinyin": "shuang1 ren2 jian1",
+      "devanagariPhonetic": "शुआङ रेन जिआन",
+      "toneNumbers": [
+        1,
+        2,
+        1
+      ],
+      "englishDefinition": "double room, twin room",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Hotel room designed for two people",
+      "audioFileName": null,
+      "exampleSentence": "Does the double room include breakfast?",
+      "exampleSentenceChinese": "双人间含早餐吗？",
+      "exampleSentenceDevanagari": "शुआङ रेन जिआन हान जाओ छान मा"
+    },
+    {
+      "chineseCharacter": "行李寄存",
+      "pinyin": "xing2 li5 ji4 cun2",
+      "devanagariPhonetic": "शिङ लि जि छुन",
+      "toneNumbers": [
+        2,
+        5,
+        4,
+        2
+      ],
+      "englishDefinition": "luggage storage",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Leaving luggage with hotel or station staff temporarily",
+      "audioFileName": null,
+      "exampleSentence": "Can I store my luggage here for a few hours?",
+      "exampleSentenceChinese": "这里可以办理行李寄存吗？",
+      "exampleSentenceDevanagari": "झे लि खे यि बान लि शिङ लि जि छुन मा"
+    },
+    {
+      "chineseCharacter": "叫醒服务",
+      "pinyin": "jiao4 xing3 fu2 wu4",
+      "devanagariPhonetic": "जिआओ शिङ फु वु",
+      "toneNumbers": [
+        4,
+        3,
+        2,
+        4
+      ],
+      "englishDefinition": "wake-up call service",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Hotel service to call a guest's room in the morning",
+      "audioFileName": null,
+      "exampleSentence": "Please arrange a wake-up call for seven tomorrow morning.",
+      "exampleSentenceChinese": "请帮我订明天早上七点的叫醒服务。",
+      "exampleSentenceDevanagari": "चिङ बाङ वो दिङ मिङ थिआन जाओ शाङ चि दिआन दे जिआओ शिङ फु वु"
+    },
+    {
+      "chineseCharacter": "免费",
+      "pinyin": "mian3 fei4",
+      "devanagariPhonetic": "मिआन फेइ",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "free of charge, complimentary",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Service or item provided without fee",
+      "audioFileName": null,
+      "exampleSentence": "The hotel provides complimentary breakfast.",
+      "exampleSentenceChinese": "酒店提供免费早餐。",
+      "exampleSentenceDevanagari": "जिउ दिआन थि गोङ मिआन फेइ जाओ छान"
+    },
+    {
+      "chineseCharacter": "无线网络",
+      "pinyin": "wu2 xian4 wang3 luo4",
+      "devanagariPhonetic": "वु शिआन वाङ लुओ",
+      "toneNumbers": [
+        2,
+        4,
+        3,
+        4
+      ],
+      "englishDefinition": "Wi-Fi, wireless network",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Internet wireless connectivity",
+      "audioFileName": null,
+      "exampleSentence": "What is the Wi-Fi password in the room?",
+      "exampleSentenceChinese": "房间里的无线网络密码是多少？",
+      "exampleSentenceDevanagari": "फाङ जिआन लि दे वु शिआन वाङ लुओ मि मा शि दुओ शाओ"
+    },
+    {
+      "chineseCharacter": "地图",
+      "pinyin": "di4 tu2",
+      "devanagariPhonetic": "दि थु",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "map",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Paper or electronic geographic navigation tool",
+      "audioFileName": null,
+      "exampleSentence": "Let's check the map to see where we are.",
+      "exampleSentenceChinese": "我们看一下地图吧。",
+      "exampleSentenceDevanagari": "वो मेन खान यि शिआ दि थु बा"
+    },
+    {
+      "chineseCharacter": "怎么走",
+      "pinyin": "zen3 me5 zou3",
+      "devanagariPhonetic": "जेन मे जोउ",
+      "toneNumbers": [
+        3,
+        5,
+        3
+      ],
+      "englishDefinition": "how to get to (location)",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Asking pedestrians or staff for route directions",
+      "audioFileName": null,
+      "exampleSentence": "Excuse me, how do I get to the Forbidden City?",
+      "exampleSentenceChinese": "请问去故宫怎么走？",
+      "exampleSentenceDevanagari": "चिङ वेन चु गु गोङ जेन मे जोउ"
+    },
+    {
+      "chineseCharacter": "向左拐",
+      "pinyin": "xiang4 zuo3 guai3",
+      "devanagariPhonetic": "शिआङ जुओ गुआइ",
+      "toneNumbers": [
+        4,
+        3,
+        3
+      ],
+      "englishDefinition": "turn left",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Directional instruction to turn toward the left",
+      "audioFileName": null,
+      "exampleSentence": "Turn left at the next intersection.",
+      "exampleSentenceChinese": "在下一个路口向左拐。",
+      "exampleSentenceDevanagari": "जाइ शिआ यि गे लु खोउ शिआङ जुओ गुआइ"
+    },
+    {
+      "chineseCharacter": "向右拐",
+      "pinyin": "xiang4 you3 guai3",
+      "devanagariPhonetic": "शिआङ योउ गुआइ",
+      "toneNumbers": [
+        4,
+        3,
+        3
+      ],
+      "englishDefinition": "turn right",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Directional instruction to turn toward the right",
+      "audioFileName": null,
+      "exampleSentence": "Walk fifty meters and turn right.",
+      "exampleSentenceChinese": "走五十米后向右拐。",
+      "exampleSentenceDevanagari": "जोउ वु शि मि होउ शिआङ योउ गुआइ"
+    },
+    {
+      "chineseCharacter": "一直走",
+      "pinyin": "yi4 zhi2 zou3",
+      "devanagariPhonetic": "यि झि जोउ",
+      "toneNumbers": [
+        4,
+        2,
+        3
+      ],
+      "englishDefinition": "walk straight ahead",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Instruction to continue straight forward",
+      "audioFileName": null,
+      "exampleSentence": "Walk straight ahead and you will see the subway entrance.",
+      "exampleSentenceChinese": "一直走就能看到地铁站入口。",
+      "exampleSentenceDevanagari": "यि झि जोउ जिउ नेङ खान दाओ दि थिए झान रु खोउ"
+    },
+    {
+      "chineseCharacter": "十字路口",
+      "pinyin": "shi2 zi4 lu4 kou3",
+      "devanagariPhonetic": "शि जि लु खोउ",
+      "toneNumbers": [
+        2,
+        4,
+        4,
+        3
+      ],
+      "englishDefinition": "intersection, crossroads",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Where two streets cross",
+      "audioFileName": null,
+      "exampleSentence": "The bank is right at the intersection.",
+      "exampleSentenceChinese": "银行就在十字路口。",
+      "exampleSentenceDevanagari": "यिन हाङ जिउ जाइ शि जि लु खोउ"
+    },
+    {
+      "chineseCharacter": "旁边",
+      "pinyin": "pang2 bian1",
+      "devanagariPhonetic": "फाङ बिआन",
+      "toneNumbers": [
+        2,
+        1
+      ],
+      "englishDefinition": "beside, next to",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Adjacent position",
+      "audioFileName": null,
+      "exampleSentence": "The supermarket is right next to the hotel.",
+      "exampleSentenceChinese": "超市就在酒店旁边。",
+      "exampleSentenceDevanagari": "छाओ शि जिउ जाइ जिउ दिआन फाङ बिआन"
+    },
+    {
+      "chineseCharacter": "对面",
+      "pinyin": "dui4 mian4",
+      "devanagariPhonetic": "दुइ मिआन",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "opposite side, across the street",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Directly facing position across a road or hall",
+      "audioFileName": null,
+      "exampleSentence": "The restaurant is across the street.",
+      "exampleSentenceChinese": "餐厅就在马路对面。",
+      "exampleSentenceDevanagari": "छान थिङ जिउ जाइ मा लु दुइ मिआन"
+    },
+    {
+      "chineseCharacter": "出口",
+      "pinyin": "chu1 kou3",
+      "devanagariPhonetic": "छु खोउ",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "exit",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Way out of a station, building, or attraction",
+      "audioFileName": null,
+      "exampleSentence": "Please leave through Exit B.",
+      "exampleSentenceChinese": "请从乙出口出去。",
+      "exampleSentenceDevanagari": "चिङ छोङ यि छु खोउ छु चु"
+    },
+    {
+      "chineseCharacter": "入口",
+      "pinyin": "ru4 kou3",
+      "devanagariPhonetic": "रु खोउ",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "entrance",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Doorway or gate for entering",
+      "audioFileName": null,
+      "exampleSentence": "The museum entrance is on the east side.",
+      "exampleSentenceChinese": "博物馆入口在东边。",
+      "exampleSentenceDevanagari": "बो वु गुआन रु खोउ जाइ दोङ बिआन"
+    },
+    {
+      "chineseCharacter": "洗手间",
+      "pinyin": "xi3 shou3 jian1",
+      "devanagariPhonetic": "शि शोउ जिआन",
+      "toneNumbers": [
+        3,
+        3,
+        1
+      ],
+      "englishDefinition": "restroom, washroom, toilet",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Polite term for public restroom",
+      "audioFileName": null,
+      "exampleSentence": "Excuse me, where is the washroom?",
+      "exampleSentenceChinese": "请问洗手间在哪里？",
+      "exampleSentenceDevanagari": "चिङ वेन शि शोउ जिआन जाइ ना लि"
+    },
+    {
+      "chineseCharacter": "迷路",
+      "pinyin": "mi2 lu4",
+      "devanagariPhonetic": "मि लु",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "to get lost, lose one's way",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Unable to find destination or direction",
+      "audioFileName": null,
+      "exampleSentence": "I am lost, can you help me?",
+      "exampleSentenceChinese": "我迷路了，您可以帮我吗？",
+      "exampleSentenceDevanagari": "वो मि लु ले निन खे यि बाङ वो मा"
+    },
+    {
+      "chineseCharacter": "景点",
+      "pinyin": "jing3 dian3",
+      "devanagariPhonetic": "जिङ दिआन",
+      "toneNumbers": [
+        3,
+        3
+      ],
+      "englishDefinition": "scenic spot, tourist attraction",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Sightseeing destination or cultural landmark",
+      "audioFileName": null,
+      "exampleSentence": "Beijing has many famous scenic spots.",
+      "exampleSentenceChinese": "北京有很多著名的景点。",
+      "exampleSentenceDevanagari": "बेइ जिङ योउ हेन दुओ झु मिङ दे जिङ दिआन"
+    },
+    {
+      "chineseCharacter": "门票",
+      "pinyin": "men2 piao4",
+      "devanagariPhonetic": "मेन पिआओ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "admission ticket, entrance ticket",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Ticket required to enter parks or attractions",
+      "audioFileName": null,
+      "exampleSentence": "How much is an entrance ticket?",
+      "exampleSentenceChinese": "景区的门票多少钱一张？",
+      "exampleSentenceDevanagari": "जिङ चु दे मेन पिआओ दुओ शाओ चिआन यि झाङ"
+    },
+    {
+      "chineseCharacter": "导游",
+      "pinyin": "dao3 you2",
+      "devanagariPhonetic": "दाओ योउ",
+      "toneNumbers": [
+        3,
+        2
+      ],
+      "englishDefinition": "tour guide",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Professional guide for tourist groups",
+      "audioFileName": null,
+      "exampleSentence": "The tour guide introduced the history of the attraction.",
+      "exampleSentenceChinese": "导游向我们介绍了景点的历史。",
+      "exampleSentenceDevanagari": "दाओ योउ शिआङ वो मेन जिए शाओ ले जिङ दिआन दे लि शि"
+    },
+    {
+      "chineseCharacter": "拍照",
+      "pinyin": "pai1 zhao4",
+      "devanagariPhonetic": "फाइ झाओ",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "to take a photograph, take photos",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Capturing pictures with camera or phone",
+      "audioFileName": null,
+      "exampleSentence": "Could you take a photo for us, please?",
+      "exampleSentenceChinese": "可以帮我们拍张照吗？",
+      "exampleSentenceDevanagari": "खे यि बाङ वो मेन फाइ झाङ झाओ मा"
+    },
+    {
+      "chineseCharacter": "纪念品",
+      "pinyin": "ji4 nian4 pin3",
+      "devanagariPhonetic": "जि निआन पिन",
+      "toneNumbers": [
+        4,
+        4,
+        3
+      ],
+      "englishDefinition": "souvenir, keepsake",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Item purchased as a reminder of travel",
+      "audioFileName": null,
+      "exampleSentence": "I bought some souvenirs for my friends.",
+      "exampleSentenceChinese": "我给朋友买了一些纪念品。",
+      "exampleSentenceDevanagari": "वो गेइ फेङ योउ माइ ले यि शिए जि निआन पिन"
+    },
+    {
+      "chineseCharacter": "换钱",
+      "pinyin": "huan4 qian2",
+      "devanagariPhonetic": "हुआन चिआन",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "to exchange currency",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Converting foreign currency to local banknotes",
+      "audioFileName": null,
+      "exampleSentence": "Where can I exchange foreign currency?",
+      "exampleSentenceChinese": "哪里可以换外币？",
+      "exampleSentenceDevanagari": "ना लि खे यि हुआन वाइ बि"
+    },
+    {
+      "chineseCharacter": "汇率",
+      "pinyin": "hui4 lv4",
+      "devanagariPhonetic": "हुइ ल्यु",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "exchange rate",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Value of one currency for the purpose of conversion",
+      "audioFileName": null,
+      "exampleSentence": "What is today's exchange rate?",
+      "exampleSentenceChinese": "今天的汇率是多少？",
+      "exampleSentenceDevanagari": "जिन थिआन दे हुइ ल्यु शि दुओ शाओ"
+    },
+    {
+      "chineseCharacter": "现金",
+      "pinyin": "xian4 jin1",
+      "devanagariPhonetic": "शिआन जिन",
+      "toneNumbers": [
+        4,
+        1
+      ],
+      "englishDefinition": "cash, physical money",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Physical paper bank notes or coins",
+      "audioFileName": null,
+      "exampleSentence": "Do you accept cash?",
+      "exampleSentenceChinese": "请问收现金吗？",
+      "exampleSentenceDevanagari": "चिङ वेन शोउ शिआन जिन मा"
+    },
+    {
+      "chineseCharacter": "信用卡",
+      "pinyin": "xin4 yong4 ka3",
+      "devanagariPhonetic": "शिन योङ खा",
+      "toneNumbers": [
+        4,
+        4,
+        3
+      ],
+      "englishDefinition": "credit card",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Bank card used for cashless transactions",
+      "audioFileName": null,
+      "exampleSentence": "Can I pay by credit card?",
+      "exampleSentenceChinese": "这里可以刷信用卡吗？",
+      "exampleSentenceDevanagari": "झे लि खे यि शुआ शिन योङ खा मा"
+    },
+    {
+      "chineseCharacter": "问一下",
+      "pinyin": "wen4 yi2 xia4",
+      "devanagariPhonetic": "वेन यि शिआ",
+      "toneNumbers": [
+        4,
+        2,
+        4
+      ],
+      "englishDefinition": "to ask a quick question",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Polite conversational opener when asking directions",
+      "audioFileName": null,
+      "exampleSentence": "Excuse me, I'd like to ask a quick question.",
+      "exampleSentenceChinese": "不好意思，我想问一下路。",
+      "exampleSentenceDevanagari": "बु हाओ यि सि वो शिआङ वेन यि शिआ लु"
+    },
+    {
+      "chineseCharacter": "旅游咨询",
+      "pinyin": "lv3 you2 zi1 xun2",
+      "devanagariPhonetic": "ल्यु योउ जि शुन",
+      "toneNumbers": [
+        3,
+        2,
+        1,
+        2
+      ],
+      "englishDefinition": "tourist information, visitor inquiries",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Seeking visitor guidance at a desk or center",
+      "audioFileName": null,
+      "exampleSentence": "There is a tourist information center at the airport.",
+      "exampleSentenceChinese": "机场有旅游咨询中心。",
+      "exampleSentenceDevanagari": "जि छाङ योउ ल्यु योउ जि शुन झोङ शिन"
+    },
+    {
+      "chineseCharacter": "警察局",
+      "pinyin": "jing3 cha2 ju2",
+      "devanagariPhonetic": "जिङ छा जु",
+      "toneNumbers": [
+        3,
+        2,
+        2
+      ],
+      "englishDefinition": "police station",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Law enforcement facility for safety or lost items",
+      "audioFileName": null,
+      "exampleSentence": "Where is the nearest police station?",
+      "exampleSentenceChinese": "最近的警察局在哪里？",
+      "exampleSentenceDevanagari": "जुइ जिन दे जिङ छा जु जाइ ना लि"
+    },
+    {
+      "chineseCharacter": "大使馆",
+      "pinyin": "da4 shi3 guan3",
+      "devanagariPhonetic": "दा शि गुआन",
+      "toneNumbers": [
+        4,
+        3,
+        3
+      ],
+      "englishDefinition": "embassy",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Diplomatic mission for citizens abroad",
+      "audioFileName": null,
+      "exampleSentence": "I lost my passport and need to go to the embassy.",
+      "exampleSentenceChinese": "我护照丢了，需要去大使馆。",
+      "exampleSentenceDevanagari": "वो हु झाओ दिउ ले शु याओ चु दा शि गुआन"
+    },
+    {
+      "chineseCharacter": "紧急求助",
+      "pinyin": "jin3 ji2 qiu2 zhu4",
+      "devanagariPhonetic": "जिन जि चिउ झु",
+      "toneNumbers": [
+        3,
+        2,
+        2,
+        4
+      ],
+      "englishDefinition": "emergency assistance, SOS",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Seeking urgent aid in critical situations",
+      "audioFileName": null,
+      "exampleSentence": "Dial 110 for emergency police assistance.",
+      "exampleSentenceChinese": "紧急求助请拨打一一零。",
+      "exampleSentenceDevanagari": "जिन जि चिउ झु चिङ बो दा यि यि लिङ"
+    },
+    {
+      "chineseCharacter": "遗失",
+      "pinyin": "yi2 shi1",
+      "devanagariPhonetic": "यि शि",
+      "toneNumbers": [
+        2,
+        1
+      ],
+      "englishDefinition": "to lose, lost item",
+      "domainTag": "travel",
+      "difficultyTier": 2,
+      "usageContext": "Misplacing belongings while traveling",
+      "audioFileName": null,
+      "exampleSentence": "I lost my bag on the train.",
+      "exampleSentenceChinese": "我在火车上遗失了背包。",
+      "exampleSentenceDevanagari": "वो जाइ हुओ छ शाङ यि शि ले बेइ बाओ"
+    },
+    {
+      "chineseCharacter": "师傅",
+      "pinyin": "shi1 fu5",
+      "devanagariPhonetic": "शि फु",
+      "toneNumbers": [
+        1,
+        5
+      ],
+      "englishDefinition": "master, driver (polite title)",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Polite form of address for taxi drivers or service personnel",
+      "audioFileName": null,
+      "exampleSentence": "Master driver, please take me to the airport.",
+      "exampleSentenceChinese": "师傅，请带我去机场。",
+      "exampleSentenceDevanagari": "शि फु चिङ दाइ वो चु जि छाङ"
+    },
+    {
+      "chineseCharacter": "停这里",
+      "pinyin": "ting2 zhe4 li3",
+      "devanagariPhonetic": "थिङ झे लि",
+      "toneNumbers": [
+        2,
+        4,
+        3
+      ],
+      "englishDefinition": "stop here (to a taxi driver)",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Instructing a taxi driver to pull over",
+      "audioFileName": null,
+      "exampleSentence": "Driver, please pull over and stop right here.",
+      "exampleSentenceChinese": "师傅，请停这里就可以了。",
+      "exampleSentenceDevanagari": "शि फु चिङ थिङ झे लि जिउ खे यि ले"
+    },
+    {
+      "chineseCharacter": "慢一点",
+      "pinyin": "man4 yi4 dian3",
+      "devanagariPhonetic": "मान यि दिआन",
+      "toneNumbers": [
+        4,
+        4,
+        3
+      ],
+      "englishDefinition": "a little slower",
+      "domainTag": "travel",
+      "difficultyTier": 1,
+      "usageContext": "Asking someone to drive or speak slower",
+      "audioFileName": null,
+      "exampleSentence": "Please drive a little slower.",
+      "exampleSentenceChinese": "请开慢一点，我不着急。",
+      "exampleSentenceDevanagari": "चिङ खाइ मान यि दिआन वो बु झाओ जि"
+    }
+  ]
+}

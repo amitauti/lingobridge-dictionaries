@@ -1,0 +1,1299 @@
+{
+  "schemaVersion": 1,
+  "id": "business-cmn",
+  "languageCode": "cmn",
+  "domainId": "business",
+  "version": 1,
+  "entries": [
+    {
+      "chineseCharacter": "合作",
+      "pinyin": "he2 zuo4",
+      "devanagariPhonetic": "हे जुओ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "cooperation, to cooperate",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Forming business partnerships or joint ventures",
+      "audioFileName": null,
+      "exampleSentence": "We look forward to cooperating with your company.",
+      "exampleSentenceChinese": "我们期待与贵公司合作。",
+      "exampleSentenceDevanagari": "वो मेन चि दाइ यु गुइ गोङ सि हे जुओ"
+    },
+    {
+      "chineseCharacter": "伙伴",
+      "pinyin": "huo3 ban4",
+      "devanagariPhonetic": "हुओ बान",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "partner, associate",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Strategic business collaborator or alliance partner",
+      "audioFileName": null,
+      "exampleSentence": "They are our important strategic partner.",
+      "exampleSentenceChinese": "他们是我们重要的战略伙伴。",
+      "exampleSentenceDevanagari": "था मेन शि वो मेन झोङ याओ दे झान लुए हुओ बान"
+    },
+    {
+      "chineseCharacter": "业务",
+      "pinyin": "ye4 wu4",
+      "devanagariPhonetic": "ये वु",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "business operations, professional service",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Commercial lines of business or operational duties",
+      "audioFileName": null,
+      "exampleSentence": "Our company's business is expanding rapidly.",
+      "exampleSentenceChinese": "我们公司的业务正在快速扩展。",
+      "exampleSentenceDevanagari": "वो मेन गोङ सि दे ये वु झेङ जाइ खुआइ सु खुओ झान"
+    },
+    {
+      "chineseCharacter": "项目",
+      "pinyin": "xiang4 mu4",
+      "devanagariPhonetic": "शिआङ मु",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "project, program",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Specific business undertaking or corporate initiative",
+      "audioFileName": null,
+      "exampleSentence": "This project must be delivered by the end of the month.",
+      "exampleSentenceChinese": "这个项目月底必须交付。",
+      "exampleSentenceDevanagari": "झे गे शिआङ मु युए दि बि शु जिआओ फु"
+    },
+    {
+      "chineseCharacter": "客户",
+      "pinyin": "ke4 hu4",
+      "devanagariPhonetic": "खे हु",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "client, customer, account",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Corporate or individual buyer of services",
+      "audioFileName": null,
+      "exampleSentence": "Customer satisfaction is our highest priority.",
+      "exampleSentenceChinese": "客户满意是我们的第一目标。",
+      "exampleSentenceDevanagari": "खे हु मान यि शि वो मेन दे दि यि मु बिआओ"
+    },
+    {
+      "chineseCharacter": "市场",
+      "pinyin": "shi4 chang3",
+      "devanagariPhonetic": "शि छाङ",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "market, marketplace",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Industry commercial arena or consumer target",
+      "audioFileName": null,
+      "exampleSentence": "We are actively exploring the Asian market.",
+      "exampleSentenceChinese": "我们在开拓亚洲市场。",
+      "exampleSentenceDevanagari": "वो मेन जाइ खाइ थुओ या झोउ शि छाङ"
+    },
+    {
+      "chineseCharacter": "战略",
+      "pinyin": "zhan4 lue4",
+      "devanagariPhonetic": "झान लुए",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "strategy, strategic",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Long-term high-level executive corporate plan",
+      "audioFileName": null,
+      "exampleSentence": "The board approved the new three-year strategy.",
+      "exampleSentenceChinese": "董事会通过了新的战略。",
+      "exampleSentenceDevanagari": "दोङ शि हुइ थोङ गुओ ले शिन दे झान लुए"
+    },
+    {
+      "chineseCharacter": "目标",
+      "pinyin": "mu4 biao1",
+      "devanagariPhonetic": "मु बिआओ",
+      "toneNumbers": [
+        4,
+        1
+      ],
+      "englishDefinition": "target, goal, objective",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Measurable business or quarterly target",
+      "audioFileName": null,
+      "exampleSentence": "We achieved this quarter's sales target.",
+      "exampleSentenceChinese": "我们完成了本季度的销售目标。",
+      "exampleSentenceDevanagari": "वो मेन वान छेङ ले बेन जि दु दे शिआओ शोउ मु बिआओ"
+    },
+    {
+      "chineseCharacter": "商业计划",
+      "pinyin": "shang1 ye4 ji4 hua4",
+      "devanagariPhonetic": "शाङ ये जि हुआ",
+      "toneNumbers": [
+        1,
+        4,
+        4,
+        4
+      ],
+      "englishDefinition": "business plan",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Formal document outlining business goals and finances",
+      "audioFileName": null,
+      "exampleSentence": "The investors reviewed our business plan.",
+      "exampleSentenceChinese": "投资人看过了商业计划。",
+      "exampleSentenceDevanagari": "थोउ जि रेन खान गुओ ले शाङ ये जि हुआ"
+    },
+    {
+      "chineseCharacter": "优势",
+      "pinyin": "you1 shi4",
+      "devanagariPhonetic": "योउ शि",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "advantage, strength, edge",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Competitive advantage in the market",
+      "audioFileName": null,
+      "exampleSentence": "Our competitive edge lies in technology innovation.",
+      "exampleSentenceChinese": "我们的核心优势在于技术。",
+      "exampleSentenceDevanagari": "वो मेन दे हे शिन योउ शि जाइ यु जि शु"
+    },
+    {
+      "chineseCharacter": "劣势",
+      "pinyin": "lie4 shi4",
+      "devanagariPhonetic": "लिए शि",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "disadvantage, weakness",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Competitive shortcomings or market weaknesses",
+      "audioFileName": null,
+      "exampleSentence": "We must recognize our own disadvantages.",
+      "exampleSentenceChinese": "我们要认清自身的劣势。",
+      "exampleSentenceDevanagari": "वो मेन याओ रेन चिङ जि शेन दे लिए शि"
+    },
+    {
+      "chineseCharacter": "竞争",
+      "pinyin": "jing4 zheng1",
+      "devanagariPhonetic": "जिङ झेङ",
+      "toneNumbers": [
+        4,
+        1
+      ],
+      "englishDefinition": "competition, to compete",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Rivalry between commercial entities in a market",
+      "audioFileName": null,
+      "exampleSentence": "Market competition is becoming more intense.",
+      "exampleSentenceChinese": "市场竞争越来越激烈。",
+      "exampleSentenceDevanagari": "शि छाङ जिङ झेङ युए लाइ युए जि लिए"
+    },
+    {
+      "chineseCharacter": "对手",
+      "pinyin": "dui4 shou3",
+      "devanagariPhonetic": "दुइ शोउ",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "competitor, rival, opponent",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Opposing company or competitor in an industry",
+      "audioFileName": null,
+      "exampleSentence": "Our main competitor just launched a new product.",
+      "exampleSentenceChinese": "竞争对手推出了新产品。",
+      "exampleSentenceDevanagari": "जिङ झेङ दुइ शोउ थुइ छु ले शिन छान पिन"
+    },
+    {
+      "chineseCharacter": "资源",
+      "pinyin": "zi1 yuan2",
+      "devanagariPhonetic": "जि युआन",
+      "toneNumbers": [
+        1,
+        2
+      ],
+      "englishDefinition": "resources, assets",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Corporate, financial, or personnel resources",
+      "audioFileName": null,
+      "exampleSentence": "We need to allocate more project resources.",
+      "exampleSentenceChinese": "我们需要投入更多资源。",
+      "exampleSentenceDevanagari": "वो मेन शु याओ थोउ रु गेङ दुओ जि युआन"
+    },
+    {
+      "chineseCharacter": "整合",
+      "pinyin": "zheng3 he2",
+      "devanagariPhonetic": "झेङ हे",
+      "toneNumbers": [
+        3,
+        2
+      ],
+      "englishDefinition": "to integrate, consolidation",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Combining systems, teams, or corporate resources",
+      "audioFileName": null,
+      "exampleSentence": "We are integrating resources across both departments.",
+      "exampleSentenceChinese": "我们正在整合两边部门的资源。",
+      "exampleSentenceDevanagari": "वो मेन झेङ जाइ झेङ हे लिआङ बिआन बु मेन दे जि युआन"
+    },
+    {
+      "chineseCharacter": "合同",
+      "pinyin": "he2 tong5",
+      "devanagariPhonetic": "हे थोङ",
+      "toneNumbers": [
+        2,
+        5
+      ],
+      "englishDefinition": "contract, legal agreement",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Legally binding commercial document",
+      "audioFileName": null,
+      "exampleSentence": "Both parties have officially signed the contract.",
+      "exampleSentenceChinese": "双方已经正式签署了合同。",
+      "exampleSentenceDevanagari": "शुआङ फाङ यि जिङ झेङ शि चिआन शु ले हे थोङ"
+    },
+    {
+      "chineseCharacter": "协议",
+      "pinyin": "xie2 yi4",
+      "devanagariPhonetic": "शिए यि",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "agreement, pact, protocol",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Mutual understanding or written pact",
+      "audioFileName": null,
+      "exampleSentence": "We reached a cooperation agreement.",
+      "exampleSentenceChinese": "我们达成了合作协议。",
+      "exampleSentenceDevanagari": "वो मेन दा छेङ ले हे जुओ शिए यि"
+    },
+    {
+      "chineseCharacter": "签署",
+      "pinyin": "qian1 shu3",
+      "devanagariPhonetic": "चिआन शु",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "to sign (a contract, document)",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Formal execution of legal or business papers",
+      "audioFileName": null,
+      "exampleSentence": "The signing ceremony will be held tomorrow.",
+      "exampleSentenceChinese": "签署仪式将在明天举行。",
+      "exampleSentenceDevanagari": "चिआन शु यि शि जिआङ जाइ मिङ थिआन जु शिङ"
+    },
+    {
+      "chineseCharacter": "谈判",
+      "pinyin": "tan2 pan4",
+      "devanagariPhonetic": "थान फान",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "negotiation, to negotiate",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Commercial bargaining to resolve terms",
+      "audioFileName": null,
+      "exampleSentence": "The business negotiations went very smoothly.",
+      "exampleSentenceChinese": "商务谈判进行得很顺利。",
+      "exampleSentenceDevanagari": "शाङ वु थान फान जिन शिङ दे हेन शुन लि"
+    },
+    {
+      "chineseCharacter": "条款",
+      "pinyin": "tiao2 kuan3",
+      "devanagariPhonetic": "थिआओ खुआन",
+      "toneNumbers": [
+        2,
+        3
+      ],
+      "englishDefinition": "clause, terms, provision",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Specific legal conditions in a contract",
+      "audioFileName": null,
+      "exampleSentence": "Please read each clause of the contract carefully.",
+      "exampleSentenceChinese": "请仔细阅读合同的每个条款。",
+      "exampleSentenceDevanagari": "चिङ जि शि युए दु हे थोङ दे मेइ गे थिआओ खुआन"
+    },
+    {
+      "chineseCharacter": "达成",
+      "pinyin": "da2 cheng2",
+      "devanagariPhonetic": "दा छेङ",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "to reach (agreement, consensus)",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Arriving at mutual agreement through discussion",
+      "audioFileName": null,
+      "exampleSentence": "Both parties reached a final consensus.",
+      "exampleSentenceChinese": "双方达成了最终一致。",
+      "exampleSentenceDevanagari": "शुआङ फाङ दा छेङ ले जुइ झोङ यि झि"
+    },
+    {
+      "chineseCharacter": "提案",
+      "pinyin": "ti2 an4",
+      "devanagariPhonetic": "थि आन",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "proposal, pitch, submission",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Business pitch or proposal submitted to client",
+      "audioFileName": null,
+      "exampleSentence": "The client accepted our new proposal.",
+      "exampleSentenceChinese": "客户接受了我们的新提案。",
+      "exampleSentenceDevanagari": "खे हु जिए शोउ ले वो मेन दे शिन थि आन"
+    },
+    {
+      "chineseCharacter": "方案",
+      "pinyin": "fang1 an4",
+      "devanagariPhonetic": "फाङ आन",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "plan, solution, program",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Detailed execution blueprint or corporate solution",
+      "audioFileName": null,
+      "exampleSentence": "This is our technical solution.",
+      "exampleSentenceChinese": "这是我们的技术方案。",
+      "exampleSentenceDevanagari": "झे शि वो मेन दे जि शु फाङ आन"
+    },
+    {
+      "chineseCharacter": "确认",
+      "pinyin": "que4 ren4",
+      "devanagariPhonetic": "चुए रेन",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "to confirm, confirmation",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Verifying details, scheduling, or decisions",
+      "audioFileName": null,
+      "exampleSentence": "Please confirm the meeting time by email.",
+      "exampleSentenceChinese": "请发邮件确认会议时间。",
+      "exampleSentenceDevanagari": "चिङ फा योउ जिआन चुए रेन हुइ यि शि जिआन"
+    },
+    {
+      "chineseCharacter": "修改",
+      "pinyin": "xiu1 gai3",
+      "devanagariPhonetic": "शिउ गाइ",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "to revise, modify, amend",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Editing documents, terms, or code",
+      "audioFileName": null,
+      "exampleSentence": "We need to modify the draft agreement.",
+      "exampleSentenceChinese": "我们需要修改这份草案。",
+      "exampleSentenceDevanagari": "वो मेन शु याओ शिउ गाइ झे फेन छाओ आन"
+    },
+    {
+      "chineseCharacter": "报价",
+      "pinyin": "bao4 jia4",
+      "devanagariPhonetic": "बाओ जिआ",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "quotation, price quote, offer",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Commercial price submitted for goods or services",
+      "audioFileName": null,
+      "exampleSentence": "Please send us your official quotation.",
+      "exampleSentenceChinese": "请把正式报价发给我们。",
+      "exampleSentenceDevanagari": "चिङ बा झेङ शि बाओ जिआ फा गेइ वो मेन"
+    },
+    {
+      "chineseCharacter": "折扣",
+      "pinyin": "zhe2 kou4",
+      "devanagariPhonetic": "झे खोउ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "discount, price concession",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Reduction in price for volume or partnership",
+      "audioFileName": null,
+      "exampleSentence": "Can you offer a ten percent discount?",
+      "exampleSentenceChinese": "可以给我们打九折吗？",
+      "exampleSentenceDevanagari": "खे यि गेइ वो मेन दा जिउ झे मा"
+    },
+    {
+      "chineseCharacter": "付款",
+      "pinyin": "fu4 kuan3",
+      "devanagariPhonetic": "फु खुआन",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "payment, to pay",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Transfer of funds to fulfill invoice or bill",
+      "audioFileName": null,
+      "exampleSentence": "The payment has already been remitted.",
+      "exampleSentenceChinese": "付款已经汇出去了。",
+      "exampleSentenceDevanagari": "फु खुआन यि जिङ हुइ छु चु ले"
+    },
+    {
+      "chineseCharacter": "账期",
+      "pinyin": "zhang4 qi1",
+      "devanagariPhonetic": "झाङ चि",
+      "toneNumbers": [
+        4,
+        1
+      ],
+      "englishDefinition": "payment term, credit period",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Agreed schedule (e.g. 30/60 days) for invoice payment",
+      "audioFileName": null,
+      "exampleSentence": "Our standard payment term is thirty days.",
+      "exampleSentenceChinese": "我们的标准账期是三十天。",
+      "exampleSentenceDevanagari": "वो मेन दे बिआओ झुन झाङ चि शि सान शि थिआन"
+    },
+    {
+      "chineseCharacter": "交付",
+      "pinyin": "jiao1 fu4",
+      "devanagariPhonetic": "जिआओ फु",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "delivery, handover, to deliver",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Final delivery of product or project output",
+      "audioFileName": null,
+      "exampleSentence": "The team delivered the software on schedule.",
+      "exampleSentenceChinese": "团队按时完成了产品交付。",
+      "exampleSentenceDevanagari": "थुआन दुइ आन शि वान छेङ ले छान पिन जिआओ फु"
+    },
+    {
+      "chineseCharacter": "预算",
+      "pinyin": "yu4 suan4",
+      "devanagariPhonetic": "यु सुआन",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "budget",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Financial allocation for departments or projects",
+      "audioFileName": null,
+      "exampleSentence": "Next year's department budget has been approved.",
+      "exampleSentenceChinese": "明年的部门预算已经批准了。",
+      "exampleSentenceDevanagari": "मिङ थिआन दे बु मेन यु सुआन यि जिङ पि झुन ले"
+    },
+    {
+      "chineseCharacter": "成本",
+      "pinyin": "cheng2 ben3",
+      "devanagariPhonetic": "छेङ बेन",
+      "toneNumbers": [
+        2,
+        3
+      ],
+      "englishDefinition": "cost, expense",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Expenditure required to produce goods or services",
+      "audioFileName": null,
+      "exampleSentence": "We need to control operational costs strictly.",
+      "exampleSentenceChinese": "我们要严格控制运营成本。",
+      "exampleSentenceDevanagari": "वो मेन याओ यान गे खोङ झि युन यिङ छेङ बेन"
+    },
+    {
+      "chineseCharacter": "利润",
+      "pinyin": "li4 run4",
+      "devanagariPhonetic": "लि रुन",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "profit, net gain",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Financial gain exceeding costs",
+      "audioFileName": null,
+      "exampleSentence": "Net profit increased by twenty percent this year.",
+      "exampleSentenceChinese": "今年净利润增长了百分之二十。",
+      "exampleSentenceDevanagari": "जिन निआन जिङ लि रुन जेङ झाङ ले बाइ फेन झि अर शि"
+    },
+    {
+      "chineseCharacter": "收入",
+      "pinyin": "shou1 ru4",
+      "devanagariPhonetic": "शोउ रु",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "revenue, income, earnings",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Total funds received by company or individual",
+      "audioFileName": null,
+      "exampleSentence": "Corporate quarterly revenue reached new records.",
+      "exampleSentenceChinese": "公司季度收入创下新纪录。",
+      "exampleSentenceDevanagari": "गोङ सि जि दु शोउ रु छुआङ शिआ शिन जि लु"
+    },
+    {
+      "chineseCharacter": "投资",
+      "pinyin": "tou2 zi1",
+      "devanagariPhonetic": "थोउ जि",
+      "toneNumbers": [
+        2,
+        1
+      ],
+      "englishDefinition": "investment, to invest",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Allocating capital with expectation of profit",
+      "audioFileName": null,
+      "exampleSentence": "They decided to invest in our startup.",
+      "exampleSentenceChinese": "他们决定投资我们的初创企业。",
+      "exampleSentenceDevanagari": "था मेन जुए दिङ थोउ जि वो मेन दे छु छुआङ चि ये"
+    },
+    {
+      "chineseCharacter": "融资",
+      "pinyin": "rong2 zi1",
+      "devanagariPhonetic": "रोङ जि",
+      "toneNumbers": [
+        2,
+        1
+      ],
+      "englishDefinition": "financing, fundraising, capital raise",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Raising money for company expansion",
+      "audioFileName": null,
+      "exampleSentence": "The company successfully completed Series A financing.",
+      "exampleSentenceChinese": "公司成功完成了甲轮融资。",
+      "exampleSentenceDevanagari": "गोङ सि छेङ गोङ वान छेङ ले जिआ लुन रोङ जि"
+    },
+    {
+      "chineseCharacter": "现金流",
+      "pinyin": "xian4 jin1 liu2",
+      "devanagariPhonetic": "शिआन जिन लिउ",
+      "toneNumbers": [
+        4,
+        1,
+        2
+      ],
+      "englishDefinition": "cash flow",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Movement of money in and out of a business",
+      "audioFileName": null,
+      "exampleSentence": "Maintaining healthy cash flow is essential.",
+      "exampleSentenceChinese": "保持健康的现金流非常重要。",
+      "exampleSentenceDevanagari": "बाओ छि जिआन खाङ दे शिआन जिन लिउ फेइ छाङ झोङ याओ"
+    },
+    {
+      "chineseCharacter": "财报",
+      "pinyin": "cai2 bao4",
+      "devanagariPhonetic": "छाइ बाओ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "financial report",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Official summary of corporate financial condition",
+      "audioFileName": null,
+      "exampleSentence": "The annual financial report will be published tomorrow.",
+      "exampleSentenceChinese": "年度财报将在明天公布。",
+      "exampleSentenceDevanagari": "निआन दु छाइ बाओ जिआङ जाइ मिङ थिआन गोङ बु"
+    },
+    {
+      "chineseCharacter": "税率",
+      "pinyin": "shui4 lv4",
+      "devanagariPhonetic": "शुइ ल्यु",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "tax rate",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Percentage at which business income or goods are taxed",
+      "audioFileName": null,
+      "exampleSentence": "Corporate tax rates vary across jurisdictions.",
+      "exampleSentenceChinese": "不同地区的所得税税率不同。",
+      "exampleSentenceDevanagari": "बु थोङ दि चु दे सुओ दे शुइ शुइ ल्यु बु थोङ"
+    },
+    {
+      "chineseCharacter": "审计",
+      "pinyin": "shen3 ji4",
+      "devanagariPhonetic": "शेन जि",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "audit, to audit",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Formal examination of corporate financial accounts",
+      "audioFileName": null,
+      "exampleSentence": "The annual independent audit is in progress.",
+      "exampleSentenceChinese": "年度独立审计正在进行中。",
+      "exampleSentenceDevanagari": "निआन दु दु लि शेन जि झेङ जाइ जिन शिङ झोङ"
+    },
+    {
+      "chineseCharacter": "合规",
+      "pinyin": "he2 gui1",
+      "devanagariPhonetic": "हे गुइ",
+      "toneNumbers": [
+        2,
+        1
+      ],
+      "englishDefinition": "compliance, compliant",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Conforming to legal rules and industry regulations",
+      "audioFileName": null,
+      "exampleSentence": "All operations must meet regulatory compliance standards.",
+      "exampleSentenceChinese": "所有业务必须符合监管合规要求。",
+      "exampleSentenceDevanagari": "सुओ योउ ये वु बि शु फु हे जिआन गुआन हे गुइ याओ चिउ"
+    },
+    {
+      "chineseCharacter": "风险",
+      "pinyin": "feng1 xian3",
+      "devanagariPhonetic": "फेङ शिआन",
+      "toneNumbers": [
+        1,
+        3
+      ],
+      "englishDefinition": "risk, hazard",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Potential business danger or loss",
+      "audioFileName": null,
+      "exampleSentence": "We must evaluate project investment risks.",
+      "exampleSentenceChinese": "我们需要评估项目投资风险。",
+      "exampleSentenceDevanagari": "वो मेन शु याओ पिङ गु शिआङ मु थोउ जि फेङ शिआन"
+    },
+    {
+      "chineseCharacter": "评估",
+      "pinyin": "ping2 gu1",
+      "devanagariPhonetic": "पिङ गु",
+      "toneNumbers": [
+        2,
+        1
+      ],
+      "englishDefinition": "assessment, to evaluate",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Appraising performance, risk, or feasibility",
+      "audioFileName": null,
+      "exampleSentence": "The team conducted a comprehensive market evaluation.",
+      "exampleSentenceChinese": "团队对市场进行了全面评估。",
+      "exampleSentenceDevanagari": "थुआन दुइ दुइ शि छाङ जिन शिङ ले चुआन मिआन पिङ गु"
+    },
+    {
+      "chineseCharacter": "流程",
+      "pinyin": "liu2 cheng2",
+      "devanagariPhonetic": "लिउ छेङ",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "process, workflow, procedure",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Standard operating step-by-step procedures",
+      "audioFileName": null,
+      "exampleSentence": "We need to optimize the approval workflow.",
+      "exampleSentenceChinese": "我们需要优化审批流程。",
+      "exampleSentenceDevanagari": "वो मेन शु याओ योउ हुआ शेन पि लिउ छेङ"
+    },
+    {
+      "chineseCharacter": "效率",
+      "pinyin": "xiao4 lv4",
+      "devanagariPhonetic": "शिआओ ल्यु",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "efficiency, productivity",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Productive output relative to input",
+      "audioFileName": null,
+      "exampleSentence": "New tools improved our team's work efficiency.",
+      "exampleSentenceChinese": "新工具提高了团队的工作效率。",
+      "exampleSentenceDevanagari": "शिन गोङ जु थि गाओ ले थुआन दुइ दे गोङ जुओ शिआओ ल्यु"
+    },
+    {
+      "chineseCharacter": "推进",
+      "pinyin": "tui1 jin4",
+      "devanagariPhonetic": "थुइ जिन",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "to advance, push forward",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Moving plans or initiatives forward",
+      "audioFileName": null,
+      "exampleSentence": "Let's push this project forward together.",
+      "exampleSentenceChinese": "让我们共同推进这个项目。",
+      "exampleSentenceDevanagari": "राङ वो मेन गोङ थोङ थुइ जिन झे गे शिआङ मु"
+    },
+    {
+      "chineseCharacter": "落实",
+      "pinyin": "luo4 shi2",
+      "devanagariPhonetic": "लुओ शि",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "to implement, carry out, execute",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Putting plans or policies into concrete action",
+      "audioFileName": null,
+      "exampleSentence": "Ensure all action items are implemented.",
+      "exampleSentenceChinese": "要把各项工作落实到位。",
+      "exampleSentenceDevanagari": "याओ बा गे शिआङ गोङ जुओ लुओ शि दाओ वेइ"
+    },
+    {
+      "chineseCharacter": "里程碑",
+      "pinyin": "li3 cheng2 bei1",
+      "devanagariPhonetic": "लि छेङ बेइ",
+      "toneNumbers": [
+        3,
+        2,
+        1
+      ],
+      "englishDefinition": "milestone",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Key checkpoint or achievement in project timeline",
+      "audioFileName": null,
+      "exampleSentence": "Reaching this milestone took six months of effort.",
+      "exampleSentenceChinese": "完成这个里程碑很不容易。",
+      "exampleSentenceDevanagari": "वान छेङ झे गे लि छेङ बेइ हेन बु रोङ यि"
+    },
+    {
+      "chineseCharacter": "汇报",
+      "pinyin": "hui4 bao4",
+      "devanagariPhonetic": "हुइ बाओ",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "to report, report back to management",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Giving status presentations or briefings to executives",
+      "audioFileName": null,
+      "exampleSentence": "I will report the project progress to the manager.",
+      "exampleSentenceChinese": "我向下级经理汇报项目进展。",
+      "exampleSentenceDevanagari": "वो शिआङ जिङ लि हुइ बाओ शिआङ मु जिन झान"
+    },
+    {
+      "chineseCharacter": "审批",
+      "pinyin": "shen3 pi1",
+      "devanagariPhonetic": "शेन पि",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "approval, to approve, sign-off",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Management sign-off on expenses or documents",
+      "audioFileName": null,
+      "exampleSentence": "This expenditure requires executive approval.",
+      "exampleSentenceChinese": "这笔费用需要领导审批。",
+      "exampleSentenceDevanagari": "झे बि फेइ योङ शु याओ लिङ दाओ शेन पि"
+    },
+    {
+      "chineseCharacter": "沟通",
+      "pinyin": "gou1 tong1",
+      "devanagariPhonetic": "गोउ थोङ",
+      "toneNumbers": [
+        1,
+        1
+      ],
+      "englishDefinition": "communication, to communicate",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Professional dialogue between teams or clients",
+      "audioFileName": null,
+      "exampleSentence": "Good communication is key to team success.",
+      "exampleSentenceChinese": "良好的沟通是团队成功的关键。",
+      "exampleSentenceDevanagari": "लिआङ हाओ दे गोउ थोङ शि थुआन दुइ छेङ गोङ दे गुआन जिआन"
+    },
+    {
+      "chineseCharacter": "反馈",
+      "pinyin": "fan3 kui4",
+      "devanagariPhonetic": "फान खुइ",
+      "toneNumbers": [
+        3,
+        4
+      ],
+      "englishDefinition": "feedback",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Constructive input from customers or colleagues",
+      "audioFileName": null,
+      "exampleSentence": "We received positive feedback from our client.",
+      "exampleSentenceChinese": "我们收到了客户的积极反馈。",
+      "exampleSentenceDevanagari": "वो मेन शोउ दाओ ले खे हु दे जि जि फान खुइ"
+    },
+    {
+      "chineseCharacter": "协调",
+      "pinyin": "xie2 tiao2",
+      "devanagariPhonetic": "शिए थिआओ",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "to coordinate, coordination",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Aligning multiple departments or resources smoothly",
+      "audioFileName": null,
+      "exampleSentence": "We need to coordinate with the engineering department.",
+      "exampleSentenceChinese": "我们需要与工程部门进行协调。",
+      "exampleSentenceDevanagari": "वो मेन शु याओ यु गोङ छेङ बु मेन जिन शिङ शिए थिआओ"
+    },
+    {
+      "chineseCharacter": "进度",
+      "pinyin": "jin4 du4",
+      "devanagariPhonetic": "जिन दु",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "progress, schedule, rate of progress",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Current timeline standing of a task or project",
+      "audioFileName": null,
+      "exampleSentence": "Project progress is completely normal.",
+      "exampleSentenceChinese": "目前项目进度一切正常。",
+      "exampleSentenceDevanagari": "मु चिआन शिआङ मु जिन दु यि चिए झेङ छाङ"
+    },
+    {
+      "chineseCharacter": "解决",
+      "pinyin": "jie3 jue2",
+      "devanagariPhonetic": "जिए जुए",
+      "toneNumbers": [
+        3,
+        2
+      ],
+      "englishDefinition": "to resolve, settle, solve",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Fixing problems, hurdles, or disputes",
+      "audioFileName": null,
+      "exampleSentence": "We must resolve this customer issue immediately.",
+      "exampleSentenceChinese": "我们要尽快解决这个问题。",
+      "exampleSentenceDevanagari": "वो मेन याओ जिन खुआइ जिए जुए झे गे वेन थि"
+    },
+    {
+      "chineseCharacter": "团队",
+      "pinyin": "tuan2 dui4",
+      "devanagariPhonetic": "थुआन दुइ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "team, group",
+      "domainTag": "business",
+      "difficultyTier": 1,
+      "usageContext": "Group of colleagues working collaboratively",
+      "audioFileName": null,
+      "exampleSentence": "Our team members collaborate very well.",
+      "exampleSentenceChinese": "我们的团队非常团结。",
+      "exampleSentenceDevanagari": "वो मेन दे थुआन दुइ फेइ छाङ थुआन जिए"
+    },
+    {
+      "chineseCharacter": "部门",
+      "pinyin": "bu4 men2",
+      "devanagariPhonetic": "बु मेन",
+      "toneNumbers": [
+        4,
+        2
+      ],
+      "englishDefinition": "department, division",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Functional unit within a corporation",
+      "audioFileName": null,
+      "exampleSentence": "The marketing department is holding an all-hands meeting.",
+      "exampleSentenceChinese": "市场部门正在开会。",
+      "exampleSentenceDevanagari": "शि छाङ बु मेन झेङ जाइ खाइ हुइ"
+    },
+    {
+      "chineseCharacter": "负责人",
+      "pinyin": "fu4 ze2 ren2",
+      "devanagariPhonetic": "फु जे रेन",
+      "toneNumbers": [
+        4,
+        2,
+        2
+      ],
+      "englishDefinition": "person in charge, project lead",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Designated leader responsible for a project or team",
+      "audioFileName": null,
+      "exampleSentence": "Who is the lead for this project?",
+      "exampleSentenceChinese": "这个项目的负责人是谁？",
+      "exampleSentenceDevanagari": "झे गे शिआङ मु दे फु जे रेन शि शेइ"
+    },
+    {
+      "chineseCharacter": "管理",
+      "pinyin": "guan3 li3",
+      "devanagariPhonetic": "गुआन लि",
+      "toneNumbers": [
+        3,
+        3
+      ],
+      "englishDefinition": "management, to manage",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Supervising operations, people, or business resources",
+      "audioFileName": null,
+      "exampleSentence": "Modern enterprise management emphasizes efficiency.",
+      "exampleSentenceChinese": "企业管理要讲究效率。",
+      "exampleSentenceDevanagari": "चि ये गुआन लि याओ जिआङ जिउ शिआओ ल्यु"
+    },
+    {
+      "chineseCharacter": "人才",
+      "pinyin": "ren2 cai2",
+      "devanagariPhonetic": "रेन छाइ",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "talent, qualified personnel",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Skilled and experienced employees",
+      "audioFileName": null,
+      "exampleSentence": "Talent recruitment is our strategic priority.",
+      "exampleSentenceChinese": "公司重视优秀人才的培养。",
+      "exampleSentenceDevanagari": "गोङ सि झोङ शि योउ शिउ रेन छाइ दे फेइ याङ"
+    },
+    {
+      "chineseCharacter": "招聘",
+      "pinyin": "zhao1 pin4",
+      "devanagariPhonetic": "झाओ पिन",
+      "toneNumbers": [
+        1,
+        4
+      ],
+      "englishDefinition": "recruitment, to recruit, hiring",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Hiring new staff for open positions",
+      "audioFileName": null,
+      "exampleSentence": "Our department is recruiting three software engineers.",
+      "exampleSentenceChinese": "我们部门在招聘工程师。",
+      "exampleSentenceDevanagari": "वो मेन बु मेन जाइ झाओ पिन गोङ छेङ शि"
+    },
+    {
+      "chineseCharacter": "绩效",
+      "pinyin": "ji4 xiao4",
+      "devanagariPhonetic": "जि शिआओ",
+      "toneNumbers": [
+        4,
+        4
+      ],
+      "englishDefinition": "performance, KPI",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Employee or team business performance output",
+      "audioFileName": null,
+      "exampleSentence": "Year-end performance reviews are starting.",
+      "exampleSentenceChinese": "年终绩效考核要开始了。",
+      "exampleSentenceDevanagari": "निआन झोङ जि शिआओ खाओ हे याओ खाइ शि ले"
+    },
+    {
+      "chineseCharacter": "考核",
+      "pinyin": "kao3 he2",
+      "devanagariPhonetic": "खाओ हे",
+      "toneNumbers": [
+        3,
+        2
+      ],
+      "englishDefinition": "appraisal, evaluation, assessment",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Formal appraisal of work output",
+      "audioFileName": null,
+      "exampleSentence": "Quarterly assessments evaluate key achievements.",
+      "exampleSentenceChinese": "季度考核关注关键产出。",
+      "exampleSentenceDevanagari": "जि दु खाओ हे गुआन झु गुआन जिआन छान छु"
+    },
+    {
+      "chineseCharacter": "培训",
+      "pinyin": "pei2 xun4",
+      "devanagariPhonetic": "फेइ शुन",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "training, to train",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Professional skill development sessions",
+      "audioFileName": null,
+      "exampleSentence": "New employees must complete onboarding training.",
+      "exampleSentenceChinese": "新员工都要参加入职培训。",
+      "exampleSentenceDevanagari": "शिन युआन गोङ दोउ याओ छान जिआ रु झि फेइ शुन"
+    },
+    {
+      "chineseCharacter": "股东",
+      "pinyin": "gu3 dong1",
+      "devanagariPhonetic": "गु दोङ",
+      "toneNumbers": [
+        3,
+        1
+      ],
+      "englishDefinition": "shareholder, stockholder",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Equity owners of a corporation",
+      "audioFileName": null,
+      "exampleSentence": "The annual shareholder meeting convenes next month.",
+      "exampleSentenceChinese": "公司下个月召开股东大会。",
+      "exampleSentenceDevanagari": "गोङ सि शिआ गे युए झाओ खाइ गु दोङ दा हुइ"
+    },
+    {
+      "chineseCharacter": "董事会",
+      "pinyin": "dong3 shi4 hui4",
+      "devanagariPhonetic": "दोङ शि हुइ",
+      "toneNumbers": [
+        3,
+        4,
+        4
+      ],
+      "englishDefinition": "board of directors",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Governing board of a corporation",
+      "audioFileName": null,
+      "exampleSentence": "The board of directors appointed a new CEO.",
+      "exampleSentenceChinese": "董事会任命了新总裁。",
+      "exampleSentenceDevanagari": "दोङ शि हुइ रेन मिङ ले शिन जोङ छाइ"
+    },
+    {
+      "chineseCharacter": "出差",
+      "pinyin": "chu1 chai1",
+      "devanagariPhonetic": "छु छाइ",
+      "toneNumbers": [
+        1,
+        1
+      ],
+      "englishDefinition": "business trip, travel on business",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Traveling out of town for business duties",
+      "audioFileName": null,
+      "exampleSentence": "I am traveling to Shanghai on business next week.",
+      "exampleSentenceChinese": "我下周要去上海出差。",
+      "exampleSentenceDevanagari": "वो शिआ झोउ याओ चु शाङ हाइ छु छाइ"
+    },
+    {
+      "chineseCharacter": "会议纪要",
+      "pinyin": "hui4 yi4 ji4 yao4",
+      "devanagariPhonetic": "हुइ यि जि याओ",
+      "toneNumbers": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "englishDefinition": "meeting minutes, meeting summary",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Official summary notes distributed after a meeting",
+      "audioFileName": null,
+      "exampleSentence": "Please send the meeting minutes to everyone.",
+      "exampleSentenceChinese": "请把会议纪要发给大家。",
+      "exampleSentenceDevanagari": "चिङ बा हुइ यि जि याओ फा गेइ दा जिआ"
+    },
+    {
+      "chineseCharacter": "备忘录",
+      "pinyin": "bei4 wang4 lu4",
+      "devanagariPhonetic": "बेइ वाङ लु",
+      "toneNumbers": [
+        4,
+        4,
+        4
+      ],
+      "englishDefinition": "memorandum, memo, MOU",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Written memorandum of understanding or business record",
+      "audioFileName": null,
+      "exampleSentence": "Both sides signed a memorandum of understanding.",
+      "exampleSentenceChinese": "双方签署了合作备忘录。",
+      "exampleSentenceDevanagari": "शुआङ फाङ चिआन शु ले हे जुओ बेइ वाङ लु"
+    },
+    {
+      "chineseCharacter": "行程",
+      "pinyin": "xing2 cheng2",
+      "devanagariPhonetic": "शिङ छेङ",
+      "toneNumbers": [
+        2,
+        2
+      ],
+      "englishDefinition": "itinerary, business schedule",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Schedule of business travel appointments",
+      "audioFileName": null,
+      "exampleSentence": "Here is the CEO's visiting itinerary.",
+      "exampleSentenceChinese": "这是领导本次出访的行程。",
+      "exampleSentenceDevanagari": "झे शि लिङ दाओ बेन छि छु फाङ दे शिङ छेङ"
+    },
+    {
+      "chineseCharacter": "拜访",
+      "pinyin": "bai4 fang3",
+      "devanagariPhonetic": "बाइ फाङ",
+      "toneNumbers": [
+        4,
+        3
+      ],
+      "englishDefinition": "to visit (client, partner) formally",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Respectfully visiting clients or VIP business partners",
+      "audioFileName": null,
+      "exampleSentence": "We are visiting our key client this afternoon.",
+      "exampleSentenceChinese": "我们下午去拜访重要客户。",
+      "exampleSentenceDevanagari": "वो मेन शिआ वु चु बाइ फाङ झोङ याओ खे हु"
+    },
+    {
+      "chineseCharacter": "联络",
+      "pinyin": "lian2 luo4",
+      "devanagariPhonetic": "लिआन लुओ",
+      "toneNumbers": [
+        2,
+        4
+      ],
+      "englishDefinition": "contact, to get in touch, liaison",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Maintaining professional contact or communication",
+      "audioFileName": null,
+      "exampleSentence": "Let's keep in close contact regarding the project.",
+      "exampleSentenceChinese": "我们保持紧密业务联络。",
+      "exampleSentenceDevanagari": "वो मेन बाओ छि जिन मि ये वु लिआन लुओ"
+    },
+    {
+      "chineseCharacter": "长期合作",
+      "pinyin": "chang2 qi1 he2 zuo4",
+      "devanagariPhonetic": "छाङ चि हे जुओ",
+      "toneNumbers": [
+        2,
+        1,
+        2,
+        4
+      ],
+      "englishDefinition": "long-term cooperation, sustained partnership",
+      "domainTag": "business",
+      "difficultyTier": 2,
+      "usageContext": "Multi-year commercial partnership commitment",
+      "audioFileName": null,
+      "exampleSentence": "We look forward to long-term mutual cooperation.",
+      "exampleSentenceChinese": "我们希望与贵方长期合作。",
+      "exampleSentenceDevanagari": "वो मेन शि वाङ यु गुइ फाङ छाङ चि हे जुओ"
+    },
+    {
+      "chineseCharacter": "知识产权",
+      "pinyin": "zhi1 shi5 chan3 quan2",
+      "devanagariPhonetic": "झि शि छान चुआन",
+      "toneNumbers": [
+        1,
+        5,
+        3,
+        2
+      ],
+      "englishDefinition": "intellectual property (IP)",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Legal rights protecting patents, copyrights, trademarks",
+      "audioFileName": null,
+      "exampleSentence": "Our company strictly protects intellectual property.",
+      "exampleSentenceChinese": "公司注重保护知识产权。",
+      "exampleSentenceDevanagari": "गोङ सि झु झोङ बाओ हु झि शि छान चुआन"
+    },
+    {
+      "chineseCharacter": "核心价值",
+      "pinyin": "he2 xin1 jia4 zhi2",
+      "devanagariPhonetic": "हे शिन जिआ झि",
+      "toneNumbers": [
+        2,
+        1,
+        4,
+        2
+      ],
+      "englishDefinition": "core value, core competency",
+      "domainTag": "business",
+      "difficultyTier": 3,
+      "usageContext": "Central value proposition of a business or enterprise",
+      "audioFileName": null,
+      "exampleSentence": "Customer trust is our company's core value.",
+      "exampleSentenceChinese": "客户信任是企业的核心价值。",
+      "exampleSentenceDevanagari": "खे हु शिन रेन शि चि ये दे हे शिन जिआ झि"
+    }
+  ]
+}
