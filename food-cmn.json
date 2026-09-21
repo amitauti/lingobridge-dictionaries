@@ -3,7 +3,7 @@
   "id": "food-cmn",
   "languageCode": "cmn",
   "domainId": "food",
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "chineseCharacter": "菜单",
@@ -20,7 +20,18 @@
       "audioFileName": null,
       "exampleSentence": "Excuse me, please bring a menu.",
       "exampleSentenceChinese": "服务员，请拿一份菜单。",
-      "exampleSentenceDevanagari": "फु वु युआन चिङ ना यि फेन छाइ दान"
+      "exampleSentenceDevanagari": "फु वु युआन चिङ ना यि फेन छाइ दान",
+      "exampleSentenceTones": [
+        2,
+        4,
+        2,
+        3,
+        2,
+        2,
+        4,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "点菜",
@@ -37,7 +48,16 @@
       "audioFileName": null,
       "exampleSentence": "We are ready to order now.",
       "exampleSentenceChinese": "我们可以点菜了。",
-      "exampleSentenceDevanagari": "वो मेन खे यि दिआन छाइ ले"
+      "exampleSentenceDevanagari": "वो मेन खे यि दिआन छाइ ले",
+      "exampleSentenceTones": [
+        3,
+        5,
+        3,
+        3,
+        3,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "服务员",
@@ -55,7 +75,18 @@
       "audioFileName": null,
       "exampleSentence": "Waiter, please bring another glass of water.",
       "exampleSentenceChinese": "服务员，请再加一杯水。",
-      "exampleSentenceDevanagari": "फु वु युआन चिङ जाइ जिआ यि बेइ शुइ"
+      "exampleSentenceDevanagari": "फु वु युआन चिङ जाइ जिआ यि बेइ शुइ",
+      "exampleSentenceTones": [
+        2,
+        4,
+        2,
+        3,
+        4,
+        1,
+        4,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "买单",
@@ -72,7 +103,14 @@
       "audioFileName": null,
       "exampleSentence": "Waiter, we would like to pay the bill.",
       "exampleSentenceChinese": "服务员，买单！",
-      "exampleSentenceDevanagari": "फु वु युआन माइ दान"
+      "exampleSentenceDevanagari": "फु वु युआन माइ दान",
+      "exampleSentenceTones": [
+        2,
+        4,
+        2,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "结账",
@@ -89,7 +127,16 @@
       "audioFileName": null,
       "exampleSentence": "Can we settle the bill over here?",
       "exampleSentenceChinese": "我们在这里结账。",
-      "exampleSentenceDevanagari": "वो मेन जाइ झे लि जिए झाङ"
+      "exampleSentenceDevanagari": "वो मेन जाइ झे लि जिए झाङ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        4,
+        3,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "招牌菜",
@@ -107,7 +154,18 @@
       "audioFileName": null,
       "exampleSentence": "What is the signature dish here?",
       "exampleSentenceChinese": "这里的招牌菜是什么？",
-      "exampleSentenceDevanagari": "झे लि दे झाओ फाइ छाइ शि शेन मे"
+      "exampleSentenceDevanagari": "झे लि दे झाओ फाइ छाइ शि शेन मे",
+      "exampleSentenceTones": [
+        4,
+        3,
+        5,
+        1,
+        2,
+        4,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "推荐",
@@ -124,7 +182,18 @@
       "audioFileName": null,
       "exampleSentence": "Do you have any recommended dishes today?",
       "exampleSentenceChinese": "您有什么特色推荐吗？",
-      "exampleSentenceDevanagari": "निन योउ शेन मे थे से थुइ जिआन मा"
+      "exampleSentenceDevanagari": "निन योउ शेन मे थे से थुइ जिआन मा",
+      "exampleSentenceTones": [
+        2,
+        3,
+        2,
+        5,
+        4,
+        4,
+        1,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "堂食",
@@ -141,7 +210,18 @@
       "audioFileName": null,
       "exampleSentence": "Is this for dine-in or takeout?",
       "exampleSentenceChinese": "请问是堂食还是外带？",
-      "exampleSentenceDevanagari": "चिङ वेन शि थाङ शि हाइ शि वाइ दाइ"
+      "exampleSentenceDevanagari": "चिङ वेन शि थाङ शि हाइ शि वाइ दाइ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        2,
+        2,
+        2,
+        4,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "打包",
@@ -158,7 +238,18 @@
       "audioFileName": null,
       "exampleSentence": "Please pack these remaining dishes for me.",
       "exampleSentenceChinese": "请帮我把这些菜打包。",
-      "exampleSentenceDevanagari": "चिङ बाङ वो बा झे शिए छाइ दा बाओ"
+      "exampleSentenceDevanagari": "चिङ बाङ वो बा झे शिए छाइ दा बाओ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        3,
+        3,
+        4,
+        1,
+        4,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "外卖",
@@ -175,7 +266,17 @@
       "audioFileName": null,
       "exampleSentence": "Let's order some takeout food tonight.",
       "exampleSentenceChinese": "我们今晚点外卖吧。",
-      "exampleSentenceDevanagari": "वो मेन जिन वान दिआन वाइ माइ बा"
+      "exampleSentenceDevanagari": "वो मेन जिन वान दिआन वाइ माइ बा",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        3,
+        3,
+        4,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "稍等",
@@ -192,7 +293,17 @@
       "audioFileName": null,
       "exampleSentence": "Please wait a moment, your dish will arrive soon.",
       "exampleSentenceChinese": "请稍等，菜马上就来。",
-      "exampleSentenceDevanagari": "चिङ शाओ देङ छाइ मा शाङ जिउ लाइ"
+      "exampleSentenceDevanagari": "चिङ शाओ देङ छाइ मा शाङ जिउ लाइ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        3,
+        4,
+        3,
+        4,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "加水",
@@ -209,7 +320,18 @@
       "audioFileName": null,
       "exampleSentence": "Excuse me, please refill the water for our teapot.",
       "exampleSentenceChinese": "服务员，请帮我们加水。",
-      "exampleSentenceDevanagari": "फु वु युआन चिङ बाङ वो मेन जिआ शुइ"
+      "exampleSentenceDevanagari": "फु वु युआन चिङ बाङ वो मेन जिआ शुइ",
+      "exampleSentenceTones": [
+        2,
+        4,
+        2,
+        3,
+        1,
+        3,
+        5,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "倒茶",
@@ -226,7 +348,15 @@
       "audioFileName": null,
       "exampleSentence": "Let me pour a cup of hot tea for you.",
       "exampleSentenceChinese": "我来给您倒茶。",
-      "exampleSentenceDevanagari": "वो लाइ गेइ निन दाओ छा"
+      "exampleSentenceDevanagari": "वो लाइ गेइ निन दाओ छा",
+      "exampleSentenceTones": [
+        3,
+        2,
+        3,
+        2,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "账单",
@@ -243,7 +373,16 @@
       "audioFileName": null,
       "exampleSentence": "Please check the bill to make sure it is correct.",
       "exampleSentenceChinese": "请核对一下账单。",
-      "exampleSentenceDevanagari": "चिङ हे दुइ यि शिआ झाङ दान"
+      "exampleSentenceDevanagari": "चिङ हे दुइ यि शिआ झाङ दान",
+      "exampleSentenceTones": [
+        3,
+        2,
+        4,
+        2,
+        4,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "发票",
@@ -260,7 +399,19 @@
       "audioFileName": null,
       "exampleSentence": "Can you issue an official invoice for this meal?",
       "exampleSentenceChinese": "结账可以开一张发票吗？",
-      "exampleSentenceDevanagari": "जिए झाङ खे यि खाइ यि झाङ फा पिआओ मा"
+      "exampleSentenceDevanagari": "जिए झाङ खे यि खाइ यि झाङ फा पिआओ मा",
+      "exampleSentenceTones": [
+        2,
+        4,
+        3,
+        3,
+        1,
+        4,
+        1,
+        1,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "扫码支付",
@@ -279,7 +430,18 @@
       "audioFileName": null,
       "exampleSentence": "Does this restaurant support QR code mobile payment?",
       "exampleSentenceChinese": "这里支持扫码支付吗？",
-      "exampleSentenceDevanagari": "झे लि झि छि साओ मा झि फु मा"
+      "exampleSentenceDevanagari": "झे लि झि छि साओ मा झि फु मा",
+      "exampleSentenceTones": [
+        4,
+        3,
+        1,
+        2,
+        3,
+        3,
+        1,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "辣",
@@ -295,7 +457,15 @@
       "audioFileName": null,
       "exampleSentence": "Sichuan food is very spicy.",
       "exampleSentenceChinese": "四川菜非常辣。",
-      "exampleSentenceDevanagari": "सि छुआन छाइ फेइ छाङ ला"
+      "exampleSentenceDevanagari": "सि छुआन छाइ फेइ छाङ ला",
+      "exampleSentenceTones": [
+        4,
+        1,
+        4,
+        1,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "微辣",
@@ -312,7 +482,17 @@
       "audioFileName": null,
       "exampleSentence": "Please make this dish mildly spicy.",
       "exampleSentenceChinese": "这道菜我们要微辣。",
-      "exampleSentenceDevanagari": "झे दाओ छाइ वो मेन याओ वेइ ला"
+      "exampleSentenceDevanagari": "झे दाओ छाइ वो मेन याओ वेइ ला",
+      "exampleSentenceTones": [
+        4,
+        4,
+        4,
+        3,
+        5,
+        4,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "不辣",
@@ -329,7 +509,18 @@
       "audioFileName": null,
       "exampleSentence": "I cannot eat spicy food, please make it non-spicy.",
       "exampleSentenceChinese": "我不吃辣，请做不辣的。",
-      "exampleSentenceDevanagari": "वो बु छि ला चिङ जुओ बु ला दे"
+      "exampleSentenceDevanagari": "वो बु छि ला चिङ जुओ बु ला दे",
+      "exampleSentenceTones": [
+        3,
+        4,
+        1,
+        4,
+        3,
+        4,
+        2,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "麻辣",
@@ -346,7 +537,19 @@
       "audioFileName": null,
       "exampleSentence": "This hot pot broth is numbing and spicy.",
       "exampleSentenceChinese": "这个火锅是麻辣口味的。",
-      "exampleSentenceDevanagari": "झे गे हुओ गुओ शि मा ला खोउ वेइ दे"
+      "exampleSentenceDevanagari": "झे गे हुओ गुओ शि मा ला खोउ वेइ दे",
+      "exampleSentenceTones": [
+        4,
+        5,
+        3,
+        1,
+        4,
+        2,
+        4,
+        3,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "甜",
@@ -362,7 +565,15 @@
       "audioFileName": null,
       "exampleSentence": "These watermelon slices are very sweet.",
       "exampleSentenceChinese": "这个西瓜很甜。",
-      "exampleSentenceDevanagari": "झे गे शि गुआ हेन थिआन"
+      "exampleSentenceDevanagari": "झे गे शि गुआ हेन थिआन",
+      "exampleSentenceTones": [
+        4,
+        5,
+        1,
+        1,
+        3,
+        2
+      ]
     },
     {
       "chineseCharacter": "酸",
@@ -378,7 +589,17 @@
       "audioFileName": null,
       "exampleSentence": "Sweet and sour pork is sweet and tangy.",
       "exampleSentenceChinese": "糖醋里脊酸甜可口。",
-      "exampleSentenceDevanagari": "थाङ छु लि जि सुआन थिआन खे खोउ"
+      "exampleSentenceDevanagari": "थाङ छु लि जि सुआन थिआन खे खोउ",
+      "exampleSentenceTones": [
+        2,
+        4,
+        3,
+        5,
+        1,
+        2,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "咸",
@@ -394,7 +615,15 @@
       "audioFileName": null,
       "exampleSentence": "This bowl of soup is a bit too salty.",
       "exampleSentenceChinese": "这碗汤有点咸。",
-      "exampleSentenceDevanagari": "झे वान थाङ योउ दिआन शिआन"
+      "exampleSentenceDevanagari": "झे वान थाङ योउ दिआन शिआन",
+      "exampleSentenceTones": [
+        4,
+        3,
+        1,
+        3,
+        3,
+        2
+      ]
     },
     {
       "chineseCharacter": "苦",
@@ -410,7 +639,17 @@
       "audioFileName": null,
       "exampleSentence": "Black coffee tastes slightly bitter.",
       "exampleSentenceChinese": "清咖啡味道有点苦。",
-      "exampleSentenceDevanagari": "चिङ खा फेइ वेइ दाओ योउ दिआन खु"
+      "exampleSentenceDevanagari": "चिङ खा फेइ वेइ दाओ योउ दिआन खु",
+      "exampleSentenceTones": [
+        1,
+        1,
+        1,
+        4,
+        5,
+        3,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "清淡",
@@ -427,7 +666,20 @@
       "audioFileName": null,
       "exampleSentence": "I prefer eating light and mild food today.",
       "exampleSentenceChinese": "我今天想吃清淡一点的菜。",
-      "exampleSentenceDevanagari": "वो जिन थिआन शिआङ छि चिङ दान यि दिआन दे छाइ"
+      "exampleSentenceDevanagari": "वो जिन थिआन शिआङ छि चिङ दान यि दिआन दे छाइ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        1,
+        3,
+        1,
+        1,
+        4,
+        4,
+        3,
+        5,
+        4
+      ]
     },
     {
       "chineseCharacter": "忌口",
@@ -444,7 +696,18 @@
       "audioFileName": null,
       "exampleSentence": "Do any of the guests have dietary restrictions?",
       "exampleSentenceChinese": "请问您有什么忌口吗？",
-      "exampleSentenceDevanagari": "चिङ वेन निन योउ शेन मे जि खोउ मा"
+      "exampleSentenceDevanagari": "चिङ वेन निन योउ शेन मे जि खोउ मा",
+      "exampleSentenceTones": [
+        3,
+        4,
+        2,
+        3,
+        2,
+        5,
+        4,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "过敏",
@@ -461,7 +724,15 @@
       "audioFileName": null,
       "exampleSentence": "I am allergic to seafood.",
       "exampleSentenceChinese": "我对海鲜过敏。",
-      "exampleSentenceDevanagari": "वो दुइ हाइ शिआन गुओ मिन"
+      "exampleSentenceDevanagari": "वो दुइ हाइ शिआन गुओ मिन",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        1,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "花生过敏",
@@ -480,7 +751,21 @@
       "audioFileName": null,
       "exampleSentence": "I have a severe peanut allergy, please do not add peanuts.",
       "exampleSentenceChinese": "我对花生过敏，请不要放花生。",
-      "exampleSentenceDevanagari": "वो दुइ हुआ शेङ गुओ मिन चिङ बु याओ फाङ हुआ शेङ"
+      "exampleSentenceDevanagari": "वो दुइ हुआ शेङ गुओ मिन चिङ बु याओ फाङ हुआ शेङ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        1,
+        1,
+        4,
+        3,
+        3,
+        2,
+        4,
+        4,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "吃素",
@@ -497,7 +782,16 @@
       "audioFileName": null,
       "exampleSentence": "I am vegetarian, do you have meat-free dishes?",
       "exampleSentenceChinese": "我吃素，有素菜吗？",
-      "exampleSentenceDevanagari": "वो छि सु योउ सु छाइ मा"
+      "exampleSentenceDevanagari": "वो छि सु योउ सु छाइ मा",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        3,
+        4,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "清真",
@@ -514,7 +808,17 @@
       "audioFileName": null,
       "exampleSentence": "Is there a halal restaurant nearby?",
       "exampleSentenceChinese": "附近有清真餐厅吗？",
-      "exampleSentenceDevanagari": "फु जिन योउ चिङ झेन छान थिङ मा"
+      "exampleSentenceDevanagari": "फु जिन योउ चिङ झेन छान थिङ मा",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        1,
+        1,
+        1,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "不要香菜",
@@ -533,7 +837,18 @@
       "audioFileName": null,
       "exampleSentence": "One bowl of beef noodles, please omit cilantro.",
       "exampleSentenceChinese": "一碗牛肉面，不要香菜。",
-      "exampleSentenceDevanagari": "यि वान निउ रोउ मिआन बु याओ शिआङ छाइ"
+      "exampleSentenceDevanagari": "यि वान निउ रोउ मिआन बु याओ शिआङ छाइ",
+      "exampleSentenceTones": [
+        4,
+        3,
+        2,
+        4,
+        4,
+        2,
+        4,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "少放盐",
@@ -551,7 +866,16 @@
       "audioFileName": null,
       "exampleSentence": "Please use less salt in the vegetables.",
       "exampleSentenceChinese": "炒蔬菜请少放盐。",
-      "exampleSentenceDevanagari": "छाओ शु छाइ चिङ शाओ फाङ यान"
+      "exampleSentenceDevanagari": "छाओ शु छाइ चिङ शाओ फाङ यान",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        3,
+        3,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "少放油",
@@ -569,7 +893,17 @@
       "audioFileName": null,
       "exampleSentence": "Please use less oil when cooking.",
       "exampleSentenceChinese": "师傅做菜请少放油。",
-      "exampleSentenceDevanagari": "शि फु जुओ छाइ चिङ शाओ फाङ योउ"
+      "exampleSentenceDevanagari": "शि फु जुओ छाइ चिङ शाओ फाङ योउ",
+      "exampleSentenceTones": [
+        1,
+        5,
+        4,
+        4,
+        3,
+        3,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "米饭",
@@ -586,7 +920,15 @@
       "audioFileName": null,
       "exampleSentence": "Please serve two bowls of white rice.",
       "exampleSentenceChinese": "请来两碗米饭。",
-      "exampleSentenceDevanagari": "चिङ लाइ लिआङ वान मि फान"
+      "exampleSentenceDevanagari": "चिङ लाइ लिआङ वान मि फान",
+      "exampleSentenceTones": [
+        3,
+        2,
+        3,
+        3,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "面条",
@@ -603,7 +945,17 @@
       "audioFileName": null,
       "exampleSentence": "Northern Chinese people love eating noodles.",
       "exampleSentenceChinese": "北方人喜欢吃面条。",
-      "exampleSentenceDevanagari": "बेइ फाङ रेन शि हुआन छि मिआन थिआओ"
+      "exampleSentenceDevanagari": "बेइ फाङ रेन शि हुआन छि मिआन थिआओ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        2,
+        3,
+        1,
+        1,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "饺子",
@@ -620,7 +972,18 @@
       "audioFileName": null,
       "exampleSentence": "Let's eat dumplings together on New Year's Eve.",
       "exampleSentenceChinese": "除夕大家一起吃饺子。",
-      "exampleSentenceDevanagari": "छु शि दा जिआ यि चि छि जिआओ जि"
+      "exampleSentenceDevanagari": "छु शि दा जिआ यि चि छि जिआओ जि",
+      "exampleSentenceTones": [
+        2,
+        1,
+        4,
+        1,
+        4,
+        3,
+        1,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "包子",
@@ -637,7 +1000,17 @@
       "audioFileName": null,
       "exampleSentence": "I eat two steamed buns for breakfast.",
       "exampleSentenceChinese": "我早餐吃两个包子。",
-      "exampleSentenceDevanagari": "वो जाओ छान छि लिआङ गे बाओ जि"
+      "exampleSentenceDevanagari": "वो जाओ छान छि लिआङ गे बाओ जि",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        1,
+        3,
+        5,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "炒饭",
@@ -654,7 +1027,17 @@
       "audioFileName": null,
       "exampleSentence": "One serving of Yangchow fried rice, please.",
       "exampleSentenceChinese": "请来一份扬州炒饭。",
-      "exampleSentenceDevanagari": "चिङ लाइ यि फेन याङ झोउ छाओ फान"
+      "exampleSentenceDevanagari": "चिङ लाइ यि फेन याङ झोउ छाओ फान",
+      "exampleSentenceTones": [
+        3,
+        2,
+        2,
+        4,
+        2,
+        1,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "炒面",
@@ -671,7 +1054,19 @@
       "audioFileName": null,
       "exampleSentence": "Beef fried noodles are very delicious here.",
       "exampleSentenceChinese": "这里的牛肉炒面很好吃。",
-      "exampleSentenceDevanagari": "झे लि दे निउ रोउ छाओ मिआन हेन हाओ छि"
+      "exampleSentenceDevanagari": "झे लि दे निउ रोउ छाओ मिआन हेन हाओ छि",
+      "exampleSentenceTones": [
+        4,
+        3,
+        5,
+        2,
+        4,
+        3,
+        4,
+        3,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "火锅",
@@ -688,7 +1083,17 @@
       "audioFileName": null,
       "exampleSentence": "Eating hot pot in winter is wonderful.",
       "exampleSentenceChinese": "冬天吃火锅很过瘾。",
-      "exampleSentenceDevanagari": "दोङ थिआन छि हुओ गुओ हेन गुओ यिन"
+      "exampleSentenceDevanagari": "दोङ थिआन छि हुओ गुओ हेन गुओ यिन",
+      "exampleSentenceTones": [
+        1,
+        1,
+        1,
+        3,
+        1,
+        3,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "烤鸭",
@@ -705,7 +1110,18 @@
       "audioFileName": null,
       "exampleSentence": "You must try Peking roast duck when visiting Beijing.",
       "exampleSentenceChinese": "去北京一定要吃烤鸭。",
-      "exampleSentenceDevanagari": "चु बेइ जिङ यि दिङ याओ छि खाओ या"
+      "exampleSentenceDevanagari": "चु बेइ जिङ यि दिङ याओ छि खाओ या",
+      "exampleSentenceTones": [
+        4,
+        3,
+        1,
+        2,
+        4,
+        4,
+        1,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "麻婆豆腐",
@@ -724,7 +1140,19 @@
       "audioFileName": null,
       "exampleSentence": "This Mapo tofu is authentic and spicy.",
       "exampleSentenceChinese": "这道麻婆豆腐非常地道。",
-      "exampleSentenceDevanagari": "झे दाओ मा फो दोउ फु फेइ छाङ दि दाओ"
+      "exampleSentenceDevanagari": "झे दाओ मा फो दोउ फु फेइ छाङ दि दाओ",
+      "exampleSentenceTones": [
+        4,
+        4,
+        2,
+        2,
+        4,
+        5,
+        1,
+        2,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "宫保鸡丁",
@@ -743,7 +1171,18 @@
       "audioFileName": null,
       "exampleSentence": "Kung Pao chicken is very famous worldwide.",
       "exampleSentenceChinese": "宫保鸡丁是一道名菜。",
-      "exampleSentenceDevanagari": "गोङ बाओ जि दिङ शि यि दाओ मिङ छाइ"
+      "exampleSentenceDevanagari": "गोङ बाओ जि दिङ शि यि दाओ मिङ छाइ",
+      "exampleSentenceTones": [
+        1,
+        3,
+        1,
+        1,
+        4,
+        2,
+        4,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "蔬菜",
@@ -760,7 +1199,18 @@
       "audioFileName": null,
       "exampleSentence": "We should eat more green vegetables.",
       "exampleSentenceChinese": "我们每天要多吃蔬菜。",
-      "exampleSentenceDevanagari": "वो मेन मेइ थिआन याओ दुओ छि शु छाइ"
+      "exampleSentenceDevanagari": "वो मेन मेइ थिआन याओ दुओ छि शु छाइ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        3,
+        1,
+        4,
+        1,
+        1,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "牛肉",
@@ -777,7 +1227,16 @@
       "audioFileName": null,
       "exampleSentence": "This stir-fried beef is very tender.",
       "exampleSentenceChinese": "这盘牛肉很鲜嫩。",
-      "exampleSentenceDevanagari": "झे फान निउ रोउ हेन शिआन नेन"
+      "exampleSentenceDevanagari": "झे फान निउ रोउ हेन शिआन नेन",
+      "exampleSentenceTones": [
+        4,
+        2,
+        2,
+        4,
+        3,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "猪肉",
@@ -794,7 +1253,16 @@
       "audioFileName": null,
       "exampleSentence": "Pork dumplings are a family favorite.",
       "exampleSentenceChinese": "猪肉水饺味道好。",
-      "exampleSentenceDevanagari": "झु रोउ शुइ जिआओ वेइ दाओ हाओ"
+      "exampleSentenceDevanagari": "झु रोउ शुइ जिआओ वेइ दाओ हाओ",
+      "exampleSentenceTones": [
+        1,
+        4,
+        3,
+        3,
+        4,
+        5,
+        3
+      ]
     },
     {
       "chineseCharacter": "鸡肉",
@@ -811,7 +1279,17 @@
       "audioFileName": null,
       "exampleSentence": "I ordered chicken noodle soup.",
       "exampleSentenceChinese": "我点了一碗鸡肉面。",
-      "exampleSentenceDevanagari": "वो दिआन ले यि वान जि रोउ मिआन"
+      "exampleSentenceDevanagari": "वो दिआन ले यि वान जि रोउ मिआन",
+      "exampleSentenceTones": [
+        3,
+        3,
+        5,
+        4,
+        3,
+        1,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "羊肉",
@@ -828,7 +1306,17 @@
       "audioFileName": null,
       "exampleSentence": "Beijing instant-boiled mutton is renowned.",
       "exampleSentenceChinese": "北京涮羊肉很有名。",
-      "exampleSentenceDevanagari": "बेइ जिङ शुआन याङ रोउ हेन योउ मिङ"
+      "exampleSentenceDevanagari": "बेइ जिङ शुआन याङ रोउ हेन योउ मिङ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        2,
+        4,
+        3,
+        3,
+        2
+      ]
     },
     {
       "chineseCharacter": "鱼",
@@ -844,7 +1332,17 @@
       "audioFileName": null,
       "exampleSentence": "Steamed fish is light and fresh.",
       "exampleSentenceChinese": "清蒸鱼味道很鲜美。",
-      "exampleSentenceDevanagari": "चिङ झेङ यु वेइ दाओ हेन शिआन मेइ"
+      "exampleSentenceDevanagari": "चिङ झेङ यु वेइ दाओ हेन शिआन मेइ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        2,
+        4,
+        5,
+        3,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "虾",
@@ -860,7 +1358,17 @@
       "audioFileName": null,
       "exampleSentence": "These boiled prawns are very fresh.",
       "exampleSentenceChinese": "这些白灼虾很新鲜。",
-      "exampleSentenceDevanagari": "झे शिए बाइ झुओ शिआ हेन शिन शिआन"
+      "exampleSentenceDevanagari": "झे शिए बाइ झुओ शिआ हेन शिन शिआन",
+      "exampleSentenceTones": [
+        4,
+        1,
+        2,
+        2,
+        1,
+        3,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "海鲜",
@@ -877,7 +1385,19 @@
       "audioFileName": null,
       "exampleSentence": "Seafood in coastal cities is plentiful.",
       "exampleSentenceChinese": "海边城市的海鲜很丰富。",
-      "exampleSentenceDevanagari": "हाइ बिआन छेङ शि दे हाइ शिआन हेन फेङ फु"
+      "exampleSentenceDevanagari": "हाइ बिआन छेङ शि दे हाइ शिआन हेन फेङ फु",
+      "exampleSentenceTones": [
+        3,
+        1,
+        2,
+        4,
+        5,
+        3,
+        1,
+        3,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "鸡蛋",
@@ -894,7 +1414,18 @@
       "audioFileName": null,
       "exampleSentence": "Stir-fried tomato and eggs is a home staple.",
       "exampleSentenceChinese": "西红柿炒鸡蛋很好吃。",
-      "exampleSentenceDevanagari": "शि होङ शि छाओ जि दान हेन हाओ छि"
+      "exampleSentenceDevanagari": "शि होङ शि छाओ जि दान हेन हाओ छि",
+      "exampleSentenceTones": [
+        1,
+        2,
+        4,
+        3,
+        1,
+        4,
+        3,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "汤",
@@ -910,7 +1441,16 @@
       "audioFileName": null,
       "exampleSentence": "Drink some hot soup before dinner.",
       "exampleSentenceChinese": "饭前喝一碗热汤。",
-      "exampleSentenceDevanagari": "फान चिआन हे यि वान रे थाङ"
+      "exampleSentenceDevanagari": "फान चिआन हे यि वान रे थाङ",
+      "exampleSentenceTones": [
+        4,
+        2,
+        1,
+        4,
+        3,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "热水",
@@ -927,7 +1467,16 @@
       "audioFileName": null,
       "exampleSentence": "Please bring me a cup of hot water.",
       "exampleSentenceChinese": "请给我一杯热水。",
-      "exampleSentenceDevanagari": "चिङ गेइ वो यि बेइ रे शुइ"
+      "exampleSentenceDevanagari": "चिङ गेइ वो यि बेइ रे शुइ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        3,
+        4,
+        1,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "冰水",
@@ -944,7 +1493,15 @@
       "audioFileName": null,
       "exampleSentence": "Do you have chilled ice water?",
       "exampleSentenceChinese": "请问有冰水吗？",
-      "exampleSentenceDevanagari": "चिङ वेन योउ बिङ शुइ मा"
+      "exampleSentenceDevanagari": "चिङ वेन योउ बिङ शुइ मा",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        1,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "茶",
@@ -960,7 +1517,16 @@
       "audioFileName": null,
       "exampleSentence": "Drinking tea after meals aids digestion.",
       "exampleSentenceChinese": "饭后喝茶很舒服。",
-      "exampleSentenceDevanagari": "फान होउ हे छा हेन शु फु"
+      "exampleSentenceDevanagari": "फान होउ हे छा हेन शु फु",
+      "exampleSentenceTones": [
+        4,
+        4,
+        1,
+        2,
+        3,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "绿茶",
@@ -977,7 +1543,16 @@
       "audioFileName": null,
       "exampleSentence": "Would you like some green tea?",
       "exampleSentenceChinese": "你想喝杯绿茶吗？",
-      "exampleSentenceDevanagari": "नि शिआङ हे बेइ ल्यु छा मा"
+      "exampleSentenceDevanagari": "नि शिआङ हे बेइ ल्यु छा मा",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        1,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "红茶",
@@ -994,7 +1569,17 @@
       "audioFileName": null,
       "exampleSentence": "Black tea warms the body in winter.",
       "exampleSentenceChinese": "冬天喝红茶很暖和。",
-      "exampleSentenceDevanagari": "दोङ थिआन हे होङ छा हेन नुआन हुओ"
+      "exampleSentenceDevanagari": "दोङ थिआन हे होङ छा हेन नुआन हुओ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "咖啡",
@@ -1011,7 +1596,18 @@
       "audioFileName": null,
       "exampleSentence": "I need a cup of coffee to wake up.",
       "exampleSentenceChinese": "我需要一杯咖啡提神。",
-      "exampleSentenceDevanagari": "वो शु याओ यि बेइ खा फेइ थि शेन"
+      "exampleSentenceDevanagari": "वो शु याओ यि बेइ खा फेइ थि शेन",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        4,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
     },
     {
       "chineseCharacter": "牛奶",
@@ -1028,7 +1624,16 @@
       "audioFileName": null,
       "exampleSentence": "Children should drink milk every day.",
       "exampleSentenceChinese": "孩子每天喝牛奶。",
-      "exampleSentenceDevanagari": "हाइ जि मेइ थिआन हे निउ नाइ"
+      "exampleSentenceDevanagari": "हाइ जि मेइ थिआन हे निउ नाइ",
+      "exampleSentenceTones": [
+        2,
+        5,
+        3,
+        1,
+        1,
+        2,
+        3
+      ]
     },
     {
       "chineseCharacter": "啤酒",
@@ -1045,7 +1650,16 @@
       "audioFileName": null,
       "exampleSentence": "Tsingtao beer is famous worldwide.",
       "exampleSentenceChinese": "青岛啤酒很有名。",
-      "exampleSentenceDevanagari": "चिङ दाओ पि जिउ हेन योउ मिङ"
+      "exampleSentenceDevanagari": "चिङ दाओ पि जिउ हेन योउ मिङ",
+      "exampleSentenceTones": [
+        1,
+        3,
+        2,
+        3,
+        3,
+        3,
+        2
+      ]
     },
     {
       "chineseCharacter": "果汁",
@@ -1062,7 +1676,16 @@
       "audioFileName": null,
       "exampleSentence": "Is this orange juice freshly squeezed?",
       "exampleSentenceChinese": "这是鲜榨果汁吗？",
-      "exampleSentenceDevanagari": "झे शि शिआन झा गुओ झि मा"
+      "exampleSentenceDevanagari": "झे शि शिआन झा गुओ झि मा",
+      "exampleSentenceTones": [
+        4,
+        4,
+        1,
+        4,
+        3,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "筷子",
@@ -1079,7 +1702,15 @@
       "audioFileName": null,
       "exampleSentence": "Can you use chopsticks comfortably?",
       "exampleSentenceChinese": "你会用筷子吗？",
-      "exampleSentenceDevanagari": "नि हुइ योङ खुआइ जि मा"
+      "exampleSentenceDevanagari": "नि हुइ योङ खुआइ जि मा",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        4,
+        5,
+        5
+      ]
     },
     {
       "chineseCharacter": "碗",
@@ -1095,7 +1726,16 @@
       "audioFileName": null,
       "exampleSentence": "Please bring an extra small bowl.",
       "exampleSentenceChinese": "请多拿一个小碗。",
-      "exampleSentenceDevanagari": "चिङ दुओ ना यि गे शिआओ वान"
+      "exampleSentenceDevanagari": "चिङ दुओ ना यि गे शिआओ वान",
+      "exampleSentenceTones": [
+        3,
+        1,
+        2,
+        2,
+        5,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "盘子",
@@ -1112,7 +1752,20 @@
       "audioFileName": null,
       "exampleSentence": "The waiter brought a clean plate.",
       "exampleSentenceChinese": "服务员换了一个干净盘子。",
-      "exampleSentenceDevanagari": "फु वु युआन हुआन ले यि गे गान जिङ फान जि"
+      "exampleSentenceDevanagari": "फु वु युआन हुआन ले यि गे गान जिङ फान जि",
+      "exampleSentenceTones": [
+        2,
+        4,
+        2,
+        4,
+        5,
+        2,
+        5,
+        1,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "杯子",
@@ -1129,7 +1782,17 @@
       "audioFileName": null,
       "exampleSentence": "Please bring two clean glasses.",
       "exampleSentenceChinese": "请拿两个干净杯子。",
-      "exampleSentenceDevanagari": "चिङ ना लिआङ गे गान जिङ बेइ जि"
+      "exampleSentenceDevanagari": "चिङ ना लिआङ गे गान जिङ बेइ जि",
+      "exampleSentenceTones": [
+        3,
+        2,
+        3,
+        5,
+        1,
+        4,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "勺子",
@@ -1146,7 +1809,19 @@
       "audioFileName": null,
       "exampleSentence": "I need a soup spoon.",
       "exampleSentenceChinese": "我需要一把喝汤的勺子。",
-      "exampleSentenceDevanagari": "वो शु याओ यि बा हे थाङ दे शाओ जि"
+      "exampleSentenceDevanagari": "वो शु याओ यि बा हे थाङ दे शाओ जि",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        4,
+        3,
+        1,
+        1,
+        5,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "餐巾纸",
@@ -1164,7 +1839,16 @@
       "audioFileName": null,
       "exampleSentence": "Excuse me, please bring a pack of napkins.",
       "exampleSentenceChinese": "请拿一包餐巾纸。",
-      "exampleSentenceDevanagari": "चिङ ना यि बाओ छान जिन झि"
+      "exampleSentenceDevanagari": "चिङ ना यि बाओ छान जिन झि",
+      "exampleSentenceTones": [
+        3,
+        2,
+        4,
+        1,
+        1,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "好吃",
@@ -1181,7 +1865,17 @@
       "audioFileName": null,
       "exampleSentence": "The dishes at this restaurant are very delicious.",
       "exampleSentenceChinese": "这家店的菜真好吃。",
-      "exampleSentenceDevanagari": "झे जिआ दिआन दे छाइ झेन हाओ छि"
+      "exampleSentenceDevanagari": "झे जिआ दिआन दे छाइ झेन हाओ छि",
+      "exampleSentenceTones": [
+        4,
+        1,
+        4,
+        5,
+        4,
+        1,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "味道",
@@ -1198,7 +1892,15 @@
       "audioFileName": null,
       "exampleSentence": "The flavor is very authentic.",
       "exampleSentenceChinese": "味道非常正宗。",
-      "exampleSentenceDevanagari": "वेइ दाओ फेइ छाङ झेङ झोङ"
+      "exampleSentenceDevanagari": "वेइ दाओ फेइ छाङ झेङ झोङ",
+      "exampleSentenceTones": [
+        4,
+        5,
+        1,
+        2,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "尝一下",
@@ -1216,7 +1918,17 @@
       "audioFileName": null,
       "exampleSentence": "Come sample this signature dish.",
       "exampleSentenceChinese": "你来尝一下这个菜。",
-      "exampleSentenceDevanagari": "नि लाइ छाङ यि शिआ झे गे छाइ"
+      "exampleSentenceDevanagari": "नि लाइ छाङ यि शिआ झे गे छाइ",
+      "exampleSentenceTones": [
+        3,
+        2,
+        2,
+        2,
+        4,
+        4,
+        5,
+        4
+      ]
     },
     {
       "chineseCharacter": "趁热吃",
@@ -1234,7 +1946,17 @@
       "audioFileName": null,
       "exampleSentence": "The dumplings just arrived, eat while they are hot!",
       "exampleSentenceChinese": "饺子刚上桌，趁热吃！",
-      "exampleSentenceDevanagari": "जिआओ जि गाङ शाङ झुओ छेन रे छि"
+      "exampleSentenceDevanagari": "जिआओ जि गाङ शाङ झुओ छेन रे छि",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        1,
+        4,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "够了",
@@ -1251,7 +1973,19 @@
       "audioFileName": null,
       "exampleSentence": "These dishes are plenty, that's enough.",
       "exampleSentenceChinese": "这些菜够了，不用再点了。",
-      "exampleSentenceDevanagari": "झे शिए छाइ गोउ ले बु योङ जाइ दिआन ले"
+      "exampleSentenceDevanagari": "झे शिए छाइ गोउ ले बु योङ जाइ दिआन ले",
+      "exampleSentenceTones": [
+        4,
+        1,
+        4,
+        4,
+        5,
+        2,
+        4,
+        4,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "还要一份",
@@ -1270,7 +2004,20 @@
       "audioFileName": null,
       "exampleSentence": "We'd like one more serving of dumplings, please.",
       "exampleSentenceChinese": "饺子很好吃，我们还要一份。",
-      "exampleSentenceDevanagari": "जिआओ जि हेन हाओ छि वो मेन हाइ याओ यि फेन"
+      "exampleSentenceDevanagari": "जिआओ जि हेन हाओ छि वो मेन हाइ याओ यि फेन",
+      "exampleSentenceTones": [
+        3,
+        5,
+        3,
+        3,
+        1,
+        3,
+        5,
+        2,
+        4,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "现金",
@@ -1287,7 +2034,15 @@
       "audioFileName": null,
       "exampleSentence": "I will pay for this meal in cash.",
       "exampleSentenceChinese": "我用现金买单。",
-      "exampleSentenceDevanagari": "वो योङ शिआन जिन माइ दान"
+      "exampleSentenceDevanagari": "वो योङ शिआन जिन माइ दान",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        1,
+        3,
+        1
+      ]
     }
   ]
 }

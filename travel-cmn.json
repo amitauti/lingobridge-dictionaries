@@ -3,7 +3,7 @@
   "id": "travel-cmn",
   "languageCode": "cmn",
   "domainId": "travel",
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "chineseCharacter": "护照",
@@ -20,7 +20,16 @@
       "audioFileName": null,
       "exampleSentence": "Please show your passport.",
       "exampleSentenceChinese": "请出示您的护照。",
-      "exampleSentenceDevanagari": "चिङ छु शि निन दे हु झाओ"
+      "exampleSentenceDevanagari": "चिङ छु शि निन दे हु झाओ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        2,
+        5,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "签证",
@@ -37,7 +46,18 @@
       "audioFileName": null,
       "exampleSentence": "My tourist visa has been approved.",
       "exampleSentenceChinese": "我的旅游签证办好了。",
-      "exampleSentenceDevanagari": "वो दे ल्यु योउ चिआन झेङ बान हाओ ले"
+      "exampleSentenceDevanagari": "वो दे ल्यु योउ चिआन झेङ बान हाओ ले",
+      "exampleSentenceTones": [
+        3,
+        5,
+        3,
+        2,
+        1,
+        4,
+        4,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "登机牌",
@@ -55,7 +75,16 @@
       "audioFileName": null,
       "exampleSentence": "Please have your boarding pass ready.",
       "exampleSentenceChinese": "请准备好登机牌。",
-      "exampleSentenceDevanagari": "चिङ झुन बेइ हाओ देङ जि फाइ"
+      "exampleSentenceDevanagari": "चिङ झुन बेइ हाओ देङ जि फाइ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        4,
+        3,
+        1,
+        1,
+        2
+      ]
     },
     {
       "chineseCharacter": "航班",
@@ -72,7 +101,17 @@
       "audioFileName": null,
       "exampleSentence": "What time does your flight arrive?",
       "exampleSentenceChinese": "你的航班几点到达？",
-      "exampleSentenceDevanagari": "नि दे हाङ बान जि दिआन दाओ दा"
+      "exampleSentenceDevanagari": "नि दे हाङ बान जि दिआन दाओ दा",
+      "exampleSentenceTones": [
+        3,
+        5,
+        2,
+        1,
+        3,
+        3,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "机场",
@@ -89,7 +128,20 @@
       "audioFileName": null,
       "exampleSentence": "I need to arrive at the airport two hours early.",
       "exampleSentenceChinese": "我需要提前两小时到机场。",
-      "exampleSentenceDevanagari": "वो शु याओ थि चिआन लिआङ शिआओ शि दाओ जि छाङ"
+      "exampleSentenceDevanagari": "वो शु याओ थि चिआन लिआङ शिआओ शि दाओ जि छाङ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        2,
+        2,
+        3,
+        3,
+        2,
+        4,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "航站楼",
@@ -107,7 +159,20 @@
       "audioFileName": null,
       "exampleSentence": "Our flight departs from Terminal 2.",
       "exampleSentenceChinese": "我们的航班在二号航站楼。",
-      "exampleSentenceDevanagari": "वो मेन दे हाङ बान जाइ अर हाओ हाङ झान लोउ"
+      "exampleSentenceDevanagari": "वो मेन दे हाङ बान जाइ अर हाओ हाङ झान लोउ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        5,
+        2,
+        1,
+        4,
+        4,
+        4,
+        2,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "海关",
@@ -124,7 +189,15 @@
       "audioFileName": null,
       "exampleSentence": "Going through customs was very fast.",
       "exampleSentenceChinese": "过海关非常快。",
-      "exampleSentenceDevanagari": "गुओ हाइ गुआन फेइ छाङ खुआइ"
+      "exampleSentenceDevanagari": "गुओ हाइ गुआन फेइ छाङ खुआइ",
+      "exampleSentenceTones": [
+        4,
+        3,
+        1,
+        1,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "安检",
@@ -141,7 +214,15 @@
       "audioFileName": null,
       "exampleSentence": "Please queue up for the security check.",
       "exampleSentenceChinese": "请排队过安检。",
-      "exampleSentenceDevanagari": "चिङ फाइ दुइ गुओ आन जिआन"
+      "exampleSentenceDevanagari": "चिङ फाइ दुइ गुओ आन जिआन",
+      "exampleSentenceTones": [
+        3,
+        2,
+        4,
+        4,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "行李",
@@ -158,7 +239,15 @@
       "audioFileName": null,
       "exampleSentence": "I have two pieces of luggage.",
       "exampleSentenceChinese": "我有两件行李。",
-      "exampleSentenceDevanagari": "वो योउ लिआङ जिआन शिङ लि"
+      "exampleSentenceDevanagari": "वो योउ लिआङ जिआन शिङ लि",
+      "exampleSentenceTones": [
+        3,
+        3,
+        3,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "登机口",
@@ -176,7 +265,18 @@
       "audioFileName": null,
       "exampleSentence": "The boarding gate has changed to Gate 15.",
       "exampleSentenceChinese": "登机口换到了十五号。",
-      "exampleSentenceDevanagari": "देङ जि खोउ हुआन दाओ ले शि वु हाओ"
+      "exampleSentenceDevanagari": "देङ जि खोउ हुआन दाओ ले शि वु हाओ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        3,
+        4,
+        4,
+        5,
+        2,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "候机室",
@@ -194,7 +294,17 @@
       "audioFileName": null,
       "exampleSentence": "We are resting in the departure lounge.",
       "exampleSentenceChinese": "我们在候机室休息。",
-      "exampleSentenceDevanagari": "वो मेन जाइ होउ जि शि शिउ शि"
+      "exampleSentenceDevanagari": "वो मेन जाइ होउ जि शि शिउ शि",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        4,
+        1,
+        4,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "托运",
@@ -211,7 +321,18 @@
       "audioFileName": null,
       "exampleSentence": "Do you need to check this suitcase?",
       "exampleSentenceChinese": "这个箱子需要托运吗？",
-      "exampleSentenceDevanagari": "झे गे शिआङ जि शु याओ थुओ युन मा"
+      "exampleSentenceDevanagari": "झे गे शिआङ जि शु याओ थुओ युन मा",
+      "exampleSentenceTones": [
+        4,
+        5,
+        1,
+        5,
+        1,
+        4,
+        1,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "超重",
@@ -228,7 +349,19 @@
       "audioFileName": null,
       "exampleSentence": "Your luggage is overweight by two kilograms.",
       "exampleSentenceChinese": "您的行李超重了两公斤。",
-      "exampleSentenceDevanagari": "निन दे शिङ लि छाओ झोङ ले लिआङ गोङ जिन"
+      "exampleSentenceDevanagari": "निन दे शिङ लि छाओ झोङ ले लिआङ गोङ जिन",
+      "exampleSentenceTones": [
+        2,
+        5,
+        2,
+        5,
+        1,
+        4,
+        5,
+        3,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "行李提取",
@@ -247,7 +380,17 @@
       "audioFileName": null,
       "exampleSentence": "Where is the baggage claim area?",
       "exampleSentenceChinese": "行李提取处在哪里？",
-      "exampleSentenceDevanagari": "शिङ लि थि चु छु जाइ ना लि"
+      "exampleSentenceDevanagari": "शिङ लि थि चु छु जाइ ना लि",
+      "exampleSentenceTones": [
+        2,
+        5,
+        2,
+        3,
+        4,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "延误",
@@ -264,7 +407,18 @@
       "audioFileName": null,
       "exampleSentence": "Our flight has been delayed by one hour.",
       "exampleSentenceChinese": "航班延误了一个小时。",
-      "exampleSentenceDevanagari": "हाङ बान यान वु ले यि गे शिआओ शि"
+      "exampleSentenceDevanagari": "हाङ बान यान वु ले यि गे शिआओ शि",
+      "exampleSentenceTones": [
+        2,
+        1,
+        2,
+        4,
+        5,
+        2,
+        5,
+        3,
+        2
+      ]
     },
     {
       "chineseCharacter": "取消",
@@ -281,7 +435,17 @@
       "audioFileName": null,
       "exampleSentence": "Today's flight was cancelled due to bad weather.",
       "exampleSentenceChinese": "今天的航班取消了。",
-      "exampleSentenceDevanagari": "जिन थिआन दे हाङ बान चु शिआओ ले"
+      "exampleSentenceDevanagari": "जिन थिआन दे हाङ बान चु शिआओ ले",
+      "exampleSentenceTones": [
+        1,
+        1,
+        5,
+        2,
+        1,
+        3,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "转机",
@@ -298,7 +462,18 @@
       "audioFileName": null,
       "exampleSentence": "We need to transfer flights in Shanghai.",
       "exampleSentenceChinese": "我们需要在上海转机。",
-      "exampleSentenceDevanagari": "वो मेन शु याओ जाइ शाङ हाइ झुआन जि"
+      "exampleSentenceDevanagari": "वो मेन शु याओ जाइ शाङ हाइ झुआन जि",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        4,
+        4,
+        3,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "火车站",
@@ -316,7 +491,18 @@
       "audioFileName": null,
       "exampleSentence": "How do I get to Beijing Train Station?",
       "exampleSentenceChinese": "去北京火车站怎么走？",
-      "exampleSentenceDevanagari": "चु बेइ जिङ हुओ छ झान जेन मे जोउ"
+      "exampleSentenceDevanagari": "चु बेइ जिङ हुओ छ झान जेन मे जोउ",
+      "exampleSentenceTones": [
+        4,
+        3,
+        1,
+        3,
+        1,
+        4,
+        3,
+        5,
+        3
+      ]
     },
     {
       "chineseCharacter": "高铁",
@@ -333,7 +519,16 @@
       "audioFileName": null,
       "exampleSentence": "Taking the high-speed train is very convenient.",
       "exampleSentenceChinese": "坐高铁非常方便。",
-      "exampleSentenceDevanagari": "जुओ गाओ थिए फेइ छाङ फाङ बिआन"
+      "exampleSentenceDevanagari": "जुओ गाओ थिए फेइ छाङ फाङ बिआन",
+      "exampleSentenceTones": [
+        4,
+        1,
+        3,
+        1,
+        2,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "地铁",
@@ -350,7 +545,18 @@
       "audioFileName": null,
       "exampleSentence": "Let's take the subway downtown.",
       "exampleSentenceChinese": "我们坐地铁去市中心。",
-      "exampleSentenceDevanagari": "वो मेन जुओ दि थिए चु शि झोङ शिन"
+      "exampleSentenceDevanagari": "वो मेन जुओ दि थिए चु शि झोङ शिन",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        4,
+        3,
+        4,
+        4,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "地铁站",
@@ -368,7 +574,17 @@
       "audioFileName": null,
       "exampleSentence": "There is a subway station near the hotel.",
       "exampleSentenceChinese": "酒店附近有地铁站。",
-      "exampleSentenceDevanagari": "जिउ दिआन फु जिन योउ दि थिए झान"
+      "exampleSentenceDevanagari": "जिउ दिआन फु जिन योउ दि थिए झान",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "出租车",
@@ -386,7 +602,19 @@
       "audioFileName": null,
       "exampleSentence": "Let's take a taxi to the hotel.",
       "exampleSentenceChinese": "我们坐出租车去酒店吧。",
-      "exampleSentenceDevanagari": "वो मेन जुओ छु जु छ चु जिउ दिआन बा"
+      "exampleSentenceDevanagari": "वो मेन जुओ छु जु छ चु जिउ दिआन बा",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        1,
+        1,
+        1,
+        4,
+        3,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "公交车",
@@ -404,7 +632,18 @@
       "audioFileName": null,
       "exampleSentence": "Bus number 1 goes to the museum.",
       "exampleSentenceChinese": "一号公交车去博物馆。",
-      "exampleSentenceDevanagari": "यि हाओ गोङ जिआओ छ चु बो वु गुआन"
+      "exampleSentenceDevanagari": "यि हाओ गोङ जिआओ छ चु बो वु गुआन",
+      "exampleSentenceTones": [
+        1,
+        4,
+        1,
+        1,
+        1,
+        4,
+        2,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "车票",
@@ -421,7 +660,16 @@
       "audioFileName": null,
       "exampleSentence": "Have you bought the train tickets?",
       "exampleSentenceChinese": "车票你买好了吗？",
-      "exampleSentenceDevanagari": "छ पिआओ नि माइ हाओ ले मा"
+      "exampleSentenceDevanagari": "छ पिआओ नि माइ हाओ ले मा",
+      "exampleSentenceTones": [
+        1,
+        4,
+        3,
+        3,
+        3,
+        5,
+        5
+      ]
     },
     {
       "chineseCharacter": "单程票",
@@ -439,7 +687,21 @@
       "audioFileName": null,
       "exampleSentence": "I would like to buy a one-way ticket to Shanghai.",
       "exampleSentenceChinese": "我想买一张去上海的单程票。",
-      "exampleSentenceDevanagari": "वो शिआङ माइ यि झाङ चु शाङ हाइ दे दान छेङ पिआओ"
+      "exampleSentenceDevanagari": "वो शिआङ माइ यि झाङ चु शाङ हाइ दे दान छेङ पिआओ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        3,
+        4,
+        1,
+        4,
+        4,
+        3,
+        5,
+        1,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "往返票",
@@ -457,7 +719,16 @@
       "audioFileName": null,
       "exampleSentence": "Buying a round-trip ticket is cheaper.",
       "exampleSentenceChinese": "买往返票更便宜。",
-      "exampleSentenceDevanagari": "माइ वाङ फान पिआओ गेङ पिआन यि"
+      "exampleSentenceDevanagari": "माइ वाङ फान पिआओ गेङ पिआन यि",
+      "exampleSentenceTones": [
+        3,
+        3,
+        3,
+        4,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "售票处",
@@ -475,7 +746,17 @@
       "audioFileName": null,
       "exampleSentence": "Where is the station ticket office?",
       "exampleSentenceChinese": "售票处在一楼大厅。",
-      "exampleSentenceDevanagari": "शोउ पिआओ छु जाइ यि लोउ दा थिङ"
+      "exampleSentenceDevanagari": "शोउ पिआओ छु जाइ यि लोउ दा थिङ",
+      "exampleSentenceTones": [
+        4,
+        4,
+        4,
+        4,
+        1,
+        2,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "检票口",
@@ -493,7 +774,18 @@
       "audioFileName": null,
       "exampleSentence": "Please go to Ticket Gate 6 to board.",
       "exampleSentenceChinese": "请到六号检票口进站。",
-      "exampleSentenceDevanagari": "चिङ दाओ लिउ हाओ जिआन पिआओ खोउ जिन झान"
+      "exampleSentenceDevanagari": "चिङ दाओ लिउ हाओ जिआन पिआओ खोउ जिन झान",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        4,
+        3,
+        4,
+        3,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "月台",
@@ -510,7 +802,18 @@
       "audioFileName": null,
       "exampleSentence": "The train is waiting at Platform 3.",
       "exampleSentenceChinese": "列车在三号月台等候。",
-      "exampleSentenceDevanagari": "लिए छ जाइ सान हाओ युए थाइ देङ होउ"
+      "exampleSentenceDevanagari": "लिए छ जाइ सान हाओ युए थाइ देङ होउ",
+      "exampleSentenceTones": [
+        4,
+        1,
+        4,
+        1,
+        4,
+        4,
+        2,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "打车",
@@ -527,7 +830,19 @@
       "audioFileName": null,
       "exampleSentence": "It is raining outside, let's call a cab.",
       "exampleSentenceChinese": "外面下雨了，我们打车吧。",
-      "exampleSentenceDevanagari": "वाइ मिआन शिआ यु ले वो मेन दा छ बा"
+      "exampleSentenceDevanagari": "वाइ मिआन शिआ यु ले वो मेन दा छ बा",
+      "exampleSentenceTones": [
+        4,
+        4,
+        4,
+        3,
+        5,
+        3,
+        5,
+        3,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "堵车",
@@ -544,7 +859,16 @@
       "audioFileName": null,
       "exampleSentence": "There is a severe traffic jam on the highway.",
       "exampleSentenceChinese": "路上堵车很严重。",
-      "exampleSentenceDevanagari": "लु शाङ दु छ हेन यान झोङ"
+      "exampleSentenceDevanagari": "लु शाङ दु छ हेन यान झोङ",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        1,
+        3,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "租车",
@@ -561,7 +885,19 @@
       "audioFileName": null,
       "exampleSentence": "We rented a car at the airport.",
       "exampleSentenceChinese": "我们在机场租了一辆车。",
-      "exampleSentenceDevanagari": "वो मेन जाइ जि छाङ जु ले यि लिआङ छ"
+      "exampleSentenceDevanagari": "वो मेन जाइ जि छाङ जु ले यि लिआङ छ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        1,
+        3,
+        1,
+        5,
+        2,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "酒店",
@@ -578,7 +914,16 @@
       "audioFileName": null,
       "exampleSentence": "Which hotel are you staying at?",
       "exampleSentenceChinese": "你住在哪个酒店？",
-      "exampleSentenceDevanagari": "नि झु जाइ ना गे जिउ दिआन"
+      "exampleSentenceDevanagari": "नि झु जाइ ना गे जिउ दिआन",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        3,
+        5,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "预订",
@@ -595,7 +940,18 @@
       "audioFileName": null,
       "exampleSentence": "I booked a room online.",
       "exampleSentenceChinese": "我在网上预订了房间。",
-      "exampleSentenceDevanagari": "वो जाइ वाङ शाङ यु दिङ ले फाङ जिआन"
+      "exampleSentenceDevanagari": "वो जाइ वाङ शाङ यु दिङ ले फाङ जिआन",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        4,
+        4,
+        4,
+        5,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "前台",
@@ -612,7 +968,17 @@
       "audioFileName": null,
       "exampleSentence": "Please register your passport at the front desk.",
       "exampleSentenceChinese": "请到前台办理入住。",
-      "exampleSentenceDevanagari": "चिङ दाओ चिआन थाइ बान लि रु झु"
+      "exampleSentenceDevanagari": "चिङ दाओ चिआन थाइ बान लि रु झु",
+      "exampleSentenceTones": [
+        3,
+        4,
+        2,
+        2,
+        4,
+        3,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "入住",
@@ -629,7 +995,19 @@
       "audioFileName": null,
       "exampleSentence": "We can check in at two o'clock in the afternoon.",
       "exampleSentenceChinese": "我们下午两点可以入住。",
-      "exampleSentenceDevanagari": "वो मेन शिआ वु लिआङ दिआन खे यि रु झु"
+      "exampleSentenceDevanagari": "वो मेन शिआ वु लिआङ दिआन खे यि रु झु",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        3,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "退房",
@@ -646,7 +1024,19 @@
       "audioFileName": null,
       "exampleSentence": "Check-out time is twelve o'clock noon.",
       "exampleSentenceChinese": "退房时间是中午十二点。",
-      "exampleSentenceDevanagari": "थुइ फाङ शि जिआन शि झोङ वु शि अर दिआन"
+      "exampleSentenceDevanagari": "थुइ फाङ शि जिआन शि झोङ वु शि अर दिआन",
+      "exampleSentenceTones": [
+        4,
+        2,
+        2,
+        1,
+        4,
+        1,
+        3,
+        2,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "房卡",
@@ -663,7 +1053,15 @@
       "audioFileName": null,
       "exampleSentence": "Here is your room card.",
       "exampleSentenceChinese": "这是您的房卡。",
-      "exampleSentenceDevanagari": "झे शि निन दे फाङ खा"
+      "exampleSentenceDevanagari": "झे शि निन दे फाङ खा",
+      "exampleSentenceTones": [
+        4,
+        4,
+        2,
+        5,
+        2,
+        3
+      ]
     },
     {
       "chineseCharacter": "押金",
@@ -680,7 +1078,18 @@
       "audioFileName": null,
       "exampleSentence": "How much deposit is required for check-in?",
       "exampleSentenceChinese": "入住需要交多少押金？",
-      "exampleSentenceDevanagari": "रु झु शु याओ जिआओ दुओ शाओ या जिन"
+      "exampleSentenceDevanagari": "रु झु शु याओ जिआओ दुओ शाओ या जिन",
+      "exampleSentenceTones": [
+        4,
+        4,
+        1,
+        4,
+        1,
+        1,
+        5,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "单人间",
@@ -698,7 +1107,18 @@
       "audioFileName": null,
       "exampleSentence": "I would like to book a single room.",
       "exampleSentenceChinese": "我想预订一间单人间。",
-      "exampleSentenceDevanagari": "वो शिआङ यु दिङ यि जिआन दान रेन जिआन"
+      "exampleSentenceDevanagari": "वो शिआङ यु दिङ यि जिआन दान रेन जिआन",
+      "exampleSentenceTones": [
+        3,
+        3,
+        4,
+        4,
+        4,
+        1,
+        1,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "双人间",
@@ -716,7 +1136,16 @@
       "audioFileName": null,
       "exampleSentence": "Does the double room include breakfast?",
       "exampleSentenceChinese": "双人间含早餐吗？",
-      "exampleSentenceDevanagari": "शुआङ रेन जिआन हान जाओ छान मा"
+      "exampleSentenceDevanagari": "शुआङ रेन जिआन हान जाओ छान मा",
+      "exampleSentenceTones": [
+        1,
+        2,
+        1,
+        2,
+        3,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "行李寄存",
@@ -735,7 +1164,20 @@
       "audioFileName": null,
       "exampleSentence": "Can I store my luggage here for a few hours?",
       "exampleSentenceChinese": "这里可以办理行李寄存吗？",
-      "exampleSentenceDevanagari": "झे लि खे यि बान लि शिङ लि जि छुन मा"
+      "exampleSentenceDevanagari": "झे लि खे यि बान लि शिङ लि जि छुन मा",
+      "exampleSentenceTones": [
+        4,
+        3,
+        3,
+        3,
+        4,
+        3,
+        2,
+        5,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "叫醒服务",
@@ -754,7 +1196,24 @@
       "audioFileName": null,
       "exampleSentence": "Please arrange a wake-up call for seven tomorrow morning.",
       "exampleSentenceChinese": "请帮我订明天早上七点的叫醒服务。",
-      "exampleSentenceDevanagari": "चिङ बाङ वो दिङ मिङ थिआन जाओ शाङ चि दिआन दे जिआओ शिङ फु वु"
+      "exampleSentenceDevanagari": "चिङ बाङ वो दिङ मिङ थिआन जाओ शाङ चि दिआन दे जिआओ शिङ फु वु",
+      "exampleSentenceTones": [
+        3,
+        1,
+        3,
+        4,
+        2,
+        1,
+        3,
+        5,
+        1,
+        3,
+        5,
+        4,
+        3,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "免费",
@@ -771,7 +1230,17 @@
       "audioFileName": null,
       "exampleSentence": "The hotel provides complimentary breakfast.",
       "exampleSentenceChinese": "酒店提供免费早餐。",
-      "exampleSentenceDevanagari": "जिउ दिआन थि गोङ मिआन फेइ जाओ छान"
+      "exampleSentenceDevanagari": "जिउ दिआन थि गोङ मिआन फेइ जाओ छान",
+      "exampleSentenceTones": [
+        3,
+        4,
+        2,
+        1,
+        3,
+        4,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "无线网络",
@@ -790,7 +1259,22 @@
       "audioFileName": null,
       "exampleSentence": "What is the Wi-Fi password in the room?",
       "exampleSentenceChinese": "房间里的无线网络密码是多少？",
-      "exampleSentenceDevanagari": "फाङ जिआन लि दे वु शिआन वाङ लुओ मि मा शि दुओ शाओ"
+      "exampleSentenceDevanagari": "फाङ जिआन लि दे वु शिआन वाङ लुओ मि मा शि दुओ शाओ",
+      "exampleSentenceTones": [
+        2,
+        1,
+        3,
+        5,
+        2,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "地图",
@@ -807,7 +1291,17 @@
       "audioFileName": null,
       "exampleSentence": "Let's check the map to see where we are.",
       "exampleSentenceChinese": "我们看一下地图吧。",
-      "exampleSentenceDevanagari": "वो मेन खान यि शिआ दि थु बा"
+      "exampleSentenceDevanagari": "वो मेन खान यि शिआ दि थु बा",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        2,
+        4,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "怎么走",
@@ -825,7 +1319,17 @@
       "audioFileName": null,
       "exampleSentence": "Excuse me, how do I get to the Forbidden City?",
       "exampleSentenceChinese": "请问去故宫怎么走？",
-      "exampleSentenceDevanagari": "चिङ वेन चु गु गोङ जेन मे जोउ"
+      "exampleSentenceDevanagari": "चिङ वेन चु गु गोङ जेन मे जोउ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        4,
+        1,
+        3,
+        5,
+        3
+      ]
     },
     {
       "chineseCharacter": "向左拐",
@@ -843,7 +1347,18 @@
       "audioFileName": null,
       "exampleSentence": "Turn left at the next intersection.",
       "exampleSentenceChinese": "在下一个路口向左拐。",
-      "exampleSentenceDevanagari": "जाइ शिआ यि गे लु खोउ शिआङ जुओ गुआइ"
+      "exampleSentenceDevanagari": "जाइ शिआ यि गे लु खोउ शिआङ जुओ गुआइ",
+      "exampleSentenceTones": [
+        4,
+        4,
+        2,
+        5,
+        4,
+        3,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "向右拐",
@@ -861,7 +1376,17 @@
       "audioFileName": null,
       "exampleSentence": "Walk fifty meters and turn right.",
       "exampleSentenceChinese": "走五十米后向右拐。",
-      "exampleSentenceDevanagari": "जोउ वु शि मि होउ शिआङ योउ गुआइ"
+      "exampleSentenceDevanagari": "जोउ वु शि मि होउ शिआङ योउ गुआइ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        2,
+        3,
+        4,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "一直走",
@@ -879,7 +1404,21 @@
       "audioFileName": null,
       "exampleSentence": "Walk straight ahead and you will see the subway entrance.",
       "exampleSentenceChinese": "一直走就能看到地铁站入口。",
-      "exampleSentenceDevanagari": "यि झि जोउ जिउ नेङ खान दाओ दि थिए झान रु खोउ"
+      "exampleSentenceDevanagari": "यि झि जोउ जिउ नेङ खान दाओ दि थिए झान रु खोउ",
+      "exampleSentenceTones": [
+        4,
+        2,
+        3,
+        4,
+        2,
+        4,
+        4,
+        4,
+        3,
+        4,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "十字路口",
@@ -898,7 +1437,17 @@
       "audioFileName": null,
       "exampleSentence": "The bank is right at the intersection.",
       "exampleSentenceChinese": "银行就在十字路口。",
-      "exampleSentenceDevanagari": "यिन हाङ जिउ जाइ शि जि लु खोउ"
+      "exampleSentenceDevanagari": "यिन हाङ जिउ जाइ शि जि लु खोउ",
+      "exampleSentenceTones": [
+        2,
+        2,
+        4,
+        4,
+        2,
+        4,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "旁边",
@@ -915,7 +1464,17 @@
       "audioFileName": null,
       "exampleSentence": "The supermarket is right next to the hotel.",
       "exampleSentenceChinese": "超市就在酒店旁边。",
-      "exampleSentenceDevanagari": "छाओ शि जिउ जाइ जिउ दिआन फाङ बिआन"
+      "exampleSentenceDevanagari": "छाओ शि जिउ जाइ जिउ दिआन फाङ बिआन",
+      "exampleSentenceTones": [
+        1,
+        4,
+        4,
+        4,
+        3,
+        4,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "对面",
@@ -932,7 +1491,17 @@
       "audioFileName": null,
       "exampleSentence": "The restaurant is across the street.",
       "exampleSentenceChinese": "餐厅就在马路对面。",
-      "exampleSentenceDevanagari": "छान थिङ जिउ जाइ मा लु दुइ मिआन"
+      "exampleSentenceDevanagari": "छान थिङ जिउ जाइ मा लु दुइ मिआन",
+      "exampleSentenceTones": [
+        1,
+        1,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "出口",
@@ -949,7 +1518,16 @@
       "audioFileName": null,
       "exampleSentence": "Please leave through Exit B.",
       "exampleSentenceChinese": "请从乙出口出去。",
-      "exampleSentenceDevanagari": "चिङ छोङ यि छु खोउ छु चु"
+      "exampleSentenceDevanagari": "चिङ छोङ यि छु खोउ छु चु",
+      "exampleSentenceTones": [
+        3,
+        2,
+        3,
+        1,
+        3,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "入口",
@@ -966,7 +1544,17 @@
       "audioFileName": null,
       "exampleSentence": "The museum entrance is on the east side.",
       "exampleSentenceChinese": "博物馆入口在东边。",
-      "exampleSentenceDevanagari": "बो वु गुआन रु खोउ जाइ दोङ बिआन"
+      "exampleSentenceDevanagari": "बो वु गुआन रु खोउ जाइ दोङ बिआन",
+      "exampleSentenceTones": [
+        2,
+        4,
+        3,
+        4,
+        3,
+        4,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "洗手间",
@@ -984,7 +1572,17 @@
       "audioFileName": null,
       "exampleSentence": "Excuse me, where is the washroom?",
       "exampleSentenceChinese": "请问洗手间在哪里？",
-      "exampleSentenceDevanagari": "चिङ वेन शि शोउ जिआन जाइ ना लि"
+      "exampleSentenceDevanagari": "चिङ वेन शि शोउ जिआन जाइ ना लि",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        3,
+        1,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "迷路",
@@ -1001,7 +1599,19 @@
       "audioFileName": null,
       "exampleSentence": "I am lost, can you help me?",
       "exampleSentenceChinese": "我迷路了，您可以帮我吗？",
-      "exampleSentenceDevanagari": "वो मि लु ले निन खे यि बाङ वो मा"
+      "exampleSentenceDevanagari": "वो मि लु ले निन खे यि बाङ वो मा",
+      "exampleSentenceTones": [
+        3,
+        2,
+        4,
+        5,
+        2,
+        3,
+        3,
+        1,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "景点",
@@ -1018,7 +1628,19 @@
       "audioFileName": null,
       "exampleSentence": "Beijing has many famous scenic spots.",
       "exampleSentenceChinese": "北京有很多著名的景点。",
-      "exampleSentenceDevanagari": "बेइ जिङ योउ हेन दुओ झु मिङ दे जिङ दिआन"
+      "exampleSentenceDevanagari": "बेइ जिङ योउ हेन दुओ झु मिङ दे जिङ दिआन",
+      "exampleSentenceTones": [
+        3,
+        1,
+        3,
+        3,
+        1,
+        4,
+        2,
+        5,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "门票",
@@ -1035,7 +1657,19 @@
       "audioFileName": null,
       "exampleSentence": "How much is an entrance ticket?",
       "exampleSentenceChinese": "景区的门票多少钱一张？",
-      "exampleSentenceDevanagari": "जिङ चु दे मेन पिआओ दुओ शाओ चिआन यि झाङ"
+      "exampleSentenceDevanagari": "जिङ चु दे मेन पिआओ दुओ शाओ चिआन यि झाङ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        5,
+        2,
+        4,
+        1,
+        5,
+        2,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "导游",
@@ -1052,7 +1686,22 @@
       "audioFileName": null,
       "exampleSentence": "The tour guide introduced the history of the attraction.",
       "exampleSentenceChinese": "导游向我们介绍了景点的历史。",
-      "exampleSentenceDevanagari": "दाओ योउ शिआङ वो मेन जिए शाओ ले जिङ दिआन दे लि शि"
+      "exampleSentenceDevanagari": "दाओ योउ शिआङ वो मेन जिए शाओ ले जिङ दिआन दे लि शि",
+      "exampleSentenceTones": [
+        3,
+        2,
+        4,
+        3,
+        5,
+        4,
+        4,
+        5,
+        3,
+        3,
+        5,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "拍照",
@@ -1069,7 +1718,18 @@
       "audioFileName": null,
       "exampleSentence": "Could you take a photo for us, please?",
       "exampleSentenceChinese": "可以帮我们拍张照吗？",
-      "exampleSentenceDevanagari": "खे यि बाङ वो मेन फाइ झाङ झाओ मा"
+      "exampleSentenceDevanagari": "खे यि बाङ वो मेन फाइ झाङ झाओ मा",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        3,
+        5,
+        1,
+        1,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "纪念品",
@@ -1087,7 +1747,20 @@
       "audioFileName": null,
       "exampleSentence": "I bought some souvenirs for my friends.",
       "exampleSentenceChinese": "我给朋友买了一些纪念品。",
-      "exampleSentenceDevanagari": "वो गेइ फेङ योउ माइ ले यि शिए जि निआन पिन"
+      "exampleSentenceDevanagari": "वो गेइ फेङ योउ माइ ले यि शिए जि निआन पिन",
+      "exampleSentenceTones": [
+        3,
+        3,
+        2,
+        5,
+        3,
+        5,
+        4,
+        1,
+        4,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "换钱",
@@ -1104,7 +1777,16 @@
       "audioFileName": null,
       "exampleSentence": "Where can I exchange foreign currency?",
       "exampleSentenceChinese": "哪里可以换外币？",
-      "exampleSentenceDevanagari": "ना लि खे यि हुआन वाइ बि"
+      "exampleSentenceDevanagari": "ना लि खे यि हुआन वाइ बि",
+      "exampleSentenceTones": [
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "汇率",
@@ -1121,7 +1803,17 @@
       "audioFileName": null,
       "exampleSentence": "What is today's exchange rate?",
       "exampleSentenceChinese": "今天的汇率是多少？",
-      "exampleSentenceDevanagari": "जिन थिआन दे हुइ ल्यु शि दुओ शाओ"
+      "exampleSentenceDevanagari": "जिन थिआन दे हुइ ल्यु शि दुओ शाओ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        5,
+        4,
+        4,
+        4,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "现金",
@@ -1138,7 +1830,15 @@
       "audioFileName": null,
       "exampleSentence": "Do you accept cash?",
       "exampleSentenceChinese": "请问收现金吗？",
-      "exampleSentenceDevanagari": "चिङ वेन शोउ शिआन जिन मा"
+      "exampleSentenceDevanagari": "चिङ वेन शोउ शिआन जिन मा",
+      "exampleSentenceTones": [
+        3,
+        4,
+        1,
+        4,
+        1,
+        5
+      ]
     },
     {
       "chineseCharacter": "信用卡",
@@ -1156,7 +1856,18 @@
       "audioFileName": null,
       "exampleSentence": "Can I pay by credit card?",
       "exampleSentenceChinese": "这里可以刷信用卡吗？",
-      "exampleSentenceDevanagari": "झे लि खे यि शुआ शिन योङ खा मा"
+      "exampleSentenceDevanagari": "झे लि खे यि शुआ शिन योङ खा मा",
+      "exampleSentenceTones": [
+        4,
+        3,
+        3,
+        3,
+        1,
+        4,
+        4,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "问一下",
@@ -1174,7 +1885,19 @@
       "audioFileName": null,
       "exampleSentence": "Excuse me, I'd like to ask a quick question.",
       "exampleSentenceChinese": "不好意思，我想问一下路。",
-      "exampleSentenceDevanagari": "बु हाओ यि सि वो शिआङ वेन यि शिआ लु"
+      "exampleSentenceDevanagari": "बु हाओ यि सि वो शिआङ वेन यि शिआ लु",
+      "exampleSentenceTones": [
+        4,
+        3,
+        4,
+        5,
+        3,
+        3,
+        4,
+        2,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "旅游咨询",
@@ -1193,7 +1916,18 @@
       "audioFileName": null,
       "exampleSentence": "There is a tourist information center at the airport.",
       "exampleSentenceChinese": "机场有旅游咨询中心。",
-      "exampleSentenceDevanagari": "जि छाङ योउ ल्यु योउ जि शुन झोङ शिन"
+      "exampleSentenceDevanagari": "जि छाङ योउ ल्यु योउ जि शुन झोङ शिन",
+      "exampleSentenceTones": [
+        1,
+        3,
+        3,
+        3,
+        2,
+        1,
+        2,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "警察局",
@@ -1211,7 +1945,18 @@
       "audioFileName": null,
       "exampleSentence": "Where is the nearest police station?",
       "exampleSentenceChinese": "最近的警察局在哪里？",
-      "exampleSentenceDevanagari": "जुइ जिन दे जिङ छा जु जाइ ना लि"
+      "exampleSentenceDevanagari": "जुइ जिन दे जिङ छा जु जाइ ना लि",
+      "exampleSentenceTones": [
+        4,
+        4,
+        5,
+        3,
+        2,
+        2,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "大使馆",
@@ -1229,7 +1974,20 @@
       "audioFileName": null,
       "exampleSentence": "I lost my passport and need to go to the embassy.",
       "exampleSentenceChinese": "我护照丢了，需要去大使馆。",
-      "exampleSentenceDevanagari": "वो हु झाओ दिउ ले शु याओ चु दा शि गुआन"
+      "exampleSentenceDevanagari": "वो हु झाओ दिउ ले शु याओ चु दा शि गुआन",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        1,
+        5,
+        1,
+        4,
+        4,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "紧急求助",
@@ -1248,7 +2006,19 @@
       "audioFileName": null,
       "exampleSentence": "Dial 110 for emergency police assistance.",
       "exampleSentenceChinese": "紧急求助请拨打一一零。",
-      "exampleSentenceDevanagari": "जिन जि चिउ झु चिङ बो दा यि यि लिङ"
+      "exampleSentenceDevanagari": "जिन जि चिउ झु चिङ बो दा यि यि लिङ",
+      "exampleSentenceTones": [
+        3,
+        2,
+        2,
+        4,
+        3,
+        1,
+        3,
+        1,
+        1,
+        2
+      ]
     },
     {
       "chineseCharacter": "遗失",
@@ -1265,7 +2035,19 @@
       "audioFileName": null,
       "exampleSentence": "I lost my bag on the train.",
       "exampleSentenceChinese": "我在火车上遗失了背包。",
-      "exampleSentenceDevanagari": "वो जाइ हुओ छ शाङ यि शि ले बेइ बाओ"
+      "exampleSentenceDevanagari": "वो जाइ हुओ छ शाङ यि शि ले बेइ बाओ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        1,
+        4,
+        2,
+        1,
+        5,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "师傅",
@@ -1282,7 +2064,17 @@
       "audioFileName": null,
       "exampleSentence": "Master driver, please take me to the airport.",
       "exampleSentenceChinese": "师傅，请带我去机场。",
-      "exampleSentenceDevanagari": "शि फु चिङ दाइ वो चु जि छाङ"
+      "exampleSentenceDevanagari": "शि फु चिङ दाइ वो चु जि छाङ",
+      "exampleSentenceTones": [
+        1,
+        5,
+        3,
+        4,
+        3,
+        4,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "停这里",
@@ -1300,7 +2092,19 @@
       "audioFileName": null,
       "exampleSentence": "Driver, please pull over and stop right here.",
       "exampleSentenceChinese": "师傅，请停这里就可以了。",
-      "exampleSentenceDevanagari": "शि फु चिङ थिङ झे लि जिउ खे यि ले"
+      "exampleSentenceDevanagari": "शि फु चिङ थिङ झे लि जिउ खे यि ले",
+      "exampleSentenceTones": [
+        1,
+        5,
+        3,
+        2,
+        4,
+        3,
+        4,
+        3,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "慢一点",
@@ -1318,7 +2122,18 @@
       "audioFileName": null,
       "exampleSentence": "Please drive a little slower.",
       "exampleSentenceChinese": "请开慢一点，我不着急。",
-      "exampleSentenceDevanagari": "चिङ खाइ मान यि दिआन वो बु झाओ जि"
+      "exampleSentenceDevanagari": "चिङ खाइ मान यि दिआन वो बु झाओ जि",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        4,
+        3,
+        3,
+        4,
+        2,
+        2
+      ]
     }
   ]
 }
