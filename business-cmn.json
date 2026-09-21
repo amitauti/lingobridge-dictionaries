@@ -3,7 +3,7 @@
   "id": "business-cmn",
   "languageCode": "cmn",
   "domainId": "business",
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "chineseCharacter": "合作",
@@ -20,7 +20,19 @@
       "audioFileName": null,
       "exampleSentence": "We look forward to cooperating with your company.",
       "exampleSentenceChinese": "我们期待与贵公司合作。",
-      "exampleSentenceDevanagari": "वो मेन चि दाइ यु गुइ गोङ सि हे जुओ"
+      "exampleSentenceDevanagari": "वो मेन चि दाइ यु गुइ गोङ सि हे जुओ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        3,
+        4,
+        1,
+        1,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "伙伴",
@@ -37,7 +49,21 @@
       "audioFileName": null,
       "exampleSentence": "They are our important strategic partner.",
       "exampleSentenceChinese": "他们是我们重要的战略伙伴。",
-      "exampleSentenceDevanagari": "था मेन शि वो मेन झोङ याओ दे झान लुए हुओ बान"
+      "exampleSentenceDevanagari": "था मेन शि वो मेन झोङ याओ दे झान लुए हुओ बान",
+      "exampleSentenceTones": [
+        1,
+        5,
+        4,
+        3,
+        5,
+        4,
+        4,
+        5,
+        4,
+        4,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "业务",
@@ -54,7 +80,22 @@
       "audioFileName": null,
       "exampleSentence": "Our company's business is expanding rapidly.",
       "exampleSentenceChinese": "我们公司的业务正在快速扩展。",
-      "exampleSentenceDevanagari": "वो मेन गोङ सि दे ये वु झेङ जाइ खुआइ सु खुओ झान"
+      "exampleSentenceDevanagari": "वो मेन गोङ सि दे ये वु झेङ जाइ खुआइ सु खुओ झान",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        1,
+        5,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "项目",
@@ -71,7 +112,19 @@
       "audioFileName": null,
       "exampleSentence": "This project must be delivered by the end of the month.",
       "exampleSentenceChinese": "这个项目月底必须交付。",
-      "exampleSentenceDevanagari": "झे गे शिआङ मु युए दि बि शु जिआओ फु"
+      "exampleSentenceDevanagari": "झे गे शिआङ मु युए दि बि शु जिआओ फु",
+      "exampleSentenceTones": [
+        4,
+        5,
+        4,
+        4,
+        4,
+        3,
+        4,
+        1,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "客户",
@@ -88,7 +141,21 @@
       "audioFileName": null,
       "exampleSentence": "Customer satisfaction is our highest priority.",
       "exampleSentenceChinese": "客户满意是我们的第一目标。",
-      "exampleSentenceDevanagari": "खे हु मान यि शि वो मेन दे दि यि मु बिआओ"
+      "exampleSentenceDevanagari": "खे हु मान यि शि वो मेन दे दि यि मु बिआओ",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        4,
+        4,
+        3,
+        5,
+        5,
+        4,
+        1,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "市场",
@@ -105,7 +172,18 @@
       "audioFileName": null,
       "exampleSentence": "We are actively exploring the Asian market.",
       "exampleSentenceChinese": "我们在开拓亚洲市场。",
-      "exampleSentenceDevanagari": "वो मेन जाइ खाइ थुओ या झोउ शि छाङ"
+      "exampleSentenceDevanagari": "वो मेन जाइ खाइ थुओ या झोउ शि छाङ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        1,
+        4,
+        4,
+        1,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "战略",
@@ -122,7 +200,19 @@
       "audioFileName": null,
       "exampleSentence": "The board approved the new three-year strategy.",
       "exampleSentenceChinese": "董事会通过了新的战略。",
-      "exampleSentenceDevanagari": "दोङ शि हुइ थोङ गुओ ले शिन दे झान लुए"
+      "exampleSentenceDevanagari": "दोङ शि हुइ थोङ गुओ ले शिन दे झान लुए",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        1,
+        4,
+        5,
+        1,
+        5,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "目标",
@@ -139,7 +229,22 @@
       "audioFileName": null,
       "exampleSentence": "We achieved this quarter's sales target.",
       "exampleSentenceChinese": "我们完成了本季度的销售目标。",
-      "exampleSentenceDevanagari": "वो मेन वान छेङ ले बेन जि दु दे शिआओ शोउ मु बिआओ"
+      "exampleSentenceDevanagari": "वो मेन वान छेङ ले बेन जि दु दे शिआओ शोउ मु बिआओ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        2,
+        2,
+        5,
+        3,
+        4,
+        4,
+        5,
+        1,
+        4,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "商业计划",
@@ -158,7 +263,19 @@
       "audioFileName": null,
       "exampleSentence": "The investors reviewed our business plan.",
       "exampleSentenceChinese": "投资人看过了商业计划。",
-      "exampleSentenceDevanagari": "थोउ जि रेन खान गुओ ले शाङ ये जि हुआ"
+      "exampleSentenceDevanagari": "थोउ जि रेन खान गुओ ले शाङ ये जि हुआ",
+      "exampleSentenceTones": [
+        2,
+        1,
+        2,
+        4,
+        4,
+        5,
+        1,
+        4,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "优势",
@@ -175,7 +292,20 @@
       "audioFileName": null,
       "exampleSentence": "Our competitive edge lies in technology innovation.",
       "exampleSentenceChinese": "我们的核心优势在于技术。",
-      "exampleSentenceDevanagari": "वो मेन दे हे शिन योउ शि जाइ यु जि शु"
+      "exampleSentenceDevanagari": "वो मेन दे हे शिन योउ शि जाइ यु जि शु",
+      "exampleSentenceTones": [
+        3,
+        5,
+        5,
+        2,
+        1,
+        1,
+        4,
+        4,
+        2,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "劣势",
@@ -192,7 +322,19 @@
       "audioFileName": null,
       "exampleSentence": "We must recognize our own disadvantages.",
       "exampleSentenceChinese": "我们要认清自身的劣势。",
-      "exampleSentenceDevanagari": "वो मेन याओ रेन चिङ जि शेन दे लिए शि"
+      "exampleSentenceDevanagari": "वो मेन याओ रेन चिङ जि शेन दे लिए शि",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        4,
+        1,
+        4,
+        1,
+        5,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "竞争",
@@ -209,7 +351,18 @@
       "audioFileName": null,
       "exampleSentence": "Market competition is becoming more intense.",
       "exampleSentenceChinese": "市场竞争越来越激烈。",
-      "exampleSentenceDevanagari": "शि छाङ जिङ झेङ युए लाइ युए जि लिए"
+      "exampleSentenceDevanagari": "शि छाङ जिङ झेङ युए लाइ युए जि लिए",
+      "exampleSentenceTones": [
+        4,
+        3,
+        4,
+        1,
+        4,
+        2,
+        4,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "对手",
@@ -226,7 +379,19 @@
       "audioFileName": null,
       "exampleSentence": "Our main competitor just launched a new product.",
       "exampleSentenceChinese": "竞争对手推出了新产品。",
-      "exampleSentenceDevanagari": "जिङ झेङ दुइ शोउ थुइ छु ले शिन छान पिन"
+      "exampleSentenceDevanagari": "जिङ झेङ दुइ शोउ थुइ छु ले शिन छान पिन",
+      "exampleSentenceTones": [
+        4,
+        1,
+        4,
+        3,
+        1,
+        1,
+        5,
+        1,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "资源",
@@ -243,7 +408,19 @@
       "audioFileName": null,
       "exampleSentence": "We need to allocate more project resources.",
       "exampleSentenceChinese": "我们需要投入更多资源。",
-      "exampleSentenceDevanagari": "वो मेन शु याओ थोउ रु गेङ दुओ जि युआन"
+      "exampleSentenceDevanagari": "वो मेन शु याओ थोउ रु गेङ दुओ जि युआन",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        2,
+        4,
+        4,
+        1,
+        1,
+        2
+      ]
     },
     {
       "chineseCharacter": "整合",
@@ -260,7 +437,22 @@
       "audioFileName": null,
       "exampleSentence": "We are integrating resources across both departments.",
       "exampleSentenceChinese": "我们正在整合两边部门的资源。",
-      "exampleSentenceDevanagari": "वो मेन झेङ जाइ झेङ हे लिआङ बिआन बु मेन दे जि युआन"
+      "exampleSentenceDevanagari": "वो मेन झेङ जाइ झेङ हे लिआङ बिआन बु मेन दे जि युआन",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        4,
+        3,
+        2,
+        3,
+        1,
+        4,
+        2,
+        5,
+        1,
+        2
+      ]
     },
     {
       "chineseCharacter": "合同",
@@ -277,7 +469,20 @@
       "audioFileName": null,
       "exampleSentence": "Both parties have officially signed the contract.",
       "exampleSentenceChinese": "双方已经正式签署了合同。",
-      "exampleSentenceDevanagari": "शुआङ फाङ यि जिङ झेङ शि चिआन शु ले हे थोङ"
+      "exampleSentenceDevanagari": "शुआङ फाङ यि जिङ झेङ शि चिआन शु ले हे थोङ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        3,
+        1,
+        4,
+        4,
+        1,
+        3,
+        5,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "协议",
@@ -294,7 +499,18 @@
       "audioFileName": null,
       "exampleSentence": "We reached a cooperation agreement.",
       "exampleSentenceChinese": "我们达成了合作协议。",
-      "exampleSentenceDevanagari": "वो मेन दा छेङ ले हे जुओ शिए यि"
+      "exampleSentenceDevanagari": "वो मेन दा छेङ ले हे जुओ शिए यि",
+      "exampleSentenceTones": [
+        3,
+        5,
+        2,
+        2,
+        5,
+        2,
+        4,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "签署",
@@ -311,7 +527,19 @@
       "audioFileName": null,
       "exampleSentence": "The signing ceremony will be held tomorrow.",
       "exampleSentenceChinese": "签署仪式将在明天举行。",
-      "exampleSentenceDevanagari": "चिआन शु यि शि जिआङ जाइ मिङ थिआन जु शिङ"
+      "exampleSentenceDevanagari": "चिआन शु यि शि जिआङ जाइ मिङ थिआन जु शिङ",
+      "exampleSentenceTones": [
+        1,
+        3,
+        2,
+        4,
+        1,
+        4,
+        2,
+        1,
+        3,
+        2
+      ]
     },
     {
       "chineseCharacter": "谈判",
@@ -328,7 +556,19 @@
       "audioFileName": null,
       "exampleSentence": "The business negotiations went very smoothly.",
       "exampleSentenceChinese": "商务谈判进行得很顺利。",
-      "exampleSentenceDevanagari": "शाङ वु थान फान जिन शिङ दे हेन शुन लि"
+      "exampleSentenceDevanagari": "शाङ वु थान फान जिन शिङ दे हेन शुन लि",
+      "exampleSentenceTones": [
+        1,
+        4,
+        2,
+        4,
+        4,
+        2,
+        5,
+        3,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "条款",
@@ -345,7 +585,21 @@
       "audioFileName": null,
       "exampleSentence": "Please read each clause of the contract carefully.",
       "exampleSentenceChinese": "请仔细阅读合同的每个条款。",
-      "exampleSentenceDevanagari": "चिङ जि शि युए दु हे थोङ दे मेइ गे थिआओ खुआन"
+      "exampleSentenceDevanagari": "चिङ जि शि युए दु हे थोङ दे मेइ गे थिआओ खुआन",
+      "exampleSentenceTones": [
+        3,
+        3,
+        4,
+        4,
+        2,
+        2,
+        5,
+        5,
+        3,
+        5,
+        2,
+        3
+      ]
     },
     {
       "chineseCharacter": "达成",
@@ -362,7 +616,18 @@
       "audioFileName": null,
       "exampleSentence": "Both parties reached a final consensus.",
       "exampleSentenceChinese": "双方达成了最终一致。",
-      "exampleSentenceDevanagari": "शुआङ फाङ दा छेङ ले जुइ झोङ यि झि"
+      "exampleSentenceDevanagari": "शुआङ फाङ दा छेङ ले जुइ झोङ यि झि",
+      "exampleSentenceTones": [
+        1,
+        1,
+        2,
+        2,
+        5,
+        4,
+        1,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "提案",
@@ -379,7 +644,20 @@
       "audioFileName": null,
       "exampleSentence": "The client accepted our new proposal.",
       "exampleSentenceChinese": "客户接受了我们的新提案。",
-      "exampleSentenceDevanagari": "खे हु जिए शोउ ले वो मेन दे शिन थि आन"
+      "exampleSentenceDevanagari": "खे हु जिए शोउ ले वो मेन दे शिन थि आन",
+      "exampleSentenceTones": [
+        4,
+        4,
+        1,
+        4,
+        5,
+        3,
+        5,
+        5,
+        1,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "方案",
@@ -396,7 +674,18 @@
       "audioFileName": null,
       "exampleSentence": "This is our technical solution.",
       "exampleSentenceChinese": "这是我们的技术方案。",
-      "exampleSentenceDevanagari": "झे शि वो मेन दे जि शु फाङ आन"
+      "exampleSentenceDevanagari": "झे शि वो मेन दे जि शु फाङ आन",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        5,
+        5,
+        4,
+        4,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "确认",
@@ -413,7 +702,19 @@
       "audioFileName": null,
       "exampleSentence": "Please confirm the meeting time by email.",
       "exampleSentenceChinese": "请发邮件确认会议时间。",
-      "exampleSentenceDevanagari": "चिङ फा योउ जिआन चुए रेन हुइ यि शि जिआन"
+      "exampleSentenceDevanagari": "चिङ फा योउ जिआन चुए रेन हुइ यि शि जिआन",
+      "exampleSentenceTones": [
+        3,
+        1,
+        2,
+        4,
+        4,
+        4,
+        4,
+        4,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "修改",
@@ -430,7 +731,19 @@
       "audioFileName": null,
       "exampleSentence": "We need to modify the draft agreement.",
       "exampleSentenceChinese": "我们需要修改这份草案。",
-      "exampleSentenceDevanagari": "वो मेन शु याओ शिउ गाइ झे फेन छाओ आन"
+      "exampleSentenceDevanagari": "वो मेन शु याओ शिउ गाइ झे फेन छाओ आन",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        1,
+        3,
+        4,
+        4,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "报价",
@@ -447,7 +760,19 @@
       "audioFileName": null,
       "exampleSentence": "Please send us your official quotation.",
       "exampleSentenceChinese": "请把正式报价发给我们。",
-      "exampleSentenceDevanagari": "चिङ बा झेङ शि बाओ जिआ फा गेइ वो मेन"
+      "exampleSentenceDevanagari": "चिङ बा झेङ शि बाओ जिआ फा गेइ वो मेन",
+      "exampleSentenceTones": [
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        1,
+        3,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "折扣",
@@ -464,7 +789,18 @@
       "audioFileName": null,
       "exampleSentence": "Can you offer a ten percent discount?",
       "exampleSentenceChinese": "可以给我们打九折吗？",
-      "exampleSentenceDevanagari": "खे यि गेइ वो मेन दा जिउ झे मा"
+      "exampleSentenceDevanagari": "खे यि गेइ वो मेन दा जिउ झे मा",
+      "exampleSentenceTones": [
+        3,
+        3,
+        3,
+        3,
+        5,
+        3,
+        3,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "付款",
@@ -481,7 +817,17 @@
       "audioFileName": null,
       "exampleSentence": "The payment has already been remitted.",
       "exampleSentenceChinese": "付款已经汇出去了。",
-      "exampleSentenceDevanagari": "फु खुआन यि जिङ हुइ छु चु ले"
+      "exampleSentenceDevanagari": "फु खुआन यि जिङ हुइ छु चु ले",
+      "exampleSentenceTones": [
+        4,
+        3,
+        3,
+        1,
+        4,
+        1,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "账期",
@@ -498,7 +844,20 @@
       "audioFileName": null,
       "exampleSentence": "Our standard payment term is thirty days.",
       "exampleSentenceChinese": "我们的标准账期是三十天。",
-      "exampleSentenceDevanagari": "वो मेन दे बिआओ झुन झाङ चि शि सान शि थिआन"
+      "exampleSentenceDevanagari": "वो मेन दे बिआओ झुन झाङ चि शि सान शि थिआन",
+      "exampleSentenceTones": [
+        3,
+        5,
+        5,
+        1,
+        3,
+        4,
+        1,
+        4,
+        1,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "交付",
@@ -515,7 +874,20 @@
       "audioFileName": null,
       "exampleSentence": "The team delivered the software on schedule.",
       "exampleSentenceChinese": "团队按时完成了产品交付。",
-      "exampleSentenceDevanagari": "थुआन दुइ आन शि वान छेङ ले छान पिन जिआओ फु"
+      "exampleSentenceDevanagari": "थुआन दुइ आन शि वान छेङ ले छान पिन जिआओ फु",
+      "exampleSentenceTones": [
+        2,
+        4,
+        4,
+        2,
+        2,
+        2,
+        5,
+        3,
+        3,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "预算",
@@ -532,7 +904,21 @@
       "audioFileName": null,
       "exampleSentence": "Next year's department budget has been approved.",
       "exampleSentenceChinese": "明年的部门预算已经批准了。",
-      "exampleSentenceDevanagari": "मिङ थिआन दे बु मेन यु सुआन यि जिङ पि झुन ले"
+      "exampleSentenceDevanagari": "मिङ थिआन दे बु मेन यु सुआन यि जिङ पि झुन ले",
+      "exampleSentenceTones": [
+        2,
+        1,
+        5,
+        4,
+        2,
+        4,
+        4,
+        3,
+        1,
+        1,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "成本",
@@ -549,7 +935,20 @@
       "audioFileName": null,
       "exampleSentence": "We need to control operational costs strictly.",
       "exampleSentenceChinese": "我们要严格控制运营成本。",
-      "exampleSentenceDevanagari": "वो मेन याओ यान गे खोङ झि युन यिङ छेङ बेन"
+      "exampleSentenceDevanagari": "वो मेन याओ यान गे खोङ झि युन यिङ छेङ बेन",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        2,
+        2,
+        4,
+        4,
+        4,
+        2,
+        2,
+        3
+      ]
     },
     {
       "chineseCharacter": "利润",
@@ -566,7 +965,22 @@
       "audioFileName": null,
       "exampleSentence": "Net profit increased by twenty percent this year.",
       "exampleSentenceChinese": "今年净利润增长了百分之二十。",
-      "exampleSentenceDevanagari": "जिन निआन जिङ लि रुन जेङ झाङ ले बाइ फेन झि अर शि"
+      "exampleSentenceDevanagari": "जिन निआन जिङ लि रुन जेङ झाङ ले बाइ फेन झि अर शि",
+      "exampleSentenceTones": [
+        1,
+        2,
+        4,
+        4,
+        4,
+        1,
+        3,
+        5,
+        3,
+        1,
+        1,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "收入",
@@ -583,7 +997,20 @@
       "audioFileName": null,
       "exampleSentence": "Corporate quarterly revenue reached new records.",
       "exampleSentenceChinese": "公司季度收入创下新纪录。",
-      "exampleSentenceDevanagari": "गोङ सि जि दु शोउ रु छुआङ शिआ शिन जि लु"
+      "exampleSentenceDevanagari": "गोङ सि जि दु शोउ रु छुआङ शिआ शिन जि लु",
+      "exampleSentenceTones": [
+        1,
+        1,
+        4,
+        4,
+        1,
+        4,
+        4,
+        4,
+        1,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "投资",
@@ -600,7 +1027,22 @@
       "audioFileName": null,
       "exampleSentence": "They decided to invest in our startup.",
       "exampleSentenceChinese": "他们决定投资我们的初创企业。",
-      "exampleSentenceDevanagari": "था मेन जुए दिङ थोउ जि वो मेन दे छु छुआङ चि ये"
+      "exampleSentenceDevanagari": "था मेन जुए दिङ थोउ जि वो मेन दे छु छुआङ चि ये",
+      "exampleSentenceTones": [
+        1,
+        5,
+        2,
+        4,
+        2,
+        1,
+        3,
+        5,
+        5,
+        1,
+        4,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "融资",
@@ -617,7 +1059,20 @@
       "audioFileName": null,
       "exampleSentence": "The company successfully completed Series A financing.",
       "exampleSentenceChinese": "公司成功完成了甲轮融资。",
-      "exampleSentenceDevanagari": "गोङ सि छेङ गोङ वान छेङ ले जिआ लुन रोङ जि"
+      "exampleSentenceDevanagari": "गोङ सि छेङ गोङ वान छेङ ले जिआ लुन रोङ जि",
+      "exampleSentenceTones": [
+        1,
+        1,
+        2,
+        1,
+        2,
+        2,
+        5,
+        3,
+        2,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "现金流",
@@ -635,7 +1090,21 @@
       "audioFileName": null,
       "exampleSentence": "Maintaining healthy cash flow is essential.",
       "exampleSentenceChinese": "保持健康的现金流非常重要。",
-      "exampleSentenceDevanagari": "बाओ छि जिआन खाङ दे शिआन जिन लिउ फेइ छाङ झोङ याओ"
+      "exampleSentenceDevanagari": "बाओ छि जिआन खाङ दे शिआन जिन लिउ फेइ छाङ झोङ याओ",
+      "exampleSentenceTones": [
+        3,
+        2,
+        4,
+        1,
+        5,
+        4,
+        1,
+        2,
+        1,
+        2,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "财报",
@@ -652,7 +1121,19 @@
       "audioFileName": null,
       "exampleSentence": "The annual financial report will be published tomorrow.",
       "exampleSentenceChinese": "年度财报将在明天公布。",
-      "exampleSentenceDevanagari": "निआन दु छाइ बाओ जिआङ जाइ मिङ थिआन गोङ बु"
+      "exampleSentenceDevanagari": "निआन दु छाइ बाओ जिआङ जाइ मिङ थिआन गोङ बु",
+      "exampleSentenceTones": [
+        2,
+        4,
+        2,
+        4,
+        1,
+        4,
+        2,
+        1,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "税率",
@@ -669,7 +1150,21 @@
       "audioFileName": null,
       "exampleSentence": "Corporate tax rates vary across jurisdictions.",
       "exampleSentenceChinese": "不同地区的所得税税率不同。",
-      "exampleSentenceDevanagari": "बु थोङ दि चु दे सुओ दे शुइ शुइ ल्यु बु थोङ"
+      "exampleSentenceDevanagari": "बु थोङ दि चु दे सुओ दे शुइ शुइ ल्यु बु थोङ",
+      "exampleSentenceTones": [
+        4,
+        2,
+        4,
+        1,
+        5,
+        3,
+        2,
+        4,
+        4,
+        4,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "审计",
@@ -686,7 +1181,20 @@
       "audioFileName": null,
       "exampleSentence": "The annual independent audit is in progress.",
       "exampleSentenceChinese": "年度独立审计正在进行中。",
-      "exampleSentenceDevanagari": "निआन दु दु लि शेन जि झेङ जाइ जिन शिङ झोङ"
+      "exampleSentenceDevanagari": "निआन दु दु लि शेन जि झेङ जाइ जिन शिङ झोङ",
+      "exampleSentenceTones": [
+        2,
+        4,
+        2,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "合规",
@@ -703,7 +1211,23 @@
       "audioFileName": null,
       "exampleSentence": "All operations must meet regulatory compliance standards.",
       "exampleSentenceChinese": "所有业务必须符合监管合规要求。",
-      "exampleSentenceDevanagari": "सुओ योउ ये वु बि शु फु हे जिआन गुआन हे गुइ याओ चिउ"
+      "exampleSentenceDevanagari": "सुओ योउ ये वु बि शु फु हे जिआन गुआन हे गुइ याओ चिउ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        4,
+        4,
+        4,
+        1,
+        2,
+        2,
+        1,
+        3,
+        2,
+        1,
+        1,
+        2
+      ]
     },
     {
       "chineseCharacter": "风险",
@@ -720,7 +1244,21 @@
       "audioFileName": null,
       "exampleSentence": "We must evaluate project investment risks.",
       "exampleSentenceChinese": "我们需要评估项目投资风险。",
-      "exampleSentenceDevanagari": "वो मेन शु याओ पिङ गु शिआङ मु थोउ जि फेङ शिआन"
+      "exampleSentenceDevanagari": "वो मेन शु याओ पिङ गु शिआङ मु थोउ जि फेङ शिआन",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        2,
+        1,
+        4,
+        4,
+        2,
+        1,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "评估",
@@ -737,7 +1275,21 @@
       "audioFileName": null,
       "exampleSentence": "The team conducted a comprehensive market evaluation.",
       "exampleSentenceChinese": "团队对市场进行了全面评估。",
-      "exampleSentenceDevanagari": "थुआन दुइ दुइ शि छाङ जिन शिङ ले चुआन मिआन पिङ गु"
+      "exampleSentenceDevanagari": "थुआन दुइ दुइ शि छाङ जिन शिङ ले चुआन मिआन पिङ गु",
+      "exampleSentenceTones": [
+        2,
+        4,
+        4,
+        4,
+        3,
+        4,
+        2,
+        5,
+        2,
+        4,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "流程",
@@ -754,7 +1306,19 @@
       "audioFileName": null,
       "exampleSentence": "We need to optimize the approval workflow.",
       "exampleSentenceChinese": "我们需要优化审批流程。",
-      "exampleSentenceDevanagari": "वो मेन शु याओ योउ हुआ शेन पि लिउ छेङ"
+      "exampleSentenceDevanagari": "वो मेन शु याओ योउ हुआ शेन पि लिउ छेङ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        1,
+        4,
+        3,
+        1,
+        2,
+        2
+      ]
     },
     {
       "chineseCharacter": "效率",
@@ -771,7 +1335,22 @@
       "audioFileName": null,
       "exampleSentence": "New tools improved our team's work efficiency.",
       "exampleSentenceChinese": "新工具提高了团队的工作效率。",
-      "exampleSentenceDevanagari": "शिन गोङ जु थि गाओ ले थुआन दुइ दे गोङ जुओ शिआओ ल्यु"
+      "exampleSentenceDevanagari": "शिन गोङ जु थि गाओ ले थुआन दुइ दे गोङ जुओ शिआओ ल्यु",
+      "exampleSentenceTones": [
+        1,
+        1,
+        4,
+        2,
+        1,
+        5,
+        2,
+        4,
+        5,
+        1,
+        4,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "推进",
@@ -788,7 +1367,20 @@
       "audioFileName": null,
       "exampleSentence": "Let's push this project forward together.",
       "exampleSentenceChinese": "让我们共同推进这个项目。",
-      "exampleSentenceDevanagari": "राङ वो मेन गोङ थोङ थुइ जिन झे गे शिआङ मु"
+      "exampleSentenceDevanagari": "राङ वो मेन गोङ थोङ थुइ जिन झे गे शिआङ मु",
+      "exampleSentenceTones": [
+        4,
+        3,
+        5,
+        4,
+        2,
+        1,
+        4,
+        4,
+        5,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "落实",
@@ -805,7 +1397,19 @@
       "audioFileName": null,
       "exampleSentence": "Ensure all action items are implemented.",
       "exampleSentenceChinese": "要把各项工作落实到位。",
-      "exampleSentenceDevanagari": "याओ बा गे शिआङ गोङ जुओ लुओ शि दाओ वेइ"
+      "exampleSentenceDevanagari": "याओ बा गे शिआङ गोङ जुओ लुओ शि दाओ वेइ",
+      "exampleSentenceTones": [
+        4,
+        3,
+        4,
+        4,
+        1,
+        4,
+        4,
+        2,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "里程碑",
@@ -823,7 +1427,20 @@
       "audioFileName": null,
       "exampleSentence": "Reaching this milestone took six months of effort.",
       "exampleSentenceChinese": "完成这个里程碑很不容易。",
-      "exampleSentenceDevanagari": "वान छेङ झे गे लि छेङ बेइ हेन बु रोङ यि"
+      "exampleSentenceDevanagari": "वान छेङ झे गे लि छेङ बेइ हेन बु रोङ यि",
+      "exampleSentenceTones": [
+        2,
+        2,
+        4,
+        5,
+        3,
+        2,
+        1,
+        3,
+        4,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "汇报",
@@ -840,7 +1457,19 @@
       "audioFileName": null,
       "exampleSentence": "I will report the project progress to the manager.",
       "exampleSentenceChinese": "我向下级经理汇报项目进展。",
-      "exampleSentenceDevanagari": "वो शिआङ जिङ लि हुइ बाओ शिआङ मु जिन झान"
+      "exampleSentenceDevanagari": "वो शिआङ जिङ लि हुइ बाओ शिआङ मु जिन झान",
+      "exampleSentenceTones": [
+        3,
+        4,
+        1,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "审批",
@@ -857,7 +1486,19 @@
       "audioFileName": null,
       "exampleSentence": "This expenditure requires executive approval.",
       "exampleSentenceChinese": "这笔费用需要领导审批。",
-      "exampleSentenceDevanagari": "झे बि फेइ योङ शु याओ लिङ दाओ शेन पि"
+      "exampleSentenceDevanagari": "झे बि फेइ योङ शु याओ लिङ दाओ शेन पि",
+      "exampleSentenceTones": [
+        4,
+        3,
+        4,
+        5,
+        1,
+        4,
+        3,
+        3,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "沟通",
@@ -874,7 +1515,22 @@
       "audioFileName": null,
       "exampleSentence": "Good communication is key to team success.",
       "exampleSentenceChinese": "良好的沟通是团队成功的关键。",
-      "exampleSentenceDevanagari": "लिआङ हाओ दे गोउ थोङ शि थुआन दुइ छेङ गोङ दे गुआन जिआन"
+      "exampleSentenceDevanagari": "लिआङ हाओ दे गोउ थोङ शि थुआन दुइ छेङ गोङ दे गुआन जिआन",
+      "exampleSentenceTones": [
+        2,
+        3,
+        5,
+        1,
+        1,
+        4,
+        2,
+        4,
+        2,
+        1,
+        5,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "反馈",
@@ -891,7 +1547,21 @@
       "audioFileName": null,
       "exampleSentence": "We received positive feedback from our client.",
       "exampleSentenceChinese": "我们收到了客户的积极反馈。",
-      "exampleSentenceDevanagari": "वो मेन शोउ दाओ ले खे हु दे जि जि फान खुइ"
+      "exampleSentenceDevanagari": "वो मेन शोउ दाओ ले खे हु दे जि जि फान खुइ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        5,
+        4,
+        4,
+        5,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "协调",
@@ -908,7 +1578,22 @@
       "audioFileName": null,
       "exampleSentence": "We need to coordinate with the engineering department.",
       "exampleSentenceChinese": "我们需要与工程部门进行协调。",
-      "exampleSentenceDevanagari": "वो मेन शु याओ यु गोङ छेङ बु मेन जिन शिङ शिए थिआओ"
+      "exampleSentenceDevanagari": "वो मेन शु याओ यु गोङ छेङ बु मेन जिन शिङ शिए थिआओ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        3,
+        1,
+        2,
+        4,
+        2,
+        4,
+        2,
+        2,
+        2
+      ]
     },
     {
       "chineseCharacter": "进度",
@@ -925,7 +1610,19 @@
       "audioFileName": null,
       "exampleSentence": "Project progress is completely normal.",
       "exampleSentenceChinese": "目前项目进度一切正常。",
-      "exampleSentenceDevanagari": "मु चिआन शिआङ मु जिन दु यि चिए झेङ छाङ"
+      "exampleSentenceDevanagari": "मु चिआन शिआङ मु जिन दु यि चिए झेङ छाङ",
+      "exampleSentenceTones": [
+        4,
+        2,
+        4,
+        4,
+        4,
+        4,
+        2,
+        4,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "解决",
@@ -942,7 +1639,20 @@
       "audioFileName": null,
       "exampleSentence": "We must resolve this customer issue immediately.",
       "exampleSentenceChinese": "我们要尽快解决这个问题。",
-      "exampleSentenceDevanagari": "वो मेन याओ जिन खुआइ जिए जुए झे गे वेन थि"
+      "exampleSentenceDevanagari": "वो मेन याओ जिन खुआइ जिए जुए झे गे वेन थि",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        4,
+        4,
+        3,
+        2,
+        4,
+        5,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "团队",
@@ -959,7 +1669,18 @@
       "audioFileName": null,
       "exampleSentence": "Our team members collaborate very well.",
       "exampleSentenceChinese": "我们的团队非常团结。",
-      "exampleSentenceDevanagari": "वो मेन दे थुआन दुइ फेइ छाङ थुआन जिए"
+      "exampleSentenceDevanagari": "वो मेन दे थुआन दुइ फेइ छाङ थुआन जिए",
+      "exampleSentenceTones": [
+        3,
+        5,
+        5,
+        2,
+        4,
+        1,
+        2,
+        2,
+        2
+      ]
     },
     {
       "chineseCharacter": "部门",
@@ -976,7 +1697,17 @@
       "audioFileName": null,
       "exampleSentence": "The marketing department is holding an all-hands meeting.",
       "exampleSentenceChinese": "市场部门正在开会。",
-      "exampleSentenceDevanagari": "शि छाङ बु मेन झेङ जाइ खाइ हुइ"
+      "exampleSentenceDevanagari": "शि छाङ बु मेन झेङ जाइ खाइ हुइ",
+      "exampleSentenceTones": [
+        4,
+        3,
+        4,
+        2,
+        4,
+        4,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "负责人",
@@ -994,7 +1725,19 @@
       "audioFileName": null,
       "exampleSentence": "Who is the lead for this project?",
       "exampleSentenceChinese": "这个项目的负责人是谁？",
-      "exampleSentenceDevanagari": "झे गे शिआङ मु दे फु जे रेन शि शेइ"
+      "exampleSentenceDevanagari": "झे गे शिआङ मु दे फु जे रेन शि शेइ",
+      "exampleSentenceTones": [
+        4,
+        5,
+        4,
+        4,
+        5,
+        4,
+        2,
+        2,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "管理",
@@ -1011,7 +1754,18 @@
       "audioFileName": null,
       "exampleSentence": "Modern enterprise management emphasizes efficiency.",
       "exampleSentenceChinese": "企业管理要讲究效率。",
-      "exampleSentenceDevanagari": "चि ये गुआन लि याओ जिआङ जिउ शिआओ ल्यु"
+      "exampleSentenceDevanagari": "चि ये गुआन लि याओ जिआङ जिउ शिआओ ल्यु",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        3,
+        4,
+        3,
+        5,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "人才",
@@ -1028,7 +1782,20 @@
       "audioFileName": null,
       "exampleSentence": "Talent recruitment is our strategic priority.",
       "exampleSentenceChinese": "公司重视优秀人才的培养。",
-      "exampleSentenceDevanagari": "गोङ सि झोङ शि योउ शिउ रेन छाइ दे फेइ याङ"
+      "exampleSentenceDevanagari": "गोङ सि झोङ शि योउ शिउ रेन छाइ दे फेइ याङ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        4,
+        4,
+        1,
+        4,
+        2,
+        2,
+        5,
+        2,
+        3
+      ]
     },
     {
       "chineseCharacter": "招聘",
@@ -1045,7 +1812,19 @@
       "audioFileName": null,
       "exampleSentence": "Our department is recruiting three software engineers.",
       "exampleSentenceChinese": "我们部门在招聘工程师。",
-      "exampleSentenceDevanagari": "वो मेन बु मेन जाइ झाओ पिन गोङ छेङ शि"
+      "exampleSentenceDevanagari": "वो मेन बु मेन जाइ झाओ पिन गोङ छेङ शि",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        2,
+        4,
+        1,
+        4,
+        1,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "绩效",
@@ -1062,7 +1841,19 @@
       "audioFileName": null,
       "exampleSentence": "Year-end performance reviews are starting.",
       "exampleSentenceChinese": "年终绩效考核要开始了。",
-      "exampleSentenceDevanagari": "निआन झोङ जि शिआओ खाओ हे याओ खाइ शि ले"
+      "exampleSentenceDevanagari": "निआन झोङ जि शिआओ खाओ हे याओ खाइ शि ले",
+      "exampleSentenceTones": [
+        2,
+        1,
+        4,
+        4,
+        3,
+        2,
+        4,
+        1,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "考核",
@@ -1079,7 +1870,19 @@
       "audioFileName": null,
       "exampleSentence": "Quarterly assessments evaluate key achievements.",
       "exampleSentenceChinese": "季度考核关注关键产出。",
-      "exampleSentenceDevanagari": "जि दु खाओ हे गुआन झु गुआन जिआन छान छु"
+      "exampleSentenceDevanagari": "जि दु खाओ हे गुआन झु गुआन जिआन छान छु",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        2,
+        1,
+        4,
+        1,
+        4,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "培训",
@@ -1096,7 +1899,20 @@
       "audioFileName": null,
       "exampleSentence": "New employees must complete onboarding training.",
       "exampleSentenceChinese": "新员工都要参加入职培训。",
-      "exampleSentenceDevanagari": "शिन युआन गोङ दोउ याओ छान जिआ रु झि फेइ शुन"
+      "exampleSentenceDevanagari": "शिन युआन गोङ दोउ याओ छान जिआ रु झि फेइ शुन",
+      "exampleSentenceTones": [
+        1,
+        2,
+        1,
+        1,
+        4,
+        1,
+        1,
+        4,
+        2,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "股东",
@@ -1113,7 +1929,20 @@
       "audioFileName": null,
       "exampleSentence": "The annual shareholder meeting convenes next month.",
       "exampleSentenceChinese": "公司下个月召开股东大会。",
-      "exampleSentenceDevanagari": "गोङ सि शिआ गे युए झाओ खाइ गु दोङ दा हुइ"
+      "exampleSentenceDevanagari": "गोङ सि शिआ गे युए झाओ खाइ गु दोङ दा हुइ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        4,
+        5,
+        4,
+        4,
+        1,
+        3,
+        1,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "董事会",
@@ -1131,7 +1960,18 @@
       "audioFileName": null,
       "exampleSentence": "The board of directors appointed a new CEO.",
       "exampleSentenceChinese": "董事会任命了新总裁。",
-      "exampleSentenceDevanagari": "दोङ शि हुइ रेन मिङ ले शिन जोङ छाइ"
+      "exampleSentenceDevanagari": "दोङ शि हुइ रेन मिङ ले शिन जोङ छाइ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        4,
+        4,
+        5,
+        1,
+        3,
+        2
+      ]
     },
     {
       "chineseCharacter": "出差",
@@ -1148,7 +1988,18 @@
       "audioFileName": null,
       "exampleSentence": "I am traveling to Shanghai on business next week.",
       "exampleSentenceChinese": "我下周要去上海出差。",
-      "exampleSentenceDevanagari": "वो शिआ झोउ याओ चु शाङ हाइ छु छाइ"
+      "exampleSentenceDevanagari": "वो शिआ झोउ याओ चु शाङ हाइ छु छाइ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        1,
+        4,
+        4,
+        4,
+        3,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "会议纪要",
@@ -1167,7 +2018,19 @@
       "audioFileName": null,
       "exampleSentence": "Please send the meeting minutes to everyone.",
       "exampleSentenceChinese": "请把会议纪要发给大家。",
-      "exampleSentenceDevanagari": "चिङ बा हुइ यि जि याओ फा गेइ दा जिआ"
+      "exampleSentenceDevanagari": "चिङ बा हुइ यि जि याओ फा गेइ दा जिआ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        1,
+        3,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "备忘录",
@@ -1185,7 +2048,19 @@
       "audioFileName": null,
       "exampleSentence": "Both sides signed a memorandum of understanding.",
       "exampleSentenceChinese": "双方签署了合作备忘录。",
-      "exampleSentenceDevanagari": "शुआङ फाङ चिआन शु ले हे जुओ बेइ वाङ लु"
+      "exampleSentenceDevanagari": "शुआङ फाङ चिआन शु ले हे जुओ बेइ वाङ लु",
+      "exampleSentenceTones": [
+        1,
+        1,
+        1,
+        3,
+        5,
+        2,
+        4,
+        4,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "行程",
@@ -1202,7 +2077,20 @@
       "audioFileName": null,
       "exampleSentence": "Here is the CEO's visiting itinerary.",
       "exampleSentenceChinese": "这是领导本次出访的行程。",
-      "exampleSentenceDevanagari": "झे शि लिङ दाओ बेन छि छु फाङ दे शिङ छेङ"
+      "exampleSentenceDevanagari": "झे शि लिङ दाओ बेन छि छु फाङ दे शिङ छेङ",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        3,
+        3,
+        4,
+        1,
+        3,
+        5,
+        2,
+        2
+      ]
     },
     {
       "chineseCharacter": "拜访",
@@ -1219,7 +2107,20 @@
       "audioFileName": null,
       "exampleSentence": "We are visiting our key client this afternoon.",
       "exampleSentenceChinese": "我们下午去拜访重要客户。",
-      "exampleSentenceDevanagari": "वो मेन शिआ वु चु बाइ फाङ झोङ याओ खे हु"
+      "exampleSentenceDevanagari": "वो मेन शिआ वु चु बाइ फाङ झोङ याओ खे हु",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        3,
+        4,
+        4,
+        3,
+        4,
+        4,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "联络",
@@ -1236,7 +2137,19 @@
       "audioFileName": null,
       "exampleSentence": "Let's keep in close contact regarding the project.",
       "exampleSentenceChinese": "我们保持紧密业务联络。",
-      "exampleSentenceDevanagari": "वो मेन बाओ छि जिन मि ये वु लिआन लुओ"
+      "exampleSentenceDevanagari": "वो मेन बाओ छि जिन मि ये वु लिआन लुओ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        3,
+        2,
+        3,
+        4,
+        4,
+        4,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "长期合作",
@@ -1255,7 +2168,20 @@
       "audioFileName": null,
       "exampleSentence": "We look forward to long-term mutual cooperation.",
       "exampleSentenceChinese": "我们希望与贵方长期合作。",
-      "exampleSentenceDevanagari": "वो मेन शि वाङ यु गुइ फाङ छाङ चि हे जुओ"
+      "exampleSentenceDevanagari": "वो मेन शि वाङ यु गुइ फाङ छाङ चि हे जुओ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        4,
+        3,
+        4,
+        1,
+        2,
+        1,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "知识产权",
@@ -1274,7 +2200,19 @@
       "audioFileName": null,
       "exampleSentence": "Our company strictly protects intellectual property.",
       "exampleSentenceChinese": "公司注重保护知识产权。",
-      "exampleSentenceDevanagari": "गोङ सि झु झोङ बाओ हु झि शि छान चुआन"
+      "exampleSentenceDevanagari": "गोङ सि झु झोङ बाओ हु झि शि छान चुआन",
+      "exampleSentenceTones": [
+        1,
+        1,
+        4,
+        4,
+        3,
+        4,
+        1,
+        5,
+        3,
+        2
+      ]
     },
     {
       "chineseCharacter": "核心价值",
@@ -1293,7 +2231,21 @@
       "audioFileName": null,
       "exampleSentence": "Customer trust is our company's core value.",
       "exampleSentenceChinese": "客户信任是企业的核心价值。",
-      "exampleSentenceDevanagari": "खे हु शिन रेन शि चि ये दे हे शिन जिआ झि"
+      "exampleSentenceDevanagari": "खे हु शिन रेन शि चि ये दे हे शिन जिआ झि",
+      "exampleSentenceTones": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        3,
+        4,
+        5,
+        2,
+        1,
+        4,
+        2
+      ]
     }
   ]
 }

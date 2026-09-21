@@ -3,7 +3,7 @@
   "id": "hsk1-cmn",
   "languageCode": "cmn",
   "domainId": "hsk1",
-  "version": 1,
+  "version": 2,
   "entries": [
     {
       "chineseCharacter": "你好",
@@ -20,7 +20,17 @@
       "audioFileName": null,
       "exampleSentence": "Hello! Nice to meet you.",
       "exampleSentenceChinese": "你好！很高兴认识你。",
-      "exampleSentenceDevanagari": "नि हाओ हेन गाओ शिङ रेन शि नि"
+      "exampleSentenceDevanagari": "नि हाओ हेन गाओ शिङ रेन शि नि",
+      "exampleSentenceTones": [
+        3,
+        3,
+        3,
+        1,
+        4,
+        4,
+        5,
+        3
+      ]
     },
     {
       "chineseCharacter": "谢谢",
@@ -37,7 +47,15 @@
       "audioFileName": null,
       "exampleSentence": "Thank you for your help.",
       "exampleSentenceChinese": "谢谢你的帮助。",
-      "exampleSentenceDevanagari": "शिए शिए नि दे बाङ झु"
+      "exampleSentenceDevanagari": "शिए शिए नि दे बाङ झु",
+      "exampleSentenceTones": [
+        4,
+        5,
+        3,
+        5,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "不客气",
@@ -55,7 +73,15 @@
       "audioFileName": null,
       "exampleSentence": "You're welcome, don't mention it.",
       "exampleSentenceChinese": "不客气，不用谢。",
-      "exampleSentenceDevanagari": "बु खे चि बु योङ शिए"
+      "exampleSentenceDevanagari": "बु खे चि बु योङ शिए",
+      "exampleSentenceTones": [
+        2,
+        4,
+        5,
+        2,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "再见",
@@ -72,7 +98,14 @@
       "audioFileName": null,
       "exampleSentence": "Goodbye, see you tomorrow!",
       "exampleSentenceChinese": "再见，明天见！",
-      "exampleSentenceDevanagari": "जाइ जिआन मिङ थिआन जिआन"
+      "exampleSentenceDevanagari": "जाइ जिआन मिङ थिआन जिआन",
+      "exampleSentenceTones": [
+        4,
+        4,
+        2,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "请",
@@ -88,7 +121,14 @@
       "audioFileName": null,
       "exampleSentence": "Please sit down and have a cup of tea.",
       "exampleSentenceChinese": "请坐，请喝茶。",
-      "exampleSentenceDevanagari": "चिङ जुओ चिङ हे छा"
+      "exampleSentenceDevanagari": "चिङ जुओ चिङ हे छा",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        1,
+        2
+      ]
     },
     {
       "chineseCharacter": "对不起",
@@ -106,7 +146,16 @@
       "audioFileName": null,
       "exampleSentence": "I'm sorry, I am late.",
       "exampleSentenceChinese": "对不起，我迟到了。",
-      "exampleSentenceDevanagari": "दुइ बु चि वो छि दाओ ले"
+      "exampleSentenceDevanagari": "दुइ बु चि वो छि दाओ ले",
+      "exampleSentenceTones": [
+        4,
+        5,
+        3,
+        3,
+        2,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "没关系",
@@ -124,7 +173,15 @@
       "audioFileName": null,
       "exampleSentence": "It doesn't matter, don't worry.",
       "exampleSentenceChinese": "没关系，别担心。",
-      "exampleSentenceDevanagari": "मेइ गुआन शि बिए दान शिन"
+      "exampleSentenceDevanagari": "मेइ गुआन शि बिए दान शिन",
+      "exampleSentenceTones": [
+        2,
+        1,
+        5,
+        2,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "我",
@@ -140,7 +197,13 @@
       "audioFileName": null,
       "exampleSentence": "I am a student.",
       "exampleSentenceChinese": "我是学生。",
-      "exampleSentenceDevanagari": "वो शि शुए शेङ"
+      "exampleSentenceDevanagari": "वो शि शुए शेङ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "你",
@@ -156,7 +219,14 @@
       "audioFileName": null,
       "exampleSentence": "Are you busy today?",
       "exampleSentenceChinese": "你今天忙吗？",
-      "exampleSentenceDevanagari": "नि जिन थिआन माङ मा"
+      "exampleSentenceDevanagari": "नि जिन थिआन माङ मा",
+      "exampleSentenceTones": [
+        3,
+        1,
+        1,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "他",
@@ -172,7 +242,17 @@
       "audioFileName": null,
       "exampleSentence": "He is my Chinese teacher.",
       "exampleSentenceChinese": "他是我的中文老师。",
-      "exampleSentenceDevanagari": "था शि वो दे झोङ वेन लाओ शि"
+      "exampleSentenceDevanagari": "था शि वो दे झोङ वेन लाओ शि",
+      "exampleSentenceTones": [
+        1,
+        4,
+        3,
+        5,
+        1,
+        2,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "她",
@@ -188,7 +268,14 @@
       "audioFileName": null,
       "exampleSentence": "She likes reading books.",
       "exampleSentenceChinese": "她喜欢看书。",
-      "exampleSentenceDevanagari": "था शि हुआन खान शु"
+      "exampleSentenceDevanagari": "था शि हुआन खान शु",
+      "exampleSentenceTones": [
+        1,
+        3,
+        1,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "我们",
@@ -205,7 +292,15 @@
       "audioFileName": null,
       "exampleSentence": "We are good friends.",
       "exampleSentenceChinese": "我们是好朋友。",
-      "exampleSentenceDevanagari": "वो मेन शि हाओ फेङ योउ"
+      "exampleSentenceDevanagari": "वो मेन शि हाओ फेङ योउ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        3,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "你们",
@@ -222,7 +317,16 @@
       "audioFileName": null,
       "exampleSentence": "Are you all ready?",
       "exampleSentenceChinese": "你们准备好了吗？",
-      "exampleSentenceDevanagari": "नि मेन झुन बेइ हाओ ले मा"
+      "exampleSentenceDevanagari": "नि मेन झुन बेइ हाओ ले मा",
+      "exampleSentenceTones": [
+        3,
+        5,
+        3,
+        4,
+        3,
+        5,
+        5
+      ]
     },
     {
       "chineseCharacter": "他们",
@@ -239,7 +343,15 @@
       "audioFileName": null,
       "exampleSentence": "They are all doctors.",
       "exampleSentenceChinese": "他们都是医生。",
-      "exampleSentenceDevanagari": "था मेन दोउ शि यि शेङ"
+      "exampleSentenceDevanagari": "था मेन दोउ शि यि शेङ",
+      "exampleSentenceTones": [
+        1,
+        5,
+        1,
+        4,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "这",
@@ -255,7 +367,14 @@
       "audioFileName": null,
       "exampleSentence": "This is my book.",
       "exampleSentenceChinese": "这是我的书。",
-      "exampleSentenceDevanagari": "झे शि वो दे शु"
+      "exampleSentenceDevanagari": "झे शि वो दे शु",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        5,
+        1
+      ]
     },
     {
       "chineseCharacter": "那",
@@ -271,7 +390,16 @@
       "audioFileName": null,
       "exampleSentence": "That is our school.",
       "exampleSentenceChinese": "那是我们的学校。",
-      "exampleSentenceDevanagari": "ना शि वो मेन दे शुए शिआओ"
+      "exampleSentenceDevanagari": "ना शि वो मेन दे शुए शिआओ",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        5,
+        5,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "什么",
@@ -288,7 +416,15 @@
       "audioFileName": null,
       "exampleSentence": "What is your name?",
       "exampleSentenceChinese": "你叫什么名字？",
-      "exampleSentenceDevanagari": "नि जिआओ शेन मे मिङ जि"
+      "exampleSentenceDevanagari": "नि जिआओ शेन मे मिङ जि",
+      "exampleSentenceTones": [
+        3,
+        4,
+        2,
+        5,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "谁",
@@ -304,7 +440,14 @@
       "audioFileName": null,
       "exampleSentence": "Who is that person?",
       "exampleSentenceChinese": "那个人是谁？",
-      "exampleSentenceDevanagari": "ना गे रेन शि शेइ"
+      "exampleSentenceDevanagari": "ना गे रेन शि शेइ",
+      "exampleSentenceTones": [
+        4,
+        5,
+        2,
+        4,
+        2
+      ]
     },
     {
       "chineseCharacter": "哪",
@@ -320,7 +463,14 @@
       "audioFileName": null,
       "exampleSentence": "Which country are you from?",
       "exampleSentenceChinese": "你是哪国人？",
-      "exampleSentenceDevanagari": "नि शि ना गुओ रेन"
+      "exampleSentenceDevanagari": "नि शि ना गुओ रेन",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        2,
+        2
+      ]
     },
     {
       "chineseCharacter": "哪里",
@@ -337,7 +487,15 @@
       "audioFileName": null,
       "exampleSentence": "Where is the washroom?",
       "exampleSentenceChinese": "洗手间在哪里？",
-      "exampleSentenceDevanagari": "शि शोउ जिआन जाइ ना लि"
+      "exampleSentenceDevanagari": "शि शोउ जिआन जाइ ना लि",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "怎么",
@@ -354,7 +512,15 @@
       "audioFileName": null,
       "exampleSentence": "How do you write this character?",
       "exampleSentenceChinese": "这个字怎么写？",
-      "exampleSentenceDevanagari": "झे गे जि जेन मे शिए"
+      "exampleSentenceDevanagari": "झे गे जि जेन मे शिए",
+      "exampleSentenceTones": [
+        4,
+        5,
+        4,
+        3,
+        5,
+        3
+      ]
     },
     {
       "chineseCharacter": "多少",
@@ -371,7 +537,14 @@
       "audioFileName": null,
       "exampleSentence": "How much is this item?",
       "exampleSentenceChinese": "这个多少钱？",
-      "exampleSentenceDevanagari": "झे गे दुओ शाओ चिआन"
+      "exampleSentenceDevanagari": "झे गे दुओ शाओ चिआन",
+      "exampleSentenceTones": [
+        4,
+        5,
+        1,
+        5,
+        2
+      ]
     },
     {
       "chineseCharacter": "几",
@@ -387,7 +560,14 @@
       "audioFileName": null,
       "exampleSentence": "What time is it now?",
       "exampleSentenceChinese": "现在几点了？",
-      "exampleSentenceDevanagari": "शिआन जाइ जि दिआन ले"
+      "exampleSentenceDevanagari": "शिआन जाइ जि दिआन ले",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "好",
@@ -403,7 +583,15 @@
       "audioFileName": null,
       "exampleSentence": "The weather is very good today.",
       "exampleSentenceChinese": "今天天气很好。",
-      "exampleSentenceDevanagari": "जिन थिआन थिआन चि हेन हाओ"
+      "exampleSentenceDevanagari": "जिन थिआन थिआन चि हेन हाओ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        1,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "大",
@@ -419,7 +607,15 @@
       "audioFileName": null,
       "exampleSentence": "This room is very big.",
       "exampleSentenceChinese": "这个房间很大。",
-      "exampleSentenceDevanagari": "झे गे फाङ जिआन हेन दा"
+      "exampleSentenceDevanagari": "झे गे फाङ जिआन हेन दा",
+      "exampleSentenceTones": [
+        4,
+        5,
+        2,
+        1,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "小",
@@ -435,7 +631,16 @@
       "audioFileName": null,
       "exampleSentence": "This cup is too small.",
       "exampleSentenceChinese": "这个杯子太小了。",
-      "exampleSentenceDevanagari": "झे गे बेइ जि थाइ शिआओ ले"
+      "exampleSentenceDevanagari": "झे गे बेइ जि थाइ शिआओ ले",
+      "exampleSentenceTones": [
+        4,
+        5,
+        1,
+        5,
+        4,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "多",
@@ -451,7 +656,14 @@
       "audioFileName": null,
       "exampleSentence": "There are many people here.",
       "exampleSentenceChinese": "这里人很多。",
-      "exampleSentenceDevanagari": "झे लि रेन हेन दुओ"
+      "exampleSentenceDevanagari": "झे लि रेन हेन दुओ",
+      "exampleSentenceTones": [
+        4,
+        3,
+        2,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "少",
@@ -467,7 +679,15 @@
       "audioFileName": null,
       "exampleSentence": "I have very little money today.",
       "exampleSentenceChinese": "我今天钱很少。",
-      "exampleSentenceDevanagari": "वो जिन थिआन चिआन हेन शाओ"
+      "exampleSentenceDevanagari": "वो जिन थिआन चिआन हेन शाओ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        1,
+        2,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "冷",
@@ -483,7 +703,13 @@
       "audioFileName": null,
       "exampleSentence": "It is very cold outside.",
       "exampleSentenceChinese": "外面很冷。",
-      "exampleSentenceDevanagari": "वाइ मिआन हेन लेङ"
+      "exampleSentenceDevanagari": "वाइ मिआन हेन लेङ",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "热",
@@ -499,7 +725,15 @@
       "audioFileName": null,
       "exampleSentence": "The weather is hot in the summer.",
       "exampleSentenceChinese": "夏天天气很热。",
-      "exampleSentenceDevanagari": "शिआ थिआन थिआन चि हेन रे"
+      "exampleSentenceDevanagari": "शिआ थिआन थिआन चि हेन रे",
+      "exampleSentenceTones": [
+        4,
+        1,
+        1,
+        4,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "很",
@@ -515,7 +749,15 @@
       "audioFileName": null,
       "exampleSentence": "I am very happy today.",
       "exampleSentenceChinese": "我今天很高兴。",
-      "exampleSentenceDevanagari": "वो जिन थिआन हेन गाओ शिङ"
+      "exampleSentenceDevanagari": "वो जिन थिआन हेन गाओ शिङ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        1,
+        3,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "太",
@@ -531,7 +773,13 @@
       "audioFileName": null,
       "exampleSentence": "This is great!",
       "exampleSentenceChinese": "这太好了！",
-      "exampleSentenceDevanagari": "झे थाइ हाओ ले"
+      "exampleSentenceDevanagari": "झे थाइ हाओ ले",
+      "exampleSentenceTones": [
+        4,
+        4,
+        3,
+        5
+      ]
     },
     {
       "chineseCharacter": "都",
@@ -547,7 +795,17 @@
       "audioFileName": null,
       "exampleSentence": "We all like Chinese food.",
       "exampleSentenceChinese": "我们都喜欢中国菜。",
-      "exampleSentenceDevanagari": "वो मेन दोउ शि हुआन झोङ गुओ छाइ"
+      "exampleSentenceDevanagari": "वो मेन दोउ शि हुआन झोङ गुओ छाइ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        1,
+        3,
+        1,
+        1,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "不",
@@ -563,7 +821,16 @@
       "audioFileName": null,
       "exampleSentence": "I am not going to school today.",
       "exampleSentenceChinese": "我今天不去学校。",
-      "exampleSentenceDevanagari": "वो जिन थिआन बु चु शुए शिआओ"
+      "exampleSentenceDevanagari": "वो जिन थिआन बु चु शुए शिआओ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        1,
+        2,
+        4,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "没有",
@@ -580,7 +847,16 @@
       "audioFileName": null,
       "exampleSentence": "I do not have time today.",
       "exampleSentenceChinese": "我今天没有时间。",
-      "exampleSentenceDevanagari": "वो जिन थिआन मेइ योउ शि जिआन"
+      "exampleSentenceDevanagari": "वो जिन थिआन मेइ योउ शि जिआन",
+      "exampleSentenceTones": [
+        3,
+        1,
+        1,
+        2,
+        3,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "是",
@@ -596,7 +872,15 @@
       "audioFileName": null,
       "exampleSentence": "He is my friend.",
       "exampleSentenceChinese": "他是我的朋友。",
-      "exampleSentenceDevanagari": "था शि वो दे फेङ योउ"
+      "exampleSentenceDevanagari": "था शि वो दे फेङ योउ",
+      "exampleSentenceTones": [
+        1,
+        4,
+        3,
+        5,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "有",
@@ -612,7 +896,14 @@
       "audioFileName": null,
       "exampleSentence": "I have three books.",
       "exampleSentenceChinese": "我有三本书。",
-      "exampleSentenceDevanagari": "वो योउ सान बेन शु"
+      "exampleSentenceDevanagari": "वो योउ सान बेन शु",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "在",
@@ -628,7 +919,14 @@
       "audioFileName": null,
       "exampleSentence": "Teacher is at school.",
       "exampleSentenceChinese": "老师在学校。",
-      "exampleSentenceDevanagari": "लाओ शि जाइ शुए शिआओ"
+      "exampleSentenceDevanagari": "लाओ शि जाइ शुए शिआओ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        2,
+        4
+      ]
     },
     {
       "chineseCharacter": "去",
@@ -644,7 +942,16 @@
       "audioFileName": null,
       "exampleSentence": "We are going to Beijing tomorrow.",
       "exampleSentenceChinese": "我们明天去北京。",
-      "exampleSentenceDevanagari": "वो मेन मिङ थिआन चु बेइ जिङ"
+      "exampleSentenceDevanagari": "वो मेन मिङ थिआन चु बेइ जिङ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        2,
+        1,
+        4,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "来",
@@ -660,7 +967,14 @@
       "audioFileName": null,
       "exampleSentence": "Welcome to my home!",
       "exampleSentenceChinese": "欢迎来我家！",
-      "exampleSentenceDevanagari": "हुआन यिङ लाइ वो जिआ"
+      "exampleSentenceDevanagari": "हुआन यिङ लाइ वो जिआ",
+      "exampleSentenceTones": [
+        1,
+        2,
+        2,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "看",
@@ -676,7 +990,15 @@
       "audioFileName": null,
       "exampleSentence": "I like watching movies.",
       "exampleSentenceChinese": "我喜欢看电影。",
-      "exampleSentenceDevanagari": "वो शि हुआन खान दिआन यिङ"
+      "exampleSentenceDevanagari": "वो शि हुआन खान दिआन यिङ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        4,
+        4,
+        3
+      ]
     },
     {
       "chineseCharacter": "听",
@@ -692,7 +1014,16 @@
       "audioFileName": null,
       "exampleSentence": "Listen to the teacher carefully.",
       "exampleSentenceChinese": "请认真听老师说。",
-      "exampleSentenceDevanagari": "चिङ रेन झेन थिङ लाओ शि शुओ"
+      "exampleSentenceDevanagari": "चिङ रेन झेन थिङ लाओ शि शुओ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        1,
+        1,
+        3,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "说",
@@ -708,7 +1039,15 @@
       "audioFileName": null,
       "exampleSentence": "He speaks Chinese very well.",
       "exampleSentenceChinese": "他说中文很好。",
-      "exampleSentenceDevanagari": "था शुओ झोङ वेन हेन हाओ"
+      "exampleSentenceDevanagari": "था शुओ झोङ वेन हेन हाओ",
+      "exampleSentenceTones": [
+        1,
+        1,
+        1,
+        2,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "读",
@@ -724,7 +1063,15 @@
       "audioFileName": null,
       "exampleSentence": "Please read this sentence aloud.",
       "exampleSentenceChinese": "请读这个句子。",
-      "exampleSentenceDevanagari": "चिङ दु झे गे जु जि"
+      "exampleSentenceDevanagari": "चिङ दु झे गे जु जि",
+      "exampleSentenceTones": [
+        3,
+        2,
+        4,
+        5,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "写",
@@ -740,7 +1087,16 @@
       "audioFileName": null,
       "exampleSentence": "I am learning to write Chinese characters.",
       "exampleSentenceChinese": "我在学习写汉字。",
-      "exampleSentenceDevanagari": "वो जाइ शुए शि शिए हान जि"
+      "exampleSentenceDevanagari": "वो जाइ शुए शि शिए हान जि",
+      "exampleSentenceTones": [
+        3,
+        4,
+        2,
+        2,
+        3,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "吃",
@@ -756,7 +1112,14 @@
       "audioFileName": null,
       "exampleSentence": "What would you like to eat?",
       "exampleSentenceChinese": "你想吃什么？",
-      "exampleSentenceDevanagari": "नि शिआङ छि शेन मे"
+      "exampleSentenceDevanagari": "नि शिआङ छि शेन मे",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "喝",
@@ -772,7 +1135,14 @@
       "audioFileName": null,
       "exampleSentence": "I want to drink warm water.",
       "exampleSentenceChinese": "我想喝温水。",
-      "exampleSentenceDevanagari": "वो शिआङ हे वेन शुइ"
+      "exampleSentenceDevanagari": "वो शिआङ हे वेन शुइ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "买",
@@ -788,7 +1158,16 @@
       "audioFileName": null,
       "exampleSentence": "I want to buy some fruit.",
       "exampleSentenceChinese": "我想买一些水果。",
-      "exampleSentenceDevanagari": "वो शिआङ माइ यि शिए शुइ गुओ"
+      "exampleSentenceDevanagari": "वो शिआङ माइ यि शिए शुइ गुओ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        3,
+        4,
+        1,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "开",
@@ -804,7 +1183,14 @@
       "audioFileName": null,
       "exampleSentence": "He knows how to drive a car.",
       "exampleSentenceChinese": "他会开汽车。",
-      "exampleSentenceDevanagari": "था हुइ खाइ चि छ"
+      "exampleSentenceDevanagari": "था हुइ खाइ चि छ",
+      "exampleSentenceTones": [
+        1,
+        4,
+        1,
+        4,
+        1
+      ]
     },
     {
       "chineseCharacter": "坐",
@@ -820,7 +1206,17 @@
       "audioFileName": null,
       "exampleSentence": "We take the airplane to Beijing.",
       "exampleSentenceChinese": "我们坐飞机去北京。",
-      "exampleSentenceDevanagari": "वो मेन जुओ फेइ जि चु बेइ जिङ"
+      "exampleSentenceDevanagari": "वो मेन जुओ फेइ जि चु बेइ जिङ",
+      "exampleSentenceTones": [
+        3,
+        5,
+        4,
+        1,
+        1,
+        4,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "住",
@@ -836,7 +1232,14 @@
       "audioFileName": null,
       "exampleSentence": "Where do you live?",
       "exampleSentenceChinese": "你住在哪里？",
-      "exampleSentenceDevanagari": "नि झु जाइ ना लि"
+      "exampleSentenceDevanagari": "नि झु जाइ ना लि",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        3,
+        3
+      ]
     },
     {
       "chineseCharacter": "叫",
@@ -852,7 +1255,13 @@
       "audioFileName": null,
       "exampleSentence": "My name is Wang Ming.",
       "exampleSentenceChinese": "我叫王明。",
-      "exampleSentenceDevanagari": "वो जिआओ वाङ मिङ"
+      "exampleSentenceDevanagari": "वो जिआओ वाङ मिङ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        2,
+        2
+      ]
     },
     {
       "chineseCharacter": "认识",
@@ -869,7 +1278,15 @@
       "audioFileName": null,
       "exampleSentence": "Nice to meet you.",
       "exampleSentenceChinese": "认识你很高兴。",
-      "exampleSentenceDevanagari": "रेन शि नि हेन गाओ शिङ"
+      "exampleSentenceDevanagari": "रेन शि नि हेन गाओ शिङ",
+      "exampleSentenceTones": [
+        4,
+        5,
+        3,
+        3,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "学习",
@@ -886,7 +1303,16 @@
       "audioFileName": null,
       "exampleSentence": "I am studying Chinese every day.",
       "exampleSentenceChinese": "我每天学习中文。",
-      "exampleSentenceDevanagari": "वो मेइ थिआन शुए शि झोङ वेन"
+      "exampleSentenceDevanagari": "वो मेइ थिआन शुए शि झोङ वेन",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        2,
+        2,
+        1,
+        2
+      ]
     },
     {
       "chineseCharacter": "工作",
@@ -903,7 +1329,15 @@
       "audioFileName": null,
       "exampleSentence": "He works at a hospital.",
       "exampleSentenceChinese": "他在医院工作。",
-      "exampleSentenceDevanagari": "था जाइ यि युआन गोङ जुओ"
+      "exampleSentenceDevanagari": "था जाइ यि युआन गोङ जुओ",
+      "exampleSentenceTones": [
+        1,
+        4,
+        1,
+        4,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "想",
@@ -919,7 +1353,15 @@
       "audioFileName": null,
       "exampleSentence": "I want to go home now.",
       "exampleSentenceChinese": "我现在想回家。",
-      "exampleSentenceDevanagari": "वो शिआन जाइ शिआङ हुइ जिआ"
+      "exampleSentenceDevanagari": "वो शिआन जाइ शिआङ हुइ जिआ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        3,
+        2,
+        1
+      ]
     },
     {
       "chineseCharacter": "会",
@@ -935,7 +1377,16 @@
       "audioFileName": null,
       "exampleSentence": "I can speak a little Chinese.",
       "exampleSentenceChinese": "我会说一点中文。",
-      "exampleSentenceDevanagari": "वो हुइ शुओ यि दिआन झोङ वेन"
+      "exampleSentenceDevanagari": "वो हुइ शुओ यि दिआन झोङ वेन",
+      "exampleSentenceTones": [
+        3,
+        4,
+        1,
+        4,
+        3,
+        1,
+        2
+      ]
     },
     {
       "chineseCharacter": "能",
@@ -951,7 +1402,15 @@
       "audioFileName": null,
       "exampleSentence": "Can you come tomorrow?",
       "exampleSentenceChinese": "你明天能来吗？",
-      "exampleSentenceDevanagari": "नि मिङ थिआन नेङ लाइ मा"
+      "exampleSentenceDevanagari": "नि मिङ थिआन नेङ लाइ मा",
+      "exampleSentenceTones": [
+        3,
+        2,
+        1,
+        2,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "喜欢",
@@ -968,7 +1427,16 @@
       "audioFileName": null,
       "exampleSentence": "I like drinking Chinese tea.",
       "exampleSentenceChinese": "我喜欢喝中国茶。",
-      "exampleSentenceDevanagari": "वो शि हुआन हे झोङ गुओ छा"
+      "exampleSentenceDevanagari": "वो शि हुआन हे झोङ गुओ छा",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        1,
+        1,
+        2,
+        2
+      ]
     },
     {
       "chineseCharacter": "爱",
@@ -984,7 +1452,14 @@
       "audioFileName": null,
       "exampleSentence": "I love my family.",
       "exampleSentenceChinese": "我爱我的家。",
-      "exampleSentenceDevanagari": "वो आइ वो दे जिआ"
+      "exampleSentenceDevanagari": "वो आइ वो दे जिआ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        3,
+        5,
+        1
+      ]
     },
     {
       "chineseCharacter": "人",
@@ -1000,7 +1475,15 @@
       "audioFileName": null,
       "exampleSentence": "There are five people here.",
       "exampleSentenceChinese": "这里有五个人。",
-      "exampleSentenceDevanagari": "झे लि योउ वु गे रेन"
+      "exampleSentenceDevanagari": "झे लि योउ वु गे रेन",
+      "exampleSentenceTones": [
+        4,
+        3,
+        3,
+        3,
+        5,
+        2
+      ]
     },
     {
       "chineseCharacter": "名字",
@@ -1017,7 +1500,16 @@
       "audioFileName": null,
       "exampleSentence": "His name is very easy to remember.",
       "exampleSentenceChinese": "他的名字很好记。",
-      "exampleSentenceDevanagari": "था दे मिङ जि हेन हाओ जि"
+      "exampleSentenceDevanagari": "था दे मिङ जि हेन हाओ जि",
+      "exampleSentenceTones": [
+        1,
+        5,
+        2,
+        5,
+        3,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "朋友",
@@ -1034,7 +1526,16 @@
       "audioFileName": null,
       "exampleSentence": "He is my good friend.",
       "exampleSentenceChinese": "他是我的好朋友。",
-      "exampleSentenceDevanagari": "था शि वो दे हाओ फेङ योउ"
+      "exampleSentenceDevanagari": "था शि वो दे हाओ फेङ योउ",
+      "exampleSentenceTones": [
+        1,
+        4,
+        3,
+        5,
+        3,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "老师",
@@ -1051,7 +1552,15 @@
       "audioFileName": null,
       "exampleSentence": "Teacher is writing Chinese characters on the board.",
       "exampleSentenceChinese": "老师在写汉字。",
-      "exampleSentenceDevanagari": "लाओ शि जाइ शिए हान जि"
+      "exampleSentenceDevanagari": "लाओ शि जाइ शिए हान जि",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        3,
+        4,
+        4
+      ]
     },
     {
       "chineseCharacter": "学生",
@@ -1068,7 +1577,15 @@
       "audioFileName": null,
       "exampleSentence": "They are university students.",
       "exampleSentenceChinese": "他们是大学生。",
-      "exampleSentenceDevanagari": "था मेन शि दा शुए शेङ"
+      "exampleSentenceDevanagari": "था मेन शि दा शुए शेङ",
+      "exampleSentenceTones": [
+        1,
+        5,
+        4,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "医生",
@@ -1085,7 +1602,15 @@
       "audioFileName": null,
       "exampleSentence": "My father is a doctor.",
       "exampleSentenceChinese": "我爸爸是医生。",
-      "exampleSentenceDevanagari": "वो बा बा शि यि शेङ"
+      "exampleSentenceDevanagari": "वो बा बा शि यि शेङ",
+      "exampleSentenceTones": [
+        3,
+        4,
+        5,
+        4,
+        1,
+        1
+      ]
     },
     {
       "chineseCharacter": "爸爸",
@@ -1102,7 +1627,16 @@
       "audioFileName": null,
       "exampleSentence": "Dad goes to work every morning.",
       "exampleSentenceChinese": "爸爸每天去工作。",
-      "exampleSentenceDevanagari": "बा बा मेइ थिआन चु गोङ जुओ"
+      "exampleSentenceDevanagari": "बा बा मेइ थिआन चु गोङ जुओ",
+      "exampleSentenceTones": [
+        4,
+        5,
+        3,
+        1,
+        4,
+        1,
+        4
+      ]
     },
     {
       "chineseCharacter": "妈妈",
@@ -1119,7 +1653,16 @@
       "audioFileName": null,
       "exampleSentence": "Mom cooks delicious meals.",
       "exampleSentenceChinese": "妈妈做饭很好吃。",
-      "exampleSentenceDevanagari": "मा मा जुओ फान हेन हाओ छि"
+      "exampleSentenceDevanagari": "मा मा जुओ फान हेन हाओ छि",
+      "exampleSentenceTones": [
+        1,
+        5,
+        4,
+        4,
+        3,
+        3,
+        1
+      ]
     },
     {
       "chineseCharacter": "儿子",
@@ -1136,7 +1679,16 @@
       "audioFileName": null,
       "exampleSentence": "His son is eight years old.",
       "exampleSentenceChinese": "他的儿子八岁了。",
-      "exampleSentenceDevanagari": "था दे अर जि बा सुइ ले"
+      "exampleSentenceDevanagari": "था दे अर जि बा सुइ ले",
+      "exampleSentenceTones": [
+        1,
+        5,
+        2,
+        5,
+        1,
+        4,
+        5
+      ]
     },
     {
       "chineseCharacter": "女儿",
@@ -1153,7 +1705,16 @@
       "audioFileName": null,
       "exampleSentence": "Her daughter is a student.",
       "exampleSentenceChinese": "她的女儿是学生。",
-      "exampleSentenceDevanagari": "था दे न्यु अर शि शुए शेङ"
+      "exampleSentenceDevanagari": "था दे न्यु अर शि शुए शेङ",
+      "exampleSentenceTones": [
+        1,
+        5,
+        3,
+        2,
+        4,
+        2,
+        5
+      ]
     },
     {
       "chineseCharacter": "钱",
@@ -1169,7 +1730,14 @@
       "audioFileName": null,
       "exampleSentence": "How much money is this altogether?",
       "exampleSentenceChinese": "这共多少钱？",
-      "exampleSentenceDevanagari": "झे गोङ दुओ शाओ चिआन"
+      "exampleSentenceDevanagari": "झे गोङ दुओ शाओ चिआन",
+      "exampleSentenceTones": [
+        4,
+        4,
+        1,
+        5,
+        2
+      ]
     },
     {
       "chineseCharacter": "水",
@@ -1185,7 +1753,14 @@
       "audioFileName": null,
       "exampleSentence": "Please drink a glass of water.",
       "exampleSentenceChinese": "请喝一杯水。",
-      "exampleSentenceDevanagari": "चिङ हे यि बेइ शुइ"
+      "exampleSentenceDevanagari": "चिङ हे यि बेइ शुइ",
+      "exampleSentenceTones": [
+        3,
+        1,
+        4,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "茶",
@@ -1201,7 +1776,17 @@
       "audioFileName": null,
       "exampleSentence": "Do you want to drink tea or water?",
       "exampleSentenceChinese": "你想喝茶还是喝水？",
-      "exampleSentenceDevanagari": "नि शिआङ हे छा हाइ शि हे शुइ"
+      "exampleSentenceDevanagari": "नि शिआङ हे छा हाइ शि हे शुइ",
+      "exampleSentenceTones": [
+        3,
+        3,
+        1,
+        2,
+        2,
+        4,
+        1,
+        3
+      ]
     },
     {
       "chineseCharacter": "米饭",
@@ -1218,7 +1803,15 @@
       "audioFileName": null,
       "exampleSentence": "I want a bowl of cooked rice.",
       "exampleSentenceChinese": "我要一碗米饭。",
-      "exampleSentenceDevanagari": "वो याओ यि वान मि फान"
+      "exampleSentenceDevanagari": "वो याओ यि वान मि फान",
+      "exampleSentenceTones": [
+        3,
+        4,
+        4,
+        3,
+        3,
+        4
+      ]
     },
     {
       "chineseCharacter": "苹果",
@@ -1235,7 +1828,15 @@
       "audioFileName": null,
       "exampleSentence": "This apple is very sweet.",
       "exampleSentenceChinese": "这个苹果很甜。",
-      "exampleSentenceDevanagari": "झे गे पिङ गुओ हेन थिआन"
+      "exampleSentenceDevanagari": "झे गे पिङ गुओ हेन थिआन",
+      "exampleSentenceTones": [
+        4,
+        5,
+        2,
+        3,
+        3,
+        2
+      ]
     }
   ]
 }
